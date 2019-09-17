@@ -1,0 +1,177 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>INTM</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>INTM</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        
+
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Resumos expandidos publicados em anais de congressos'}, 
+series: [{data: [[2015,
+2],
+[2017,
+9],
+[2018,
+1]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Resumos expandidos publicados em anais de congressos</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 12<br>
+                    
+                    
+                    <div id="dv-year-2018"><h3 class="year">2018</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>ARAUJO, W. D. ; DA SILVA, RAFAEL G.C. ; VIEIRA, M.R.S ; URTIGA FILHO, SEVERINO LEOPOLDINO. <b>Fabricação e avaliação da propriedade de autolimpeza de revestimentos super-hidrofóbicos desenvolvidos em liga de alumínio 5052</b>. Em: VI Encontro da Rede de Cooperação em Pesquisa, Desenvolvimento e Inovação em Materiais e Equipamentos para o setor industrial Brasileiro, 2018, João Pessoa/PB. VI Encontro Rede PDIMat, 2018. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Fabricação+e+avaliação+da+propriedade+de+autolimpeza+de+revestimentos+super-hidrofóbicos+desenvolvidos+em+liga+de+alumínio+5052&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Fabricação+e+avaliação+da+propriedade+de+autolimpeza+de+revestimentos+super-hidrofóbicos+desenvolvidos+em+liga+de+alumínio+5052">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Fabricação+e+avaliação+da+propriedade+de+autolimpeza+de+revestimentos+super-hidrofóbicos+desenvolvidos+em+liga+de+alumínio+5052">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Araújo, E.R. ; Gonzalez, C. H. ; ARAÚJO FILHO, OSCAR OLIMPIO ; SILVA, T. T. L.. <b>Estudo do Aumento de Dureza se Uma Liga de Alumínio com 5,5% de Cobre Produzida Via Metalurgia do Pó</b>. Em: II Mostra de Engenharia de Materiais da UFPE, 2017, Recife. II Mostra de Engenharia de Materiais da UFPE. Recife: Editora UFPE, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Estudo+do+Aumento+de+Dureza+se+Uma+Liga+de+Alumínio+com+5,5%+de+Cobre+Produzida+Via+Metalurgia+do+Pó&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Estudo+do+Aumento+de+Dureza+se+Uma+Liga+de+Alumínio+com+5,5%+de+Cobre+Produzida+Via+Metalurgia+do+Pó">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Estudo+do+Aumento+de+Dureza+se+Uma+Liga+de+Alumínio+com+5,5%+de+Cobre+Produzida+Via+Metalurgia+do+Pó">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>BELLANI, C. F. ; Morelli, Carolina L. ; KHADEMHOSSEINI, A. ; BRANCIFORTI, MÁRCIA C.. <b>HIDROGÉIS DE GELATINA METACRILATO INCORPORADOS COM NANOCRISTAIS DE CELULOSE PARA BIOFABRICAÇÃO 3D</b>. Em: 14º Congresso Brasileiro de Polímeros, 2017, Águas de Lindóia - SP. 14º Congresso Brasileiro de Polímeros, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=HIDROGÉIS+DE+GELATINA+METACRILATO+INCORPORADOS+COM+NANOCRISTAIS+DE+CELULOSE+PARA+BIOFABRICAÇÃO+3D&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=HIDROGÉIS+DE+GELATINA+METACRILATO+INCORPORADOS+COM+NANOCRISTAIS+DE+CELULOSE+PARA+BIOFABRICAÇÃO+3D">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=HIDROGÉIS+DE+GELATINA+METACRILATO+INCORPORADOS+COM+NANOCRISTAIS+DE+CELULOSE+PARA+BIOFABRICAÇÃO+3D">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>FONSECA, J. D. S. ; Joanna Elzbieta Kulesza ; Barros, B. S. ; MONTEIRO, A. F. F.. <b>Síntese eletroquímica da MOF Cu-BDC e seu potencial como carreador de fármaco</b>. Em: II Mostra de Engenharia de Materiais da UFPE, 2018, Recife. Anais da II Mostra de Engenharia de Materiais da UFPE. Recife: Even3, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Síntese+eletroquímica+da+MOF+Cu-BDC+e+seu+potencial+como+carreador+de+fármaco&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Síntese+eletroquímica+da+MOF+Cu-BDC+e+seu+potencial+como+carreador+de+fármaco">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Síntese+eletroquímica+da+MOF+Cu-BDC+e+seu+potencial+como+carreador+de+fármaco">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>FRANCA, T. S. ; DA SILVA, F.J.. <b>Caracterização do desgaste e mecanismos de desgaste em pastilhas de freios utilizadas por veículos Mini Baja SAE em campo</b>. Em: II Mostra de Engenharia de Materiais da UFPE, 2017, Recife. II Mostra de Engenharia de Materiais da UFPE, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Caracterização+do+desgaste+e+mecanismos+de+desgaste+em+pastilhas+de+freios+utilizadas+por+veículos+Mini+Baja+SAE+em+campo&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Caracterização+do+desgaste+e+mecanismos+de+desgaste+em+pastilhas+de+freios+utilizadas+por+veículos+Mini+Baja+SAE+em+campo">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Caracterização+do+desgaste+e+mecanismos+de+desgaste+em+pastilhas+de+freios+utilizadas+por+veículos+Mini+Baja+SAE+em+campo">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>MOREIRA, C. V. C. ; BARROS, B.S.. <b>Redes metalorgânicas à base de titânio (Ti-MOFs): um desafio inovador</b>. Em: II Mostra de Engenharia de Materiais da UFPE, 2017, Recife. Anais da II Mostra de Engenharia de Materiais da UFPE,. Recife, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Redes+metalorgânicas+à+base+de+titânio+(Ti-MOFs):+um+desafio+inovador&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Redes+metalorgânicas+à+base+de+titânio+(Ti-MOFs):+um+desafio+inovador">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Redes+metalorgânicas+à+base+de+titânio+(Ti-MOFs):+um+desafio+inovador">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>NASCIMENTO, J. F. S. ; LINS, I. M. S. ; OLIVEIRA, M. A. ; Barros, B S ; Kulesza, J.. <b>Luminescence processes in lower-rim substituted calix[4]arene-based hubrid materials</b>. Em: 18th International Conference on Luminescence - ICL, 2017, João Pessoa. Program Book of ICL 2017, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Luminescence+processes+in+lower-rim+substituted+calix[4]arene-based+hubrid+materials&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Luminescence+processes+in+lower-rim+substituted+calix[4]arene-based+hubrid+materials">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Luminescence+processes+in+lower-rim+substituted+calix[4]arene-based+hubrid+materials">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>NASCIMENTO, J. F. S. ; OLIVEIRA, J. B. L. ; KULESZA, JOANNA ; ALVES JÚNIOR, Severino ; Barros, B S. <b>Gd-MOFs doped with Eu3+: synthesis, structure and photophysical properties</b>. Em: 18th International Conference on Luminescence, 2017, João Pessoa. Program Bookf of ICL 2017, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Gd-MOFs+doped+with+Eu3+:+synthesis,+structure+and+photophysical+properties&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Gd-MOFs+doped+with+Eu3+:+synthesis,+structure+and+photophysical+properties">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Gd-MOFs+doped+with+Eu3+:+synthesis,+structure+and+photophysical+properties">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>8. &nbsp;</td> <td>OLIVEIRA, M. A. ; Joanna Elzbieta Kulesza ; FROS., A. C. O. ; Barros, B. S.. <b>Síntese e caracterização de polímero de coordenação à base de calix[4]areno modificado e sua utilização na adsorção de BTEX</b>. Em: II Mostra de Engenharia de Materiais da UFPE, 2018, Recife. Anais da II Mostra de Engenharia de Materiais da UFPE.. Recife: Even3, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Síntese+e+caracterização+de+polímero+de+coordenação+à+base+de+calix[4]areno+modificado+e+sua+utilização+na+adsorção+de+BTEX&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Síntese+e+caracterização+de+polímero+de+coordenação+à+base+de+calix[4]areno+modificado+e+sua+utilização+na+adsorção+de+BTEX">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Síntese+e+caracterização+de+polímero+de+coordenação+à+base+de+calix[4]areno+modificado+e+sua+utilização+na+adsorção+de+BTEX">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>9. &nbsp;</td> <td>SANTOS, M. V. ; DA SILVA, F.J.. <b>Abrasão dos aços AISI D2 e H13 em um abrasômetro do tipo roda de borracha configuração vertical com areia da areia NBR 7412 N100</b>. Em: II Mostra de Engenharia de Materiais da UFPE, 2017, Recife. II Mostra de Engenharia de Materiais da UFPE, 2017. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Abrasão+dos+aços+AISI+D2+e+H13+em+um+abrasômetro+do+tipo+roda+de+borracha+configuração+vertical+com+areia+da+areia+NBR+7412+N100&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Abrasão+dos+aços+AISI+D2+e+H13+em+um+abrasômetro+do+tipo+roda+de+borracha+configuração+vertical+com+areia+da+areia+NBR+7412+N100">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Abrasão+dos+aços+AISI+D2+e+H13+em+um+abrasômetro+do+tipo+roda+de+borracha+configuração+vertical+com+areia+da+areia+NBR+7412+N100">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2015"><h3 class="year">2015</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>FERREIRA, F. G. D. ; Oliveira S. H. ; SILVA, P. ; Andrade Lima M. A. G ; URTIGA FILHO, S. L.. <b>Degradation of carbon steel AISI 1020 coupons immersed in blends containing 90% Diesel B6 and 10% Seawater, and 90% Diesel B30 and 10% Seawater</b>. Em: VI International Conference on Environmental, Industrial and Applied Microbiology - BioMicroWorld2015, 2015, Barcelona. Proceedings of the VI International Conference on Environmental, Industrial and Applied Microbiology - BioMicroWorld 2015, v. Unico, p. 1-3, 2015. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Degradation+of+carbon+steel+AISI+1020+coupons+immersed+in+blends+containing+90%+Diesel+B6+and+10%+Seawater,+and+90%+Diesel+B30+and+10%+Seawater&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Degradation+of+carbon+steel+AISI+1020+coupons+immersed+in+blends+containing+90%+Diesel+B6+and+10%+Seawater,+and+90%+Diesel+B30+and+10%+Seawater">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Degradation+of+carbon+steel+AISI+1020+coupons+immersed+in+blends+containing+90%+Diesel+B6+and+10%+Seawater,+and+90%+Diesel+B30+and+10%+Seawater">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Juan C. M. Llamas ; GUAJARDO, A. E. C. ; MAQUEIRA, L. E. ; ALCARAZ-ESPINOZA, J. J. ; ARAÚJO, TIAGO L. ; VINHAS, G. M. ; RODRIGUES, A. R. ; ALVES, K. G. B ; de MELO, C. P.. <b>Magnetic and Fluorescent Polystyrene/tetraphenylporphyrin/maghemite nanocomposites for the photoinactivation of pathogenic bacteria</b>. Em: XIV Brazilian MRS Meeting, 2015, Rio de Janeiro. XIV Brazilian MRS Meeting, 2015. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Magnetic+and+Fluorescent+Polystyrene/tetraphenylporphyrin/maghemite+nanocomposites+for+the+photoinactivation+of+pathogenic+bacteria&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Magnetic+and+Fluorescent+Polystyrene/tetraphenylporphyrin/maghemite+nanocomposites+for+the+photoinactivation+of+pathogenic+bacteria">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Magnetic+and+Fluorescent+Polystyrene/tetraphenylporphyrin/maghemite+nanocomposites+for+the+photoinactivation+of+pathogenic+bacteria">busca Google</a> ]          </font><br></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2015 até HOJE
+<br>Data de processamento: 17/09/2019 18:30:28<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:tiago.felipe@ufpe.br">tiago.felipe@ufpe.br</a>         </div> </body></html>
+              

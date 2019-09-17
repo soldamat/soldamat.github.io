@@ -1,0 +1,191 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>INTM</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>INTM</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        
+
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Total de organização de eventos'}, 
+series: [{data: [[2016,
+1],
+[2017,
+2]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Total de organização de eventos</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 20<br>
+                    
+                    
+                    <div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>BOUCHONNEAU, N. ; OLIVEIRA, A. H. S.. <b>XIII FORUM BRAFITEC</b>. 2017. Outro</td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>VIEIRA, M. R. S. ; OLIVEIRA, C. A. N. ; BARROS, B.S.. <b>II Mostra de Engenharia de Materiais da UFPE</b>. 2017. Outro</td></tr>
+            </table></div><div id="dv-year-2016"><h3 class="year">2016</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>VIEIRA, M.R.S; SANTOS, T. F. A.. <b>I MEMU - I MOSTRA DE ENGENHARIA DE MATERIAIS DA UFPE</b>. 2016. Congresso</td></tr>
+            </table></div><div id="dv-year-*itens sem ano"><h3 class="year">*itens sem ano</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>ALVES, K. G. B. XIV Latin American Symposium on Polymers and XII Ibero American Congress on Polymers. 2014. (Congresso).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>BARROS, B. S.. III CECEMM - Congresso de Estudantes de Ciência e Engenharia de Materiais do Mercosul. 2001. (Congresso).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Barros, B.S.. 1a. Oficina de Novos Materiais da UFRN: Materiais Particulados e Nanotecnologia. 2011. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Barros, B.S.. I Workshop Internacional de Engenharia de Materiais. 2014. (Congresso).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Carolina Lipparelli Morelli. 4ª Semana de Engenharia de Materiais (4ª SEMAT) da Unifei-Itabira. 2017. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>Carolina Lipparelli Morelli. Evento cultural - Mestres da Cultura Popular. 2018. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>Carolina Lipparelli Morelli. Exposição "Sá Maria - a babá de Drummond" seguida de roda de conversa. 2018. (Exposição).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>8. &nbsp;</td> <td>Carolina Lipparelli Morelli. II Congresso de Pesquisa, Extensão e Ensino da UNIFEI-Itabira. 2017. (Congresso).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>9. &nbsp;</td> <td>Carolina Lipparelli Morelli. Mesa redonda: A mulher na sociedade. 2018. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>10. &nbsp;</td> <td>Carolina Lipparelli Morelli. Mesa redonda: A organização popular como poder transformador. 2018. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>11. &nbsp;</td> <td>Carolina Lipparelli Morelli. Mesa redonda: Consciência tem cor?. 2018. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>12. &nbsp;</td> <td>Carolina Lipparelli Morelli. Polymer Processing Society Americas Regional Meeting (PPS). 2004. (Congresso).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>13. &nbsp;</td> <td>Carolina Lipparelli Morelli. Vivências de capoeira. 2018. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>14. &nbsp;</td> <td>Carolina Lipparelli Morelli. XX Congresso dos Estudantes de Ciência e Engenharia de Materiais do Mercosul (XX CECEMM). 2018. (Congresso).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>15. &nbsp;</td> <td>Morelli, Carolina Lipparelli. Escola de Férias de Engenharia de Materiais (EFEM) para Alunos e Professores do Ensino Médio. 2005. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>16. &nbsp;</td> <td>VIEIRA, Magda. R. S.. II Encontro de Formação em Ensino de Ciências do PIBID - Química/UFPE. 2015. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>17. &nbsp;</td> <td>VIEIRA, Magda. R. S.. Semana Tecnológica do CTG. 2011. (Outro).. <b></b>. 0. </td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2015 até HOJE
+<br>Data de processamento: 17/09/2019 18:30:28<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:tiago.felipe@ufpe.br">tiago.felipe@ufpe.br</a>         </div> </body></html>
+              

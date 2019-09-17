@@ -1,0 +1,193 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>INTM</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>INTM</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        
+
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Orientações de outra natureza'}, 
+series: [{data: [[2015,
+3],
+[2016,
+5],
+[2017,
+6],
+[2018,
+3],
+[2019,
+1]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Orientações de outra natureza</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 18<br>
+                    
+                    
+                    <div id="dv-year-2019"><h3 class="year">2019</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>SERGIO PAULO DA SILVA MARINHO. <b>Monitoria em Química Geral 2</b>. (Física) - Universidade Federal de Pernambuco, Pró-Reitoria para Assuntos Acadêmicos (Proacad) - UFPE. 2019.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/1568423340359601">Joanna Elzbieta Kulesza</a>.</font></td></tr>
+            </table></div><div id="dv-year-2018"><h3 class="year">2018</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Felipe Mendes de Holanda Lins. <b>Modelização e simulação computacional do comportamento de quebra-mares</b>. (Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5210533486699425">Nadège Sophie Bouchonneau da Silva</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>José Daniel da Silva Fonseca. <b>Monitoria em Química Inorgânica 11</b>. (Química) - Universidade Federal de Pernambuco, . 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/1568423340359601">Joanna Elzbieta Kulesza</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Mathis Michelet. <b>Study and simulation of the fatigue behavior of automotive components</b>. (Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5210533486699425">Nadège Sophie Bouchonneau da Silva</a>.</font></td></tr>
+            </table></div><div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>André Lopes Marinho. <b>Definição de parâmetros de anodização para liga de Alumínio 5052</b>. (Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5295831751697130">Magda Rosângela Santos Vieira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Larissa Agostinho de Santa Cruz Oliveira. <b>Estágio curricular em Engenharia de Materiais</b>. (Engenharia de Materiais) - Universidade Federal de Pernambuco, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Luis Henrique Rodrigues Apolinario. <b>Estágio curricular em Engenharia Mecânica</b>. (Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Saad Nagi. <b>Finite Element modelling of a connecting rod</b>. (Engenharia Mecânica) - École Nationale Supérieure de Techniques Avancées Bretagne, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5210533486699425">Nadège Sophie Bouchonneau da Silva</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Wandemberg Silva dos Santos. <b>Monitoria - Química Geral 2</b>. (Física) - Universidade Federal de Pernambuco, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/1568423340359601">Joanna Elzbieta Kulesza</a>.</font></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>Wesley Marques Gonçalves. <b>Monitoria - Química Geral 2</b>. (Engenharia Química) - Universidade Federal de Pernambuco, Pró-Reitoria para Assuntos Acadêmicos (Proacad) - UFPE. 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/1568423340359601">Joanna Elzbieta Kulesza</a>.</font></td></tr>
+            </table></div><div id="dv-year-2016"><h3 class="year">2016</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Carlos Henrique da Silva. <b>Estágio Curricular Obrigatório</b>. (Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5295831751697130">Magda Rosângela Santos Vieira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Demetrius Renato de Castro Silva. <b>Monitoria - Química Geral 2</b>. Orientação de outra natureza - Universidade Federal de Pernambuco, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/1568423340359601">Joanna Elzbieta Kulesza</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Gustavo Pedro de Carvalho Lacerda. <b>Estágio Curricular Obrigatório</b>. (Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5295831751697130">Magda Rosângela Santos Vieira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>José Gustavo da Silva. <b>Monitoria - Química Geral 2</b>. Orientação de outra natureza - Universidade Federal de Pernambuco, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/1568423340359601">Joanna Elzbieta Kulesza</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Karoline de Sousa Felix. <b>Monitoria - Química Geral 2</b>. Orientação de outra natureza - Universidade Federal de Pernambuco, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/1568423340359601">Joanna Elzbieta Kulesza</a>.</font></td></tr>
+            </table></div><div id="dv-year-2015"><h3 class="year">2015</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Iasmim Queiroz Grosso. <b>Corrosão como motivação para o ensino médio</b>. Orientação de outra natureza - Universidade Federal de Pernambuco, . 2015.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5295831751697130">Magda Rosângela Santos Vieira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Marilaine Moreira de Lima. Estágio obrigatório du curso em Eng. <b>Mecânica da UFPE</b>. (Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2015.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5210533486699425">Nadège Sophie Bouchonneau da Silva</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Sandro Cordeiro São Marcos. <b>Análise do escoamento de CO2 em duto com defeito de corrosão por pite</b>. (Engenharia Química) - Universidade Federal de Pernambuco, . 2015.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5210533486699425">Nadège Sophie Bouchonneau da Silva</a>.</font></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2015 até HOJE
+<br>Data de processamento: 17/09/2019 18:30:28<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:tiago.felipe@ufpe.br">tiago.felipe@ufpe.br</a>         </div> </body></html>
+              

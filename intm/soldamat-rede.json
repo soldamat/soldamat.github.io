@@ -1,0 +1,32 @@
+{
+"nodes":[
+{ "name":"Braulio Silva Barros", "idlattes":"8938691250105531", "rotulo":"[Sem rotulo]", "collaborationrank":1.3581225872 },
+{ "name":"Carolina Lipparelli Morelli", "idlattes":"0562262594759879", "rotulo":"[Sem rotulo]", "collaborationrank":0.15000000596 },
+{ "name":"Edval Goncalves de Araujo", "idlattes":"5276055900592984", "rotulo":"[Sem rotulo]", "collaborationrank":0.15000000596 },
+{ "name":"Flavio Jose da Silva", "idlattes":"2569114755496581", "rotulo":"[Sem rotulo]", "collaborationrank":0.527033090591 },
+{ "name":"Joanna Elzbieta Kulesza", "idlattes":"1568423340359601", "rotulo":"[Sem rotulo]", "collaborationrank":1.31896674633 },
+{ "name":"Kleber Goncalves Bezerra Alves", "idlattes":"5515185093886020", "rotulo":"[Sem rotulo]", "collaborationrank":0.654195845127 },
+{ "name":"Magda Rosangela Santos Vieira", "idlattes":"5295831751697130", "rotulo":"[Sem rotulo]", "collaborationrank":1.40234541893 },
+{ "name":"Maxime Montoya", "idlattes":"2179327647405825", "rotulo":"[Sem rotulo]", "collaborationrank":0.502891838551 },
+{ "name":"Nadege Sophie Bouchonneau da Silva", "idlattes":"5210533486699425", "rotulo":"[Sem rotulo]", "collaborationrank":0.42854899168 },
+{ "name":"Oscar Olimpio de Araujo Filho", "idlattes":"6740759499723367", "rotulo":"[Sem rotulo]", "collaborationrank":1.15975880623 },
+{ "name":"Severino Alves Junior", "idlattes":"9563158536061549", "rotulo":"[Sem rotulo]", "collaborationrank":0.32291084528 },
+{ "name":"Severino Leopoldino Urtiga Filho", "idlattes":"4668070841633275", "rotulo":"[Sem rotulo]", "collaborationrank":2.59356474876 },
+{ "name":"Tiago Felipe de Abreu Santos", "idlattes":"2200553486822519", "rotulo":"[Sem rotulo]", "collaborationrank":0.731661558151 }
+],
+"links":[
+{ "source":0, "target":4, "value":39.0 },
+{ "source":0, "target":10, "value":6.0 },
+{ "source":3, "target":6, "value":2.0 },
+{ "source":3, "target":9, "value":1.0 },
+{ "source":3, "target":11, "value":1.0 },
+{ "source":4, "target":10, "value":5.0 },
+{ "source":5, "target":8, "value":1.0 },
+{ "source":5, "target":9, "value":1.0 },
+{ "source":6, "target":7, "value":2.0 },
+{ "source":6, "target":11, "value":8.0 },
+{ "source":7, "target":11, "value":2.0 },
+{ "source":9, "target":11, "value":5.0 },
+{ "source":11, "target":12, "value":5.0 }
+]
+}
