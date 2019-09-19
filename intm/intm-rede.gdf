@@ -1,0 +1,28 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
+0,8938691250105531,Braulio Silva Barros,[Sem rotulo],,,1.35812,51,18,0,3,0,5,25,0,3,5,9,'255,255,255'
+1,0562262594759879,Carolina Lipparelli Morelli,[Sem rotulo],,,0.15,12,4,1,0,5,1,1,0,0,0,0,'255,255,255'
+2,5276055900592984,Edval Goncalves de Araujo,[Sem rotulo],,,0.15,7,2,0,0,1,0,4,0,0,0,2,'255,255,255'
+3,2569114755496581,Flavio Jose da Silva,[Sem rotulo],,,0.527033,9,5,0,1,1,2,0,0,0,7,0,'255,255,255'
+4,1568423340359601,Joanna Elzbieta Kulesza,[Sem rotulo],,,1.31897,42,13,0,0,0,2,27,0,3,2,8,'255,255,255'
+5,5515185093886020,Kleber Goncalves Bezerra Alves,[Sem rotulo],,,0.654196,16,11,0,0,4,1,0,0,5,4,5,'255,255,255'
+6,5295831751697130,Magda Rosangela Santos Vieira,[Sem rotulo],,,1.40235,29,6,0,1,11,1,10,0,0,7,4,'255,255,255'
+7,2179327647405825,Maxime Montoya,[Sem rotulo],,,0.502892,4,2,0,0,2,0,0,0,0,0,0,'255,255,255'
+8,5210533486699425,Nadege Sophie Bouchonneau da Silva,[Sem rotulo],,,0.428549,15,9,1,0,5,0,0,0,0,6,1,'255,255,255'
+9,6740759499723367,Oscar Olimpio de Araujo Filho,[Sem rotulo],,,1.15976,29,9,0,0,15,1,4,0,4,9,3,'255,255,255'
+10,9563158536061549,Severino Alves Junior,[Sem rotulo],,,0.322911,87,60,1,0,0,0,26,8,21,24,4,'255,255,255'
+11,4668070841633275,Severino Leopoldino Urtiga Filho,[Sem rotulo],,,2.59356,30,18,0,0,11,1,0,4,6,11,5,'255,255,255'
+12,2200553486822519,Tiago Felipe de Abreu Santos,[Sem rotulo],,,0.731662,35,21,0,0,14,0,0,0,0,4,9,'255,255,255'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
+0,4,39.0
+0,10,6.0
+3,6,2.0
+3,9,1.0
+3,11,1.0
+4,10,5.0
+5,8,1.0
+5,9,1.0
+6,7,2.0
+6,11,8.0
+7,11,2.0
+9,11,5.0
+11,12,5.0
