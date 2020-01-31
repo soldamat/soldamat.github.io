@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<curriculo_lattes data_processamento="31/01/2020 14:04:32">
+  <pesquisador id="2200553486822519">
+    <identificacao>
+      <identificador10></identificador10>
+      <nome_inicial>Tiago Felipe de Abreu Santos</nome_inicial>
+      <nome_completo>Tiago Felipe de Abreu Santos</nome_completo>
+      <nome_citacao_bibliografica>SANTOS, T.F.A.;Santos, Tiago Felipe de Abreu;Tiago F. A. Santos;Santos, T.F.A.;SANTOS, T F A;SANTOS, TIAGO F. A.;SANTOS, T. F. A.;SANTOS, TIAGO FELIPE DE ABREU;ABREU SANTOS, TIAGO FELIPE;SANTOS, TIAGO F.A.</nome_citacao_bibliografica>
+      <sexo>Masculino</sexo>
+    </identificacao>
+    <idiomas>
+      <idioma>
+          <nome>Inglês</nome>
+          <proficiencia>Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Espanhol</nome>
+          <proficiencia>Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente.</proficiencia>
+      </idioma>
+    </idiomas>
+    <endereco>
+      <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Avenida Jornalista Aníbal Fernandes Cidade Universitária 50740560 - Recife, PE - Brasil Telefone: (81) 21263132 URL da Homepage: www.ufpe.br/soldamat</endereco_profissional>
+      <endereco_profissional_lat>-8.0543756</endereco_profissional_lat>
+      <endereco_profissional_long>-34.9495275</endereco_profissional_long>
+    </endereco>
+    <formacao_academica>
+        <formacao>
+          <ano_inicio>2009</ano_inicio>
+          <ano_conclusao>2012</ano_conclusao>
+          <tipo>Doutorado em Engenharia Mecânica</tipo>
+          <nome_instituicao>Universidade Estadual de Campinas, UNICAMP, Brasil</nome_instituicao>
+          <descricao>com período sanduíche em Ohio State University (Orientador: John Carlton Lippold). Título: Avaliação microestrutural e desempenho de juntas soldadas de aços inoxidáveis duplex por atrito com pino não consumível, Ano de obtenção: 2012. Orientador: Antonio Jose Ramirez. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Caracterização de Materiais; Recristalização (Metalurgia); Aço - propriedades mecânicas; Corrosão. Grande área: Engenharias Grande Área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia Física / Especialidade: Transformação de Fases. Grande Área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia Física / Especialidade: Estrutura dos Metais e Ligas. Setores de atividade: Indústrias de Transformação.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>2005</ano_inicio>
+          <ano_conclusao>2007</ano_conclusao>
+          <tipo>Mestrado em Engenharia de Materiais</tipo>
+          <nome_instituicao>Universidade Federal de Ouro Preto, UFOP, Brasil</nome_instituicao>
+          <descricao>Título: Atrito Interno em Aços Inoxidáveis Austeníticos Contendo Martensita Induzida por Deformação,Ano de Obtenção: 2007. Orientador: Margareth Spangler Andrade. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Atrito Interno; Aço Inoxidável Austenítico; Martensita induzida por deformação; Transformações de Fase; Dilatometria. Grande área: Engenharias Grande Área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia Física / Especialidade: Propriedades Físicas dos Metais e Ligas. Grande Área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia Física / Especialidade: Propriedades Mecânicas dos Metais e Ligas.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>2001</ano_inicio>
+          <ano_conclusao>2005</ano_conclusao>
+          <tipo>Graduação em Física com ênfase em Ciência dos Materiais</tipo>
+          <nome_instituicao>Universidade Federal de Ouro Preto, UFOP, Brasil</nome_instituicao>
+          <descricao>Título: Avaliação Microestrutural de Aços por Microscopia de Varredura por Sonda Mecânica. Orientador: André Barros Cota. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.</descricao>
+        </formacao>
+    </formacao_academica>
+    <projetos_pesquisa>
+        <projeto>
+          <ano_inicio>2019</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Soldabilidade de tubulações de alumínio para aviação civil em dispositivos com rigorosos requisitos mecânicos</nome>
+          <descricao>Descrição: Estudar o processo de brasagem com solda prata e a dependência da prata no desempenho mecânico em dispositivos com requisitos rigorosos como tubulações de alumínio para aplicação em aviação civil. A brasagem com solda-prata é aplicada em aplicações que exijam maior resistência à fadiga e resistência mecânica. A solda prata em aviação é utilizada na fabricação de linhas de oxigênio de alta pressão que devem suportar vibração e variados ciclos de temperaturas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Lucas Oliveira Siqueira - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.Número de orientações: 1</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2019</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Tratamentos superficiais eletrolíticos em chapas de alumínio visando a melhoria da adesão de laminados fibra-metal para aplicação na indústria aeronáutica e aeroespacial</nome>
+          <descricao>Descrição: Este projeto propõe o estudo dos laminados fibra de carbono-alumínio, onde será proposta principalmente a melhoria da adesão da superfície metálica por meio de tratamentos superficiais (eletroquímicos e/ou termomecânicos) no alumínio e análise e seleção de resinas poliméricas a serem usados nos laminados fibra-metal.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Tiago Felipe de Abreu Santos - Integrante / Severino Alves Junior - Coordenador / Vinicius de Souza Ferraz Oliveira - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2019</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Soldagem dissimilar de juntas de aço inox 904L e aço carbono aplicadas em trocadores de calor</nome>
+          <descricao>Descrição: Projeto FACEPE nº PBPG-0210-3.03/19. Objetivo: Estudar o comportamento da soldagem dissimilar entre o aço inox 904L com aço carbono na fabricação de trocadores de calores objetivando validar as parametrizações de soldagem, bem como relacionar com o desempenho mecânico e as características microestruturais das juntas soldadas a fim de gerar um produto robusto e que suporte as condições extremas as quais são aplicadas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (2) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Ivan Bezerra de Mello Picchi - Integrante / Helen Rodrigues Araújo - Integrante / Thiago Henrique Bezerra de Santana - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.Número de orientações: 1</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2019</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Desenvolvimento de eletrodos revestidos com materiais 2D de grafeno para soldagem e revestimento</nome>
+          <descricao>Descrição: O processo SMAW é o processo de soldagem mais comum para aplicação geral e apresenta importância significativa para manutenção, revestimentos e construção civil, dentre outras áreas. As características do revestimento do eletrodo têm grande influência na soldagem, determinando desde as condições de operação até as propriedades do metal de solda. Estudos demonstram que o grafeno e derivados promovem melhoria nas propriedades de juntas soldadas, principalmente em materiais não ferrosos. Todavia, existe um grande potencial na adição de materiais 2D baseados a base de grafeno em revestimento dos eletrodos, por isso é o foco deste trabalho. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Igor Jordão Marques - Integrante / Braulio Silva Barros - Integrante / Keliton Gomes de Souza Cruz - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.Número de orientações: 1</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2018</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Uma proposta de modelo termomecânico para estudar a história térmica de juntas soldadas por atrito com pino não consumível de aços API 5L-X80 utilizados para tubulações de transporte de gás e óleo</nome>
+          <descricao>Descrição: Edital PROPESQ nº 06/2018 QUALIS A. Este projeto propõe desenvolver um modelo matemático para predizer as temperaturas máximas em uma junta soldada por atrito com pino de aços baixa liga alta resistência. Para isso medições das temperaturas em pontos específicos foram tomadas por meio de termopares durante o processo de soldagem. Um modelo térmico foi desenvolvido baseado nas equações de Fourier e os dados de entrada foram aqueles medidos por termopares.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Tahiana Francisca Conceição Hermenegildo - Integrante / Guilherme Gadelha de Sousa - Integrante. Financiador(es): Universidade Federal de Pernambuco - Auxílio financeiro. Número de produções C, T A: 1 / Número de orientações: 1</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2017</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Caracterização microestrutural e tribológica de revestimentos metálicos e/ou mistos depositados por laser em substratos metálicos</nome>
+          <descricao>Descrição: Estudar a deposição a laser de aços inoxidáveis e/ou materiais mistos em substratos metálicos visando a melhoria da resistência ao desgaste, corrosão, dentre outras.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Tahiana Francisca Conceição Hermenegildo - Integrante / Luis Henrique Rodrigues Apolinário - Integrante / Erike Wilker Arruda Figueredo - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.Número de orientações: 2</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2017</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Aplicabilidade do processo Tandem Arc com quatro arames em soldagem com costura helicoidal em campo do aço ASTM A572 Gr 50</nome>
+          <descricao>Descrição: Pretende-se desenvolver e aprimorar a fabricação de tubos em campo com o aumento de produtividade, dobrando a quantidade de arames passando de dois para quatro (dois internos e dois externos) a partir do uso da técnica Tandem-Arc, sem abdicar de melhores propriedades mecânicas, realizando um estudo teórico e experimental das microestruturas formadas e seu impacto sobre as propriedades mecânicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Doutorado: (1) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Tahiana Francisca Conceição Hermenegildo - Integrante / Edwar Andres Torres Lopez - Integrante / Flávio José da Silva - Integrante / Ana Carla Santos da Silva - Integrante / Túlio Albuquerque Farias - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa. Número de produções C, T A: 5 / Número de orientações: 2</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2016</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Avaliação da Influência das Variáveis do Processo de Soldagem de Revestimento do Aço Inoxidável Austenítico sobre o Aço Baixa Liga Cr-Mo no descolamento da Interface Revestimento-Substrato</nome>
+          <descricao>Descrição: Avaliar a influência dos processos de soldagem e suas variáveis, tipo de consumível, e dos tratamentos térmicos em soldas de revestimentos no aço SA 387 GR22 com ligas especiais. Este trabalho visa ampliar o conhecimento da soldagem de revestimento, caracterizando os revestimentos (diluição, microestrutura, composição química e dureza), a fim de compreender plenamente a origem dos problemas metalúrgicos e evitar sua ocorrência no futuro. Possibilidade de criar novos procedimentos de soldagem, com processos mais produtivos na soldagem de revestimento. Contribuirá significativamente para a indústria evitar perdas e retrabalho.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) . Integrantes: Tiago Felipe de Abreu Santos - Integrante / Tahiana Francisca Conceição Hermenegildo - Coordenador / Severino Leopoldino Urtiga Filho - Integrante / Luis Henrique Rodrigues Apolinário - Integrante / Luiz Pereira da Costa Neto - Integrante / Helen Rodrigues Araújo - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.</descricao>
+        </projeto>
+    </projetos_pesquisa>
+    <area_atuacao>
+          <descricao>Grande área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia de Transformação/Especialidade: Soldagem.</descricao>
+          <descricao>Grande área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia Física.</descricao>
+          <descricao>Grande área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia Física/Especialidade: Propriedades Mecânicas dos Metais e Ligas.</descricao>
+          <descricao>Grande área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia Física/Especialidade: Transformação de Fases.</descricao>
+          <descricao>Grande área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia Física/Especialidade: Corrosão.</descricao>
+          <descricao>Grande área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Metalurgia de Transformação/Especialidade: Tratamentos Térmicos, Mecânicos e Químicos.</descricao>
+    </area_atuacao>
+    <colaboradores>
+        <id_lattes_colaborador>6080651189096179</id_lattes_colaborador>
+        <id_lattes_colaborador>7900356071046936</id_lattes_colaborador>
+        <id_lattes_colaborador>1078989729628550</id_lattes_colaborador>
+        <id_lattes_colaborador>2167844919087855</id_lattes_colaborador>
+        <id_lattes_colaborador>8983036322060446</id_lattes_colaborador>
+        <id_lattes_colaborador>4767820338885515</id_lattes_colaborador>
+        <id_lattes_colaborador>6999199593229732</id_lattes_colaborador>
+        <id_lattes_colaborador>8730206395789661</id_lattes_colaborador>
+        <id_lattes_colaborador>0750160286058633</id_lattes_colaborador>
+        <id_lattes_colaborador>4015926655072714</id_lattes_colaborador>
+        <id_lattes_colaborador>2200553486822519</id_lattes_colaborador>
+        <id_lattes_colaborador>4173759561785422</id_lattes_colaborador>
+        <id_lattes_colaborador>7397150052059395</id_lattes_colaborador>
+        <id_lattes_colaborador>7617235844474462</id_lattes_colaborador>
+        <id_lattes_colaborador>6308020405306553</id_lattes_colaborador>
+        <id_lattes_colaborador>8561250228510696</id_lattes_colaborador>
+        <id_lattes_colaborador>1397392075394017</id_lattes_colaborador>
+        <id_lattes_colaborador>5895725625196178</id_lattes_colaborador>
+        <id_lattes_colaborador>4378078337343660</id_lattes_colaborador>
+        <id_lattes_colaborador>1243406113215995</id_lattes_colaborador>
+        <id_lattes_colaborador>4042606185829036</id_lattes_colaborador>
+        <id_lattes_colaborador>9038719096395773</id_lattes_colaborador>
+        <id_lattes_colaborador>2422490836174594</id_lattes_colaborador>
+        <id_lattes_colaborador>3371681684015977</id_lattes_colaborador>
+        <id_lattes_colaborador>7549065613060257</id_lattes_colaborador>
+        <id_lattes_colaborador>4586191595479425</id_lattes_colaborador>
+        <id_lattes_colaborador>5770976001832230</id_lattes_colaborador>
+        <id_lattes_colaborador>2176215981291453</id_lattes_colaborador>
+        <id_lattes_colaborador>2973066287656003</id_lattes_colaborador>
+        <id_lattes_colaborador>9737388520834184</id_lattes_colaborador>
+        <id_lattes_colaborador>7447517746012373</id_lattes_colaborador>
+    </colaboradores>
+    <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/s1517-707620190003.0766</doi>
+          <titulo>Evaluation of two-step transformation in Ni-rich titanium-nickel alloys using thermal and internal friction analyses</titulo>
+          <autores>VIRGOLINO, F. S. S. ; SANTOS, T.F.A. ; OLIVEIRA, C. A. N. ; GONZALEZ, C. H. ; SOUSA, G. G. ; VILELA, J.M.C. ; ANDRADE, M.S.</autores>
+          <revista>Materia-Rio de Janeiro</revista>
+          <volume>Materia-Rio de Janeiro</volume>
+          <paginas>e12450</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.jallcom.2018.10.136</doi>
+          <titulo>Nucleation and growth of graphite particles in ductile cast iron</titulo>
+          <autores>VICENTE, ANDRÉ DE ALBUQUERQUE ; SARTORI MORENO, JOÃO ROBERTO ; SANTOS, TIAGO FELIPE DE ABREU ; ESPINOSA, DENISE CROCCE ROMANO ; TENÓRIO, JORGE ALBERTO SOARES</autores>
+          <revista>JOURNAL OF ALLOYS AND COMPOUNDS</revista>
+          <volume>JOURNAL OF ALLOYS AND COMPOUNDS</volume>
+          <paginas>1230-1234</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s12613-019-1790-0</doi>
+          <titulo>Effect of high anodic polarization on the passive layer properties of superduplex stainless steel friction stir welds at different chloride electrolyte pH values and temperatures</titulo>
+          <autores>SANTA CRUZ, L. A. ; MACHADO, G. ; VICENTE, A. A. ; HERMENEGILDO, T.F.C. ; SANTOS, T. F. A.</autores>
+          <revista>International Journal of Minerals Metallurgy and Materials</revista>
+          <volume>International Journal of Minerals Metallurgy and Materials</volume>
+          <paginas>710-721</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s13632-018-0506-6</doi>
+          <titulo>Corrosion Evaluation of Duplex and Superduplex Stainless Steel Friction Stir Welds Using Potentiodynamic Measurements and Immersion Tests in Chloride Environments</titulo>
+          <autores>SANTA CRUZ, LARISSA A. ; MARQUES, IGOR J. ; URTIGA FILHO, SEVERINO L. ; HERMENEGILDO, TAHIANA F. C. ; SANTOS, TIAGO F. A.</autores>
+          <revista>METALLOGRAPHY, MICROSTRUCTURE, AND ANALYSIS (PRINT)</revista>
+          <volume>METALLOGRAPHY, MICROSTRUCTURE, AND ANALYSIS (PRINT)</volume>
+          <paginas>32-44</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.jmrt.2018.11.009</doi>
+          <titulo>Study of the high temperature oxidation and Kirkendall porosity in dissimilar welding joints between FE-CR-AL alloy and stainless steel AISI 310 after isothermal heat treatment at 1150 °C in air</titulo>
+          <autores>VICENTE, ANDRÉ DE ALBUQUERQUE ; MORENO, JOAO ROBERTO SARTORI ; ESPINOSA, DENISE CROCCE ROMANO ; SANTOS, TIAGO FELIPE DE ABREU ; TENÓRIO, JORGE ALBERTO SOARES</autores>
+          <revista>Journal of Materials Research and Technology-JMR&T</revista>
+          <volume>Journal of Materials Research and Technology-JMR&T</volume>
+          <paginas>1636-1644</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s11661-019-05293-y</doi>
+          <titulo>Predominant Solidification Modes of 316 Austenitic Stainless Steel Coatings Deposited by Laser Cladding on 304 Stainless Steel Substrates</titulo>
+          <autores>APOLINARIO, L. H. R. ; WALLERSTEIN, D. ; MONTEALEGRE, M. A. ; URTIGA FILHO, S. L. ; TORRES, E. A. ; HERMENEGILDO, T. F. C. ; SANTOS, T. F. A.</autores>
+          <revista>METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND MATERIALS SCIENCE</revista>
+          <volume>METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND MATERIALS SCIENCE</volume>
+          <paginas>3617-3628</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.jallcom.2019.153170</doi>
+          <titulo>Rapid precipitation of intermetallic phases during isothermal treatment of duplex stainless steel joints produced by friction stir welding</titulo>
+          <autores>MARQUES, IGOR J. ; SILVA, FLAVIO J. ; SANTOS, TIAGO F.A.</autores>
+          <revista>JOURNAL OF ALLOYS AND COMPOUNDS</revista>
+          <volume>JOURNAL OF ALLOYS AND COMPOUNDS</volume>
+          <paginas>153170</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/0104-9224/si24.23</doi>
+          <titulo>Aplicação da Metodologia para Qualificação de Procedimentos de Soldagem de Tubulações Industriais Conforme Parâmetros dos Códigos ASME B31.3 e ASME SECTION IX*</titulo>
+          <autores>SILVA, ANA CARLA S. ; ARAÚJO, HELEN R. ; MACENA, VAGNER A. ; MORENO, JOÃO R. SARTORI ; VICENTE, ANDRÉ A. ; HERMENEGILDO, TAHIANA F. C. ; SANTOS, TIAGO F. A.</autores>
+          <revista>Soldagem & Inspecao</revista>
+          <volume>Soldagem & Inspecao</volume>
+          <paginas>e2423</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Comparison of Behaviour to Oxidation at High Temperature of Two Superalloys: Inconel 713C and IC-50</titulo>
+          <autores>VICENTE, A. A. ; MORENO, J. R. S. ; TENÓRIO, J. A. S. ; BOTELHO JR, A. B. ; SANTOS, T.F.A. ; ESPINOSA, D. C. R.</autores>
+          <revista>OXIDATION COMMUNICATIONS</revista>
+          <volume>OXIDATION COMMUNICATIONS</volume>
+          <paginas>195-204</paginas>
+          <numero></numero>
+          <ano>2018</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s12540-018-0111-x</doi>
+          <titulo>Microstructural Evolution of HSLA ISO 3183 X80M (API 5L X80) Friction Stir Welded Joints</titulo>
+          <autores>HERMENEGILDO, TAHIANA F. C. ; SANTOS, TIAGO F. A. ; TORRES, EDWAR A. ; AFONSO, CONRADO R. M. ; RAMIREZ, ANTONIO J.</autores>
+          <revista>Metals and Materials International</revista>
+          <volume>Metals and Materials International</volume>
+          <paginas>1120-1132</paginas>
+          <numero></numero>
+          <ano>2018</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s40430-018-1372-5</doi>
+          <titulo>Effect of the energy input on the microstructure and mechanical behavior of AA2024-T351 joint produced by friction stir welding</titulo>
+          <autores>DO VALE, NATÁLIA LOPES ; TORRES, EDWAR ANDRÉS ; Santos, Tiago Felipe de Abreu ; URTIGA FILHO, SEVERINO LEOPOLDINO ; DOS SANTOS, JORGE F.</autores>
+          <revista>JOURNAL OF THE BRAZILIAN SOCIETY OF MECHANICAL SCIENCES AND ENGINEERING (ONLINE)</revista>
+          <volume>JOURNAL OF THE BRAZILIAN SOCIETY OF MECHANICAL SCIENCES AND ENGINEERING (ONLINE)</volume>
+          <paginas>467</paginas>
+          <numero></numero>
+          <ano>2018</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/0104-9224/si2303.06</doi>
+          <titulo>Soldagem Helicoidal de Tubos Produzida em Campo do Aço ASTM A-1018 e sua Correlação com Características Mecânicas e Microestruturais das Juntas Soldadas</titulo>
+          <autores>SILVA, ANA CARLA SANTOS DA ; FIGUEREDO, ERIKE WILKER ARRUDA ; SILVA JÚNIOR, DEUSDEDIT CARLOS DA ; HERMENEGILDO, TAHIANA FRANCISCA DA CONCEIÇÃO ; SANTOS, TIAGO FELIPE DE ABREU</autores>
+          <revista>REVISTA SOLDAGEM E INSPEÇÃO</revista>
+          <volume>REVISTA SOLDAGEM E INSPEÇÃO</volume>
+          <paginas>364-379</paginas>
+          <numero></numero>
+          <ano>2018</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1080/09507116.2016.1218615</doi>
+          <titulo>Influence of welding position and parameters in orbital tig welding applied to low-carbon steel pipes</titulo>
+          <autores>FIGUEIROA, D. W. ; PIGOZZO, I. O. ; SILVA, R. H. G. ; SANTOS, T.F.A. ; URTIGA FILHO, S. L.</autores>
+          <revista>Welding International</revista>
+          <volume>Welding International</volume>
+          <paginas>583-590</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/1980-5373-mr-2016-1060</doi>
+          <titulo>Double Kinetics of Intermetallic Phase Precipitation in UNS S32205 Duplex Stainless Steels Submitted to Isothermal Heat Treatment</titulo>
+          <autores>MARQUES, I. J. ; VICENTE, A. A. ; TENÓRIO, J. A. S. ; SANTOS, T.F.A.</autores>
+          <revista>Materials Research-Ibero-american Journal of Materials</revista>
+          <volume>Materials Research-Ibero-american Journal of Materials</volume>
+          <paginas>152-158</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1080/09507116.2017.1347323</doi>
+          <titulo>Friction stir welding of duplex stainless steels</titulo>
+          <autores>Santos, Tiago Felipe de Abreu; TORRES, EDWAR ANDRÉS ; RAMIREZ, ANTONIO JOSE</autores>
+          <revista>WELDING INTERNATIONAL</revista>
+          <volume>WELDING INTERNATIONAL</volume>
+          <paginas>1-9</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/0104-9224/si2202.03</doi>
+          <titulo>Desenvolvimento dos Parâmetros do Processo de Soldagem por Atrito com Pino Não Consumível para o Aço de Alta Resistência e Baixa Liga ISO 3183 X80M</titulo>
+          <autores>HERMENEGILDO, TAHIANA F. C. ; SILVA, ANA CARLA S. ; TORRES, EDWAR A. ; SANTOS, TIAGO F. A. ; RAMIREZ, ANTONIO J.</autores>
+          <revista>Soldagem & Inspecao</revista>
+          <volume>Soldagem & Inspecao</volume>
+          <paginas>129-138</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/1980-5373-MR-2015-0319</doi>
+          <titulo>Friction stir welding of duplex and superduplex stainless steels and some aspects of microstructural characterization and mechanical performance</titulo>
+          <autores>SANTOS, T.F.A.; FONSECA, E. B. ; TORRES, E.A. ; RAMIREZ, A.J.</autores>
+          <revista>Materials Research-Ibero-american Journal of Materials</revista>
+          <volume>Materials Research-Ibero-american Journal of Materials</volume>
+          <paginas>117-131</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/0104-9224/si2101.06</doi>
+          <titulo>Soldagem por Atrito com Pino Não Consumível de Aços Inoxidáveis Duplex</titulo>
+          <autores>SANTOS, T.F.A.; TORRES, E.A. ; RAMIREZ, A.J.</autores>
+          <revista>REVISTA SOLDAGEM E INSPEÇÃO</revista>
+          <volume>REVISTA SOLDAGEM E INSPEÇÃO</volume>
+          <paginas>59-69</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1080/09507116.2015.1096498</doi>
+          <titulo>Development of ceramic backing for friction stir welding and processing</titulo>
+          <autores>SANTOS, TIAGO F. A.; TORRES, EDWAR A. ; HERMENGILDO, TAHIANA F. C. ; RAMIREZ, ANTONIO J.</autores>
+          <revista>WELDING INTERNATIONAL</revista>
+          <volume>WELDING INTERNATIONAL</volume>
+          <paginas>338-347</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s11661-016-3631-3</doi>
+          <titulo>Physical Simulation of a Duplex Stainless Steel Friction Stir Welding by the Numerical and Experimental Analysis of Hot Torsion Tests</titulo>
+          <autores>FONSECA, E. B. ; SANTOS, T. F. A. ; BUTTON, S.T. ; RAMIREZ, A.J.</autores>
+          <revista>METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND MATERIALS SCIENCE</revista>
+          <volume>METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND MATERIALS SCIENCE</volume>
+          <paginas>4543-4552</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s11665-016-2357-0</doi>
+          <titulo>Detailed Microstructural Characterization and Restoration Mechanisms of Duplex and Superduplex Stainless Steel Friction-Stir-Welded Joints</titulo>
+          <autores>SANTOS, T. F. A.; TORRES, E. A. ; LIPPOLD, J. C. ; RAMIREZ, A. J.</autores>
+          <revista>Journal of Materials Engineering and Performance</revista>
+          <volume>Journal of Materials Engineering and Performance</volume>
+          <paginas>5173-5188</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Caracterização microestrutural de aços baixo carbono por microscopia de força atômica</titulo>
+          <autores>SANTOS, T. F. A.; TORRES, E.A. ; VILELA, J.M.C. ; ANDRADE, M.S. ; COTA, A.B.</autores>
+          <revista>REVISTA LATINOAMERICANA DE METALURGIA Y MATERIALES</revista>
+          <volume>REVISTA LATINOAMERICANA DE METALURGIA Y MATERIALES</volume>
+          <paginas>118-133</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.matdes.2014.10.005</doi>
+          <titulo>Suitability of carbon fiber-reinforced polymers as power cable cores: Galvanic corrosion and thermal stability evaluation</titulo>
+          <autores>SANTOS, T. F. A.; VASCONCELOS, G. C. ; SOUZA, W. A. ; COSTA, M. L. ; BOTELHO, E. C.</autores>
+          <revista>MATERIALS & DESIGN</revista>
+          <volume>MATERIALS & DESIGN</volume>
+          <paginas>780-788</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/0104-9224/si2004.11</doi>
+          <titulo>Influência da Posição e dos Parâmetros de Soldagem na Soldagem TIG Orbital Aplicada a Tubulações de Aço Baixo Carbono</titulo>
+          <autores>FIGUEROA, D. W. ; PIGOZZO, I. O. ; SILVA, R. H. G. ; SANTOS, T. F. A. ; URTIGA FILHO, S. L.</autores>
+          <revista>REVISTA SOLDAGEM E INSPEÇÃO</revista>
+          <volume>REVISTA SOLDAGEM E INSPEÇÃO</volume>
+          <paginas>446-455</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+    </artigos_em_periodicos>
+    <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.26678/abcm.cobef2019.cof2019-0590</doi>
+          <autores>SOUSA, GUILHERME ; BRAGA, ERIKA ; SILVA, MOISÉS ; BEZERRA DE SANTANA, THIAGO HENRIQUE ; ABREU SANTOS, TIAGO FELIPE ; ABREU, HAMILTON</autores>
+          <titulo>EQUAL CHANNEL ANGULAR PRESSING AS A VIABLE MANUFACTURING PROCESS TO INCREASE HARDNESS OF COMMERCIALLY PURE ALUMINUM (AL 1050)</titulo>
+          <nome_evento>COBEF 2019</nome_evento>
+          <ano>2019</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, A. C. S. ; PICCHI, I. B. M. ; APOLINARIO, L. H. R. ; HERMENEGILDO, T.F.C. ; SANTOS, T.F.A.</autores>
+          <titulo>Soldagem em Campo de Tubulação com Costura Helicoidal por Arco Submerso</titulo>
+          <nome_evento>X Congresso Nacional de Engenharia Mecânica</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas>1-8</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MACENA, V. A. ; NASCIMENTO, F. A. ; APOLINARIO, L. H. R. ; PICCHI, I. B. M. ; HERMENEGILDO, T.F.C. ; SANTOS, T.F.A.</autores>
+          <titulo>Metodologia para Qualificação de Procedimentos de Soldagem de Tubulações Industriais Conforme Parâmetros dos Códigos ASME B31.3 e ASME SECTION IX</titulo>
+          <nome_evento>XLIV Congresso Nacional de Soldagem</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SILVA, A. C. S. ; MACENA, V. A. ; SILVA JR, D. C. ; PEREIRA, R. M. L. ; CARVALHO, K. K. ; HERMENEGILDO, T.F.C. ; SANTOS, T. F. A.</autores>
+          <titulo>Características Geométricas e Microestruturais de Juntas Soldadas por Costura Helicoidal em Campo do Aço ASTM-A1018</titulo>
+          <nome_evento>XLIV Congresso Nacional de Soldagem</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas>1-11</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.3217/978-3-85125-615-4-33</doi>
+          <autores>SOUSA, G. G. ; MONTOYA, M. ; BOUCHONNEAU, N. S. ; HERMENEGILDO, T. F. C. ; SANTOS, T. F. A.</autores>
+          <titulo>A proposal for thermal computational model for API 5L-X80 steel friction stir welds based on thermocouples measurements</titulo>
+          <nome_evento>12th International Seminar Numerical Analysis of Weldability</nome_evento>
+          <ano>2018</ano>
+          <volume>12</volume>
+          <paginas>651-664</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.5151/1516-392x-30089</doi>
+          <autores>VICENTE, ANDRÉ DE ALBUQUERQUE ; CABRAL, DÉBORA ARRUDA ; MARQUES, IGOR JORDÃO ; Santos, Tiago Felipe de Abreu ; ESPINOSA, DENISE CROCCE ROMANO ; TENÓRIO, JORGE ALBERTO SOARES</autores>
+          <titulo>CINÉTICAS DE OXIDAÇÃO E CÁLCULO DA ENERGIA DE ATIVAÇÃO APARENTE PARA FORMAÇÃO DOS ÓXIDOS EM AÇO INOXIDÁVEL AUSTENÍTICOS LAMINADO 253 MA A ALTAS TEMPERATURAS AO AR</titulo>
+          <nome_evento>72º Congresso Anual da ABM</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas>44-53</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.5151/1516-392x-30090</doi>
+          <autores>VICENTE, ANDRÉ DE ALBUQUERQUE ; CABRAL, DÉBORA ARRUDA ; MARQUES, IGOR JORDÃO ; Santos, Tiago Felipe de Abreu ; ESPINOSA, DENISE CROCCE ROMANO ; TENÓRIO, JORGE ALBERTO SOARES</autores>
+          <titulo>CARACTERIZAÇÃO MICROESTRUTURAL DAS CAMADAS PROTETIVAS DE ÓXIDOS FORMADOS NAS SUPERFÍCIES DE UM AÇO INOXIDÁVEL AUSTENITICO LAMINADO (253 MA®) OXIDADO A ALTAS TEMPERATURAS AO AR</titulo>
+          <nome_evento>72º Congresso Anual da ABM</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas>54-65</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.5151/1516-392x-30091</doi>
+          <autores>VICENTE, ANDRÉ DE ALBUQUERQUE ; CABRAL, DÉBORA ARRUDA ; BUENO, ALEXANDRE ; TURRA, THIAGO VIANA DE OLIVEIRA ; Santos, Tiago Felipe de Abreu ; TENÓRIO, JORGE ALBERTO SOARES</autores>
+          <titulo>CARACTERIZAÇÃO DE UMA JUNTA SOLDADA DE AÇO INOXIDÁVEL DUPLEX PELO PROCESSO TIG NA RAIZ E ENCHIMENTO COM PROCESSO MIG-MAG</titulo>
+          <nome_evento>72º Congresso Anual da ABM</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas>66-76</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.5151/1516-392x-30127</doi>
+          <autores>VICENTE, ANDRÉ DE ALBUQUERQUE ; LIMA, GIOVANI JONAS DE ; CABRAL, DÉBORA ARRUDA ; FAGGIAN, CARLOS ALBERTO ; Santos, Tiago Felipe de Abreu ; TENÓRIO, JORGE ALBERTO SOARES</autores>
+          <titulo>POROSIDADE DE KIRKENDALL EM JUNTAS SOLDADAS DISSIMILARES ENTRE LIGA FE-CR-AL E AÇO INOXIDÁVEL AISI 310 APÓS TRATAMENTO ISOTÉRMICO A 1150oC AO AR</titulo>
+          <nome_evento>72º Congresso Anual da ABM</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas>207-216</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.5151/1516-392x-30248</doi>
+          <autores>VICENTE, ANDRÉ DE ALBUQUERQUE ; CABRAL, DÉBORA ARRUDA ; COLETI, JORGE LUÍS ; TELLES, VICTOR BRIDI ; Santos, Tiago Felipe de Abreu ; TENÓRIO, JORGE ALBERTO SOARES</autores>
+          <titulo>CARACTERIZAÇÃO MICROESTRUTURAL E ANÁLISES QUÍMICAS SEMI-QUANTITATIVAS DAS FASES FERRITA E AUSTENITA EM AÇOS INOXIDÁVEIS DUPLEX</titulo>
+          <nome_evento>72º Congresso Anual da ABM</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas>477-486</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MARQUES, I. J. ; SANTOS, T.F.A.</autores>
+          <titulo>Cinética de Precipitação de Fases Intermetálicas Deletérias em Aço Inoxidável UNS S32205</titulo>
+          <nome_evento>22° Congresso Brasileiro de Engenharia e Ciência dos Materiais</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas>5349-5361</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SANTA CRUZ, L. A. ; SILVA, D. L. A. ; URTIGA FILHO, S. L. ; SANTOS, T.F.A.</autores>
+          <titulo>Avaliação da resistência à corrosão de juntas soldadas de aços inoxidáveis superduplex em meio contendo cloretos variando o pH e a temperatura de ensaio</titulo>
+          <nome_evento>22° Congresso Brasileiro de Engenharia e Ciência dos Materiais</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas>6553-6564</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>SANTOS, T. F. A.; FONSECA, E. B. ; TORRES, E.A. ; RAMIREZ, A.J.</autores>
+          <titulo>Soldagem por atrito com pino não consumível de aços inoxidáveis duplex</titulo>
+          <nome_evento>XLI Congresso Nacional de Soldagem</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>FIGUEIROA, D. W. ; PIGOZZO, I. O. ; SILVA, R. H. G. ; SANTOS, T. F. A. ; URTIGA FILHO, S. L.</autores>
+          <titulo>Influência da Posição e dos Parâmetros de Soldagem TIG Orbital Aplicada a Tubulações de Grande Diâmetro e Parede Espessa em Aço Baixo Carbono nas Características Geométricas dos Cordões</titulo>
+          <nome_evento>XLI Congresso Nacional de Soldagem</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+    </trabalho_completo_congresso>
+    <artigos_em_revista>
+        <artigo_revista>
+          <doi></doi>
+          <autores>MARQUES, IGOR J. ; SILVA, F. J. ; FRANCA, T. S. ; SOUSA, G. G. ; HERMENEGILDO, T.F.C. ; SANTOS, T. F. A.</autores>
+          <titulo>Evaluation of abrasive wear in UNS S32101 and S32750 duplex stainless steels submitted to friction stir processing</titulo>
+          <revista>Materials Research-Ibero-american Journal of Materials</revista>
+          <ano>2020</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </artigo_revista>
+    </artigos_em_revista>
+    <apresentacao_trabalho>
+        <trabalho_apresentado>
+          <titulo>A Proposal for Thermal Computational Model For API 5L-X80 Steel Friction Stir Welds Based on Thermocouples Measurements</titulo>
+          <autores>SOUSA, G. G. ; MONTOYA, M. ; SILVA, N. S. B. ; HERMENEGILDO, T.F.C. ; SANTOS, T. F. A.</autores>
+          <ano>2018</ano>
+          <natureza>Apresentação de Trabalho/Seminário</natureza>
+        </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Long time performance assessment of reinforced polycarbonate to powerlines application</titulo>
+          <autores>VIRGOLINO, F. S. S. ; VICENTE, A. A. ; TENORIO, J. A. S. ; URTIGA FILHO, S. L. ; SANTOS, T. F. A.</autores>
+          <ano>2017</ano>
+          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
+        </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Soldagem de aços pela técnica FSW aplicado na indústria naval</titulo>
+          <autores>SANTOS, T. F. A</autores>
+          <ano>2015</ano>
+          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
+        </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Soldagem por atrito com pino não consumível de aços inoxidáveis duplex</titulo>
+          <autores>SANTOS, T. F. A.; TORRES, E.A. ; RAMIREZ, A.J.</autores>
+          <ano>2015</ano>
+          <natureza>Apresentação de Trabalho/Congresso</natureza>
+        </trabalho_apresentado>
+    </apresentacao_trabalho>
+    <trabalhos_tecnicos>
+        <trabalho>
+          <titulo>Grupo de pesquisa em 'Tecnologia e Metalurgia da Soldagem e União de Materiais'. 2017; Tema: Divulgação de atividades de grupo de pesquisa</titulo>
+          <autores>SANTOS, T.F.A.; HERMENEGILDO, T.F.C.</autores>
+          <ano>2017</ano>
+        </trabalho>
+    </trabalhos_tecnicos>
+    <orientacao_doutorado_em_andamento>
+        <tese>
+          <nome_aluno>Gleryston Thiago Gomes da Silva</nome_aluno>
+          <titulo_trabalho>Cinética de Oxidação em altas temperaturas de revestimentos de aço inoxidável 347</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Marcos Vinicyus de Araújo Oliveira</nome_aluno>
+          <titulo_trabalho>Manufatura aditiva a arco de aços baixa liga alta resistência</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Erike Wilker Arruda Figueredo</nome_aluno>
+          <titulo_trabalho>Produção e caracterização de peças produzidas por manufatura aditiva de aços inoxidáveis</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Ana Carla Santos da Silva</nome_aluno>
+          <titulo_trabalho>Aplicabilidade do processo Tandem Arc com quatro arames em soldagem com costura helicoidal em campo do aço ASTM A572 Gr 50</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Camila Albuquerque Fernandes</nome_aluno>
+          <titulo_trabalho>Avaliação da tenacidade à fratura CTOD de juntas entalhadas do aço AH36 unidas por soldagem híbrida laser-arco</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Coorientador).</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+    </orientacao_doutorado_em_andamento>
+    <orientacao_mestrado_em_andamento>
+        <dissertacao>
+          <nome_aluno>Thiago Henrique Bezerra de Santana</nome_aluno>
+          <titulo_trabalho>Soldagem híbrida por eletroscória com fita em vasos de pressão</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Dissertação (Mestrado profissional em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Deusdedit Carlos da Silva Junior</nome_aluno>
+          <titulo_trabalho>Implementação da soldagem por arame tubular em aços inoxidáveis duplex e superduplex para a indústria de gás e óleo</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Lucas Oliveira Siqueira</nome_aluno>
+          <titulo_trabalho>Soldabilidade de tubulações de alumínio para aviação civil em dispositivos com rigorosos requisitos mecânicos</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Aeroespacial) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Ivan Bezerra de Mello Picchi</nome_aluno>
+          <titulo_trabalho>Soldagem dissimilar de juntas de aço inox 904L e aço carbono aplicadas em trocadores de calor</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Igor Jordão Marques</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de eletrodos revestidos com materiais 2D de grafeno para soldagem e revestimento</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Mayara Vasconcelos Santos</nome_aluno>
+          <titulo_trabalho>Avaliação do desgaste abrasivo e da resistência à corrosão de revestimentos de aço inoxidável aplicados em ambientes de alta salinidade</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Dissertação (Mestrado profissional em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Luis Henrique Rodrigues Apolinário</nome_aluno>
+          <titulo_trabalho>Aplicabilidade de revestimentos de aços inoxidáveis em paredes de caldeiras a vapor com condensação de água de processo</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Helen Rodrigues Araújo</nome_aluno>
+          <titulo_trabalho>Caracterização microestrutural de revestimentos de aço inoxidável 347 depositados por soldgaem com etapa de amanteigamento em aço inoxidável 309</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Guilherme Gadelha de Sousa</nome_aluno>
+          <titulo_trabalho>Distribuição do campo de temperaturas por simulação computacional em juntas do aço API 5L-X80 soldadas por FSW</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_em_andamento>
+    <orientacao_iniciacao_cientifica_em_andamento>
+        <iniciacao_cientifica>
+          <nome_aluno>Petronio Luiz Cabral</nome_aluno>
+          <titulo_trabalho>Implementação de algoritmos para segmentação automática de imagens de microestruturas de materiais metálicos</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Iniciação científica (Graduando em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Juliana Borba Evangelista</nome_aluno>
+          <titulo_trabalho>Avaliação eletroquímica de revestimentos de aço inoxidável AISI 316L produzidos por laser cladding quando submetidos a tratamentos térmicos</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Iniciação científica (Graduando em Engenharia Química) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Túlio Albuquerque Farias</nome_aluno>
+          <titulo_trabalho>Avaliação do desempenho mecânico de juntas soldadas por arco submerso com costura helicoidal</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Iniciação científica (Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Keliton Gomes de Souza Cruz</nome_aluno>
+          <titulo_trabalho>Estudo do efeito da composição química do metal de adição na soldagem GMAW de aço inoxidável duplex</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Iniciação científica (Graduando em Química) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+    </orientacao_iniciacao_cientifica_em_andamento>
+    <orientacao_mestrado_concluido>
+        <dissertacao>
+          <nome_aluno>Ana Carla Santos da Silva</nome_aluno>
+          <titulo_trabalho>Caracterização microestrutural de juntas soldadas do aço A-36 produzidas por soldagem helicoidal em campo</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Magno Felipe Holanda Barboza Inácio Teixeira</nome_aluno>
+          <titulo_trabalho>Cinética de decomposição de policarbonato reforçado com fibra de vidro e de carbono sob influência de radiação ultravioleta</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Erike Wilker Arruda Figueredo</nome_aluno>
+          <titulo_trabalho>Avaliação dos parâmetros de deposição por laser e caracterização microestrutural de revestimentos de aços inoxidáveis em substrato metálico</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Daniel Wallerstein Figueiroa</nome_aluno>
+          <titulo_trabalho>Influência do Teor de CO2 e do Metal de Adição na Soldagem Híbrida Laser-GMAW em Aço Estrutural Grau S355</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_concluido>
+    <orientacao_tcc_concluido>
+        <tcc>
+          <nome_aluno>Ruan Florentino Correia Barbosa</nome_aluno>
+          <titulo_trabalho>Estimativa dos Custos de Soldagem Aplicados aos Principais Processos à Arco Elétrico em um Laboratório de Pesquisa</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>(Graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Igor Jordão Marques</nome_aluno>
+          <titulo_trabalho>Efeito da soldagem por atrito com pino não consumível na formação de fases intermetálicas em aços inoxidáveis duplex</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Graduação em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Luis Henrique Rodrigues Apolinario</nome_aluno>
+          <titulo_trabalho>Modos de solidificação predominantes em revestimentos de aço inoxidável austenítico 316L sobre substrato de aço inoxidável 304 depositados por laser cladding</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Larissa Agostinho de Santa Cruz Oliveira</nome_aluno>
+          <titulo_trabalho>Efeito do pH e da Temperatura na Resistência à Corrosão de Aços Inoxidáveis Superduplex</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduação em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+    </orientacao_tcc_concluido>
+    <orientacao_iniciacao_cientifica_concluido>
+        <iniciacao_cientifica>
+          <nome_aluno>Igor Jordão Marques</nome_aluno>
+          <titulo_trabalho>Implementação de algoritmos para segmentação automática de imagens de microestruturas de materiais metálicos</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Leidy Catarina Felix dos Anjos</nome_aluno>
+          <titulo_trabalho>Avaliação de Revestimento de Aço Inoxidável Austenítico em Subtrato de Tubulação de Caldeiras</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Igor Jordão Marques</nome_aluno>
+          <titulo_trabalho>Efeito da precipitação isotérmica da fase sigma e de sua quantidade em juntas soldadas de aços inoxidáveis lean duplex</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Matheus Yuri Bezerra da Silva Araújo</nome_aluno>
+          <titulo_trabalho>Avaliação da adição de prata na brasagem estanho-prata de tubulações de cobre para transporte de água em navios</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Engenharia Mecânica) - Universidade Federal Rural de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Pedro Victor Brito da Rocha</nome_aluno>
+          <titulo_trabalho>Avaliação do ciclo térmico na soldabilidade PTH/SMD usando soldas livre de Pb de componentes em placas de circuito impresso</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Thiago Santana de França</nome_aluno>
+          <titulo_trabalho>Avaliação do desgaste abrasivo em juntas processadas por atrito com pino não consumível de aços inoxidáveis duplex</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Igor Jordão Marques</nome_aluno>
+          <titulo_trabalho>Cinética de formação da fase sigma em juntas soldadas por atrito com pino dos aços inoxidáveis superduplex UNS S32750 e S32760</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Igor Jordão Marques</nome_aluno>
+          <titulo_trabalho>Efeito da formação isotérmica e cinética da fase sigma em juntas soldadas por atrito com pino dos aços inoxidáveis duplex UNS S32205</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Larissa Agostinho de Santa Cruz Oliveira</nome_aluno>
+          <titulo_trabalho>Avaliação da resistência à corrosão de juntas de aços inoxidáveis duplex unidos por soldagem por atrito com pino por meio de técnicas eletroquímicas</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+    </orientacao_iniciacao_cientifica_concluido>
+    <orientacao_outros_tipos_concluido>
+        <orientacao_outra>
+          <nome_aluno>Larissa Agostinho de Santa Cruz Oliveira</nome_aluno>
+          <titulo_trabalho>Estágio curricular em Engenharia de Materiais</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </orientacao_outra>
+        <orientacao_outra>
+          <nome_aluno>Luis Henrique Rodrigues Apolinario</nome_aluno>
+          <titulo_trabalho>Estágio curricular em Engenharia Mecânica</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </orientacao_outra>
+    </orientacao_outros_tipos_concluido>
+    <participacao_evento>
+        <evento>
+          <titulo>12th International Seminar Numerical Analysis of Weldability.A Proposal for Thermal Computational Model For API 5L-X80 Steel Friction Stir Welds Based on Thermocouples Measurements. 2018. (Seminário).</titulo>
+          <ano>2018</ano>
+        </evento>
+        <evento>
+          <titulo>18th International Conference on Internal Friction and Mechanical Spectroscopy. Long time performance assessment of reinforced polycarbonate to powerlines application. 2017. (Congresso).</titulo>
+          <ano>2017</ano>
+        </evento>
+        <evento>
+          <titulo>II Mostra de Engenharia de Materiais da UFPE.O que o setor industrial espera do profissional de Engenharia de Materiais?. 2017. (Encontro).</titulo>
+          <ano>2017</ano>
+        </evento>
+        <evento>
+          <titulo>22° Congresso Brasileiro de Engenharia e Ciência dos Materiais. Presidente da mesa: Metais. 2016. (Congresso).</titulo>
+          <ano>2016</ano>
+        </evento>
+        <evento>
+          <titulo>22º Congresso Brasileiro de Engenharia e Ciência dos Materiais. Estudo da influência do teor de CO2 em misturas Ar + CO2 e do metal de adição na soldagem híbrida laser-GMAW em aço estrutural. 2016. (Congresso).</titulo>
+          <ano>2016</ano>
+        </evento>
+        <evento>
+          <titulo>XV Brazil MRS Meeting. Corrosion resistance of duplex stainless stee friction stir welds by potentiodynamic measurements and immersion tests. 2016. (Congresso).</titulo>
+          <ano>2016</ano>
+        </evento>
+        <evento>
+          <titulo>13a Conferência sobre Tecnologia de Equipamentos ? COTEQ. Soldagem de aços pela técnica FSW aplicado na indústria naval. 2015. (Congresso).</titulo>
+          <ano>2015</ano>
+        </evento>
+        <evento>
+          <titulo>XLI Congresso Nacional de Soldagem. Soldagem por atrito com pino não consumível de aços inoxidáveis duplex. 2015. (Congresso).</titulo>
+          <ano>2015</ano>
+        </evento>
+    </participacao_evento>
+  </pesquisador>
+</curriculo_lattes>

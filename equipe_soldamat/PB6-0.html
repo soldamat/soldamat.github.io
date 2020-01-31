@@ -1,0 +1,191 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>Grupo SoldaMAT</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>Grupo SoldaMAT</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        
+
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Resumos publicados em anais de congressos'}, 
+series: [{data: [[2003,
+1],
+[2004,
+2],
+[2005,
+1],
+[2007,
+2],
+[2009,
+2],
+[2010,
+2],
+[2011,
+5]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Resumos publicados em anais de congressos</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 15<br>
+                    
+                    
+                    <div id="dv-year-2011"><h3 class="year">2011</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>FONSECA, E.B. ; SANTOS, TFA ; BUTTON, S.T. ; RAMIREZ, A.J.. <b>Physical simulation of friction stir welding on UNS S32205 duplex stainless steel</b>. Em: X Encontro da SBPMat (1st Brazilian Symposium in Friction Stir Welding and Processing), 2011, Gramado. X Encontro da SBPMat, p. 1-1, 2011. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Physical+simulation+of+friction+stir+welding+on+UNS+S32205+duplex+stainless+steel&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Physical+simulation+of+friction+stir+welding+on+UNS+S32205+duplex+stainless+steel">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Physical+simulation+of+friction+stir+welding+on+UNS+S32205+duplex+stainless+steel">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>MAGNANI, M. ; QUEIROZ, R.R.M. ; SANTOS, TFA ; TERADA, M. ; RAMIREZ, A.J.. <b>Correlation of microstructure and corrosion behavior of friction stir welded duplex stainless steel</b>. Em: X Encontro da SBPMat (1st Brazilian Symposium in Friction Stir Welding and Processing), 2011, Gramado. X Encontro da SBPMat, p. 1-1, 2011. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Correlation+of+microstructure+and+corrosion+behavior+of+friction+stir+welded+duplex+stainless+steel&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Correlation+of+microstructure+and+corrosion+behavior+of+friction+stir+welded+duplex+stainless+steel">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Correlation+of+microstructure+and+corrosion+behavior+of+friction+stir+welded+duplex+stainless+steel">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>RAMIREZ, A.J. ; HERMENEGILDO, T.F.C. ; SANTOS, TFA ; AFONSO, C.R.M. ; MARINHO, R.R. ; PAES, M.T.P.. <b>Friction stir welding of highly alloyed ISO 3183 X80M steel for application in oil and natural gas pipelines - Insight into the microstructural evoluation</b>. Em: X Encontro da SBPMat (1st Brazilian Symposium in Friction Stir Welding and Processing), 2011, Gramado. X Encontro da SBPMat, p. 1-1, 2011. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Friction+stir+welding+of+highly+alloyed+ISO+3183+X80M+steel+for+application+in+oil+and+natural+gas+pipelines+-+Insight+into+the+microstructural+evoluation&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Friction+stir+welding+of+highly+alloyed+ISO+3183+X80M+steel+for+application+in+oil+and+natural+gas+pipelines+-+Insight+into+the+microstructural+evoluation">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Friction+stir+welding+of+highly+alloyed+ISO+3183+X80M+steel+for+application+in+oil+and+natural+gas+pipelines+-+Insight+into+the+microstructural+evoluation">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>SANTOS, TFA; COSTA-BRUNO, D.S. ; MAGNANI, M. ; PEREIRA, V.F. ; QUEIROZ, R.R.M. ; PAES, M.T.P. ; MARINHO, R.R. ; RAMOS-NETO, F.F. ; RAMIREZ, A.J.. <b>Challenges of friction stir welding in high temperature alloys applied to the oil and gas industry:</b>. Em: 1st IIW European-South American School of Welding and Correlated Processes, 2011, Ouro Preto. Anais do IIW, 2011. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Challenges+of+friction+stir+welding+in+high+temperature+alloys+applied+to+the+oil+and+gas+industry:&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Challenges+of+friction+stir+welding+in+high+temperature+alloys+applied+to+the+oil+and+gas+industry:">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Challenges+of+friction+stir+welding+in+high+temperature+alloys+applied+to+the+oil+and+gas+industry:">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>SANTOS, TFA; RAMIREZ, A.J.. <b>Friction stir welding of duplex stainless steel</b>. Em: X Encontro da SBPMat (1st Brazilian Symposium in Friction Stir Welding and Processing), 2011, Gramado. X Encontro da SBPMat, p. 1-1, 2011. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Friction+stir+welding+of+duplex+stainless+steel&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Friction+stir+welding+of+duplex+stainless+steel">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Friction+stir+welding+of+duplex+stainless+steel">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2010"><h3 class="year">2010</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>SANTOS, T.F.A.; QUEIROZ, R.R.M. ; MARINHO, R.R. ; PAES, M.T.P. ; RAMIREZ, A.J.. <b>Microstructural characterization of UNS S32205 duplex stainless steel friction stir welds</b>. Em: IX Encontro da SBPMat, 2010, Ouro Preto. IX Encontro da SBPMat. Rio de Janeiro: Sociedade Brasileira de Pesquisa em Materiais, p. 1-1, 2010. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Microstructural+characterization+of+UNS+S32205+duplex+stainless+steel+friction+stir+welds&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Microstructural+characterization+of+UNS+S32205+duplex+stainless+steel+friction+stir+welds">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Microstructural+characterization+of+UNS+S32205+duplex+stainless+steel+friction+stir+welds">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>SANTOS, TFA; RAMIREZ, A.J. ; HERMENEGILDO, T.F.C. ; BENATI, D.M. ; AFONSO, C.R.M.. <b>Friction stir welding of ISO 3183 X80M steel</b>. Em: 20ª Reunião Anual de usuários do LNLS, 2010, Campinas. 20ª RAU. Campinas: Laboratório Nacional de Luz Síncrotron, v. 20, p. 132-132, 2010. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Friction+stir+welding+of+ISO+3183+X80M+steel&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Friction+stir+welding+of+ISO+3183+X80M+steel">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Friction+stir+welding+of+ISO+3183+X80M+steel">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2009"><h3 class="year">2009</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>SANTOS, TFA; BENATI, D.M. ; HERMENEGILDO, T.F.C. ; AFONSO, C.R.M. ; MARINHO, R.R. ; PAES, M.T.P. ; RAMIREZ, A.J.. <b>Friction stir welding of ISO 3183 X80M (API-5L-X80) welded steel joints</b>. Em: 11ht International Conference on Advanced Materials (ICAM), 2009, Rio de Janeiro. Proceedings of ICAM. Rio de Janeiro, p. 1-1, 2009. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Friction+stir+welding+of+ISO+3183+X80M+(API-5L-X80)+welded+steel+joints&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Friction+stir+welding+of+ISO+3183+X80M+(API-5L-X80)+welded+steel+joints">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Friction+stir+welding+of+ISO+3183+X80M+(API-5L-X80)+welded+steel+joints">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>SANTOS, TFA; HERMENEGILDO, T.F.C. ; AFONSO, C.R.M. ; HOPPE, R.A. ; PAES, M.T.P. ; RAMIREZ, A.J.. <b>Fracture toughness of ISO 3183 X80M (API 5L X80) steel friction stir welds</b>. Em: International Conference WELDS, 2009, Fort Myers - EUA. Proceedings of WELDS, p. 1-1, 2009. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Fracture+toughness+of+ISO+3183+X80M+(API+5L+X80)+steel+friction+stir+welds&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Fracture+toughness+of+ISO+3183+X80M+(API+5L+X80)+steel+friction+stir+welds">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Fracture+toughness+of+ISO+3183+X80M+(API+5L+X80)+steel+friction+stir+welds">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2007"><h3 class="year">2007</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>SANTOS, T.F.A.; ANDRADE, M.S.. <b>Influência do tratamento térmico nas transformações martensíticas em ligas TiNi ricas em níquel</b>. Em: II Simpósio Mineiro de Ciência dos Materiais, 2007, Ouro Preto. Resumos do II SMCM. Ouro Preto: Revista da Física de Ouro Preto, v. 1, p. 31-31, 2007. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Influência+do+tratamento+térmico+nas+transformações+martensíticas+em+ligas+TiNi+ricas+em+níquel&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Influência+do+tratamento+térmico+nas+transformações+martensíticas+em+ligas+TiNi+ricas+em+níquel">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Influência+do+tratamento+térmico+nas+transformações+martensíticas+em+ligas+TiNi+ricas+em+níquel">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>SANTOS, T.F.A.; ANDRADE, M.S.. <b>Avaliação dilatométrica da quantidade e do tipo de martensitas induzidas por deformação em um aço inoxidável austenítico do tipo ABNT 304</b>. Em: II Simpósio Mineiro de Ciência dos Materiais, 2007, Ouro Preto. Resumos do II SMCM. Ouro Preto: Revista da Física de Ouro Preto, v. 1, p. 31-32, 2007. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Avaliação+dilatométrica+da+quantidade+e+do+tipo+de+martensitas+induzidas+por+deformação+em+um+aço+inoxidável+austenítico+do+tipo+ABNT+304&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Avaliação+dilatométrica+da+quantidade+e+do+tipo+de+martensitas+induzidas+por+deformação+em+um+aço+inoxidável+austenítico+do+tipo+ABNT+304">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Avaliação+dilatométrica+da+quantidade+e+do+tipo+de+martensitas+induzidas+por+deformação+em+um+aço+inoxidável+austenítico+do+tipo+ABNT+304">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2005"><h3 class="year">2005</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>ALMEIDA, G.M.R. ; COTA, A.B. ; SANTOS, T.F.A.. <b>Descrição microestrutural de aços de baixo carbono por microscopia de força atômica</b>. Em: XIII SIC UFOP, 2005, Ouro Preto. Anais.... Ouro Preto: Núcleo de Tecnológia da Informação, 2005. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Descrição+microestrutural+de+aços+de+baixo+carbono+por+microscopia+de+força+atômica&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Descrição+microestrutural+de+aços+de+baixo+carbono+por+microscopia+de+força+atômica">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Descrição+microestrutural+de+aços+de+baixo+carbono+por+microscopia+de+força+atômica">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2004"><h3 class="year">2004</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>SANTOS, T.F.A.; COTA, A.B.. <b>Avaliação microestrutural de aços por microscopia de varredura por sonda mecânica</b>. Em: XII Seminário de Iniciação Científica da Universidade Federal de Ouro Preto, 2004, Ouro Preto. Anais.... Ouro Preto: Núcleo de Tecnologia da Informação, 2004. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Avaliação+microestrutural+de+aços+por+microscopia+de+varredura+por+sonda+mecânica&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Avaliação+microestrutural+de+aços+por+microscopia+de+varredura+por+sonda+mecânica">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Avaliação+microestrutural+de+aços+por+microscopia+de+varredura+por+sonda+mecânica">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>SANTOS, T.F.A.; COTA, A.B. ; OLIVEIRA, F.L.G.. <b>Efeito da taxa de aquecimento na cinética de formação da austenita</b>. Em: XII Seminário de Iniciação Científica da Universidade Federal de Ouro Preto, 2004, Ouro Preto. Anais.... Ouro Preto: Núcleo de Tecnologia da Informação, 2004. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Efeito+da+taxa+de+aquecimento+na+cinética+de+formação+da+austenita&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Efeito+da+taxa+de+aquecimento+na+cinética+de+formação+da+austenita">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Efeito+da+taxa+de+aquecimento+na+cinética+de+formação+da+austenita">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2003"><h3 class="year">2003</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>SANTOS, T.F.A.; COTA, A.B. ; MACHADO, F.A.. <b>Efeito do Nb da cinética de crescimento do grão ferrítico no resfriamento Contínuo</b>. Em: XI Seminário de Iniciação Científica da Universidade Federal de Ouro Preto, 2003, Ouro Preto. Anais.... Ouro Preto: Núcleo de Tecnologia da Informação, 2003. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Efeito+do+Nb+da+cinética+de+crescimento+do+grão+ferrítico+no+resfriamento+Contínuo&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Efeito+do+Nb+da+cinética+de+crescimento+do+grão+ferrítico+no+resfriamento+Contínuo">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Efeito+do+Nb+da+cinética+de+crescimento+do+grão+ferrítico+no+resfriamento+Contínuo">busca Google</a> ]          </font><br></td></tr>
+            </table></div>
+                    </table>
+                <br><p>
+<br>Data de processamento: 27/11/2019 17:53:59<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:tiago.felipe@ufpe.br">tiago.felipe@ufpe.br</a>         </div> <script type="text/javascript">            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));            </script>            <script type="text/javascript">            try {              var pageTracker = _gat._getTracker("UA-5266248-1");              pageTracker._trackPageview();            } catch(err) {}            </script></body></html>
+              
