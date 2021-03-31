@@ -1,0 +1,17 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
+0,8938691250105531,Braulio Silva Barros,[Sem rotulo],,,1.3476038,44,14,0,3,0,5,22,0,3,6,9,'255,255,255'
+1,2972467462423068,Carlos Augusto do Nascimento Oliveira,[Sem rotulo],,,0.5539078,18,9,0,0,9,0,0,0,0,0,0,'255,255,255'
+2,2869680994075940,Giovanna Machado,[Sem rotulo],,,0.35463297,78,42,0,0,5,9,22,4,1,10,3,'255,255,255'
+3,1568423340359601,Joanna Elzbieta Kulesza,[Sem rotulo],,,1.3476038,39,11,0,2,0,2,24,0,3,3,13,'255,255,255'
+4,0745797282377260,Ricardo Borges Gama Neto,[Sem rotulo],,,0.15,11,8,0,2,1,0,0,1,3,5,0,'255,255,255'
+5,9563158536061549,Severino Alves Junior,[Sem rotulo],,,0.3047923,69,56,0,1,0,0,12,8,25,17,4,'255,255,255'
+6,4668070841633275,Severino Leopoldino Urtiga Filho,[Sem rotulo],,,1.40857,24,23,0,0,1,0,0,0,4,6,3,'255,255,255'
+7,2200553486822519,Tiago Felipe de Abreu Santos,[Sem rotulo],,,1.6828892,36,26,0,0,10,0,0,0,0,6,11,'255,255,255'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
+0,3,37.0
+0,5,5.0
+1,6,1.0
+1,7,1.0
+2,7,1.0
+3,5,5.0
+6,7,5.0

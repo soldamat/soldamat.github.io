@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<curriculo_lattes data_processamento="22/01/2021 08:55:55">
+<curriculo_lattes data_processamento="31/03/2021 19:18:24">
   <pesquisador id="2200553486822519">
     <identificacao>
       <identificador10></identificador10>
@@ -20,8 +20,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Avenida Jornalista Aníbal Fernandes Cidade Universitária 50740560 - Recife, PE - Brasil Telefone: (81) 21263132 URL da Homepage: www.ufpe.br/soldamat</endereco_profissional>
-      <endereco_profissional_lat>-8.0543756</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9495275</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -74,14 +74,14 @@
         <projeto>
           <ano_inicio>2017</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>Produção e caracterização de revestimento por laser cladding em matriz de aços e aços inoxidáveis</nome>
-          <descricao>Descrição: Estudar a deposição a laser de aços inoxidáveis e/ou materiais mistos em substratos metálicos visando a melhoria da resistência ao desgaste, corrosão, dentre outras.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Luis Henrique Rodrigues Apolinário - Integrante / Erike Wilker Arruda Figueredo - Integrante / Helen Rodrigues Araújo - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de orientações: 2</descricao>
+          <nome>Aplicabilidade do processo Tandem Arc com quatro arames em soldagem com costura helicoidal em campo do aço ASTM A572 Gr 50</nome>
+          <descricao>Descrição: Pretende-se desenvolver e aprimorar a fabricação de tubos em campo com o aumento de produtividade, dobrando a quantidade de arames passando de dois para quatro (dois internos e dois externos) a partir do uso da técnica Tandem-Arc, sem abdicar de melhores propriedades mecânicas, realizando um estudo teórico e experimental das microestruturas formadas e seu impacto sobre as propriedades mecânicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Doutorado: (1) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Edwar Andres Torres Lopez - Integrante / Flávio José da Silva - Integrante / Ana Carla Santos da Silva - Integrante / Túlio Albuquerque Farias - Integrante / Deusdedit Carlos da Silva Jr1 - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa. Número de produções C, T A: 5 / Número de orientações: 2</descricao>
         </projeto>
         <projeto>
           <ano_inicio>2017</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>Aplicabilidade do processo Tandem Arc com quatro arames em soldagem com costura helicoidal em campo do aço ASTM A572 Gr 50</nome>
-          <descricao>Descrição: Pretende-se desenvolver e aprimorar a fabricação de tubos em campo com o aumento de produtividade, dobrando a quantidade de arames passando de dois para quatro (dois internos e dois externos) a partir do uso da técnica Tandem-Arc, sem abdicar de melhores propriedades mecânicas, realizando um estudo teórico e experimental das microestruturas formadas e seu impacto sobre as propriedades mecânicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Doutorado: (1) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Edwar Andres Torres Lopez - Integrante / Flávio José da Silva - Integrante / Ana Carla Santos da Silva - Integrante / Túlio Albuquerque Farias - Integrante / Deusdedit Carlos da Silva Jr1 - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa. Número de produções C, T A: 5 / Número de orientações: 2</descricao>
+          <nome>Produção e caracterização de revestimento por laser cladding em matriz de aços e aços inoxidáveis</nome>
+          <descricao>Descrição: Estudar a deposição a laser de aços inoxidáveis e/ou materiais mistos em substratos metálicos visando a melhoria da resistência ao desgaste, corrosão, dentre outras.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Luis Henrique Rodrigues Apolinário - Integrante / Erike Wilker Arruda Figueredo - Integrante / Helen Rodrigues Araújo - Integrante. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.Número de orientações: 2</descricao>
         </projeto>
         <projeto>
           <ano_inicio>2017</ano_inicio>
@@ -122,7 +122,6 @@
         <id_lattes_colaborador>6999199593229732</id_lattes_colaborador>
         <id_lattes_colaborador>8730206395789661</id_lattes_colaborador>
         <id_lattes_colaborador>0750160286058633</id_lattes_colaborador>
-        <id_lattes_colaborador>5249988916470136</id_lattes_colaborador>
         <id_lattes_colaborador>4015926655072714</id_lattes_colaborador>
         <id_lattes_colaborador>5008092942844153</id_lattes_colaborador>
         <id_lattes_colaborador>2200553486822519</id_lattes_colaborador>
@@ -164,6 +163,16 @@
           <revista>INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY</revista>
           <volume>INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY</volume>
           <paginas>2327-2339</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.5829/ije.2021.34.04a.29</doi>
+          <titulo>Control of Steel Detachment and Metal Flow on Aluminum-steel Friction Stir Welding of Thin Joints</titulo>
+          <autores>TORRES, E.A. ; GRACIANO-URIBE, J. ; SANTOS, T. F. A.</autores>
+          <revista>IJE TRANSACTIONS A: Basics</revista>
+          <volume>IJE TRANSACTIONS A: Basics</volume>
+          <paginas>1024-1034</paginas>
           <numero></numero>
           <ano>2021</ano>
         </artigo>
@@ -258,16 +267,6 @@
           <ano>2019</ano>
         </artigo>
         <artigo>
-          <doi>http://dx.doi.org/10.1007/s12613-019-1790-0</doi>
-          <titulo>Effect of high anodic polarization on the passive layer properties of superduplex stainless steel friction stir welds at different chloride electrolyte pH values and temperatures</titulo>
-          <autores>SANTA CRUZ, L. A. ; MACHADO, G. ; VICENTE, A. A. ; HERMENEGILDO, T.F.C. ; SANTOS, T. F. A.</autores>
-          <revista>International Journal of Minerals Metallurgy and Materials</revista>
-          <volume>International Journal of Minerals Metallurgy and Materials</volume>
-          <paginas>710-721</paginas>
-          <numero></numero>
-          <ano>2019</ano>
-        </artigo>
-        <artigo>
           <doi>http://dx.doi.org/10.1007/s13632-018-0506-6</doi>
           <titulo>Corrosion Evaluation of Duplex and Superduplex Stainless Steel Friction Stir Welds Using Potentiodynamic Measurements and Immersion Tests in Chloride Environments</titulo>
           <autores>SANTA CRUZ, LARISSA A. ; MARQUES, IGOR J. ; URTIGA FILHO, SEVERINO L. ; HERMENEGILDO, TAHIANA F. C. ; SANTOS, TIAGO F. A.</autores>
@@ -324,6 +323,16 @@
           <revista>JOURNAL OF ALLOYS AND COMPOUNDS</revista>
           <volume>JOURNAL OF ALLOYS AND COMPOUNDS</volume>
           <paginas>153170</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s12613-019-1790-0</doi>
+          <titulo>Effect of high anodic polarization on the passive layer properties of superduplex stainless steel friction stir welds at different chloride electrolyte pH values and temperatures</titulo>
+          <autores>SANTA CRUZ, L. A. ; MACHADO, G. ; VICENTE, A. A. ; HERMENEGILDO, T.F.C. ; SANTOS, T. F. A.</autores>
+          <revista>International Journal of Minerals Metallurgy and Materials</revista>
+          <volume>International Journal of Minerals Metallurgy and Materials</volume>
+          <paginas>710-721</paginas>
           <numero></numero>
           <ano>2019</ano>
         </artigo>
@@ -651,6 +660,14 @@
     </trabalhos_tecnicos>
     <orientacao_doutorado_em_andamento>
         <tese>
+          <nome_aluno>Guilherme Gadelha de Sousa Figueiredo</nome_aluno>
+          <titulo_trabalho>Simulação Numérica de camadas depositadas por manufatura aditiva a arco</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
           <nome_aluno>Gleryston Thiago Gomes da Silva</nome_aluno>
           <titulo_trabalho>Cinética de Oxidação em altas temperaturas de revestimentos de aço inoxidável 347</titulo_trabalho>
           <ano>2020</ano>
@@ -667,36 +684,20 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tese>
         <tese>
-          <nome_aluno>Guilherme Gadelha de Sousa Figueiredo</nome_aluno>
-          <titulo_trabalho>Simulação Numérica de camadas depositadas por manufatura aditiva a arco</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tese>
-        <tese>
-          <nome_aluno>Marcos Vinicyus de Araújo Oliveira</nome_aluno>
-          <titulo_trabalho>Manufatura aditiva a arco de aços baixa liga alta resistência</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tese>
-        <tese>
-          <nome_aluno>Erike Wilker Arruda Figueredo</nome_aluno>
-          <titulo_trabalho>Manufatura aditiva por laser cladding de aços</titulo_trabalho>
-          <ano>2019</ano>
-          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tese>
-        <tese>
           <nome_aluno>Romildo Alves Berenguer</nome_aluno>
           <titulo_trabalho>Química Teórica e Experimental Aplicada a Materiais de Construção Civil</titulo_trabalho>
           <ano>2019</ano>
           <instituicao>Tese (Doutorado em Ciência de Materiais) - Universidade Federal de Pernambuco. (Coorientador).</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Erike Wilker Arruda Figueredo</nome_aluno>
+          <titulo_trabalho>Manufatura aditiva por laser cladding de aços ARBL</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tese>
         <tese>
           <nome_aluno>Camila Albuquerque Fernandes</nome_aluno>
@@ -720,8 +721,16 @@
           <nome_aluno>Carlos Fernando Gomes do Nascimento</nome_aluno>
           <titulo_trabalho>O mecanismo químico das reações álcali-agregado em materiais cimentícios</titulo_trabalho>
           <ano>2020</ano>
-          <instituicao>Dissertação (Mestrado profissional em Ciência de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <instituicao>Dissertação (Mestrado em Ciência de Materiais) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Coorientador).</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Leandro Theodoro Raposo de Mello</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de sistema para monitoramento de falhas estruturais em superfícies aeronáuticas utilizando ondas guiadas</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia e Ciências Aeroespaciais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. (Coorientador).</agencia_de_fomento>
           <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
@@ -736,24 +745,16 @@
           <nome_aluno>Thiago Henrique Bezerra de Santana</nome_aluno>
           <titulo_trabalho>Soldagem de união tubo-espelho de trocadores de calor de titânio</titulo_trabalho>
           <ano>2020</ano>
-          <instituicao>Dissertação (Mestrado profissional em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Leandro Theodoro Raposo de Mello</nome_aluno>
-          <titulo_trabalho>Desenvolvimento de sistema para monitoramento de falhas estruturais em superfícies aeronáuticas utilizando ondas guiadas</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Dissertação (Mestrado em Engenharia e Ciências Aeroespaciais) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. (Coorientador).</agencia_de_fomento>
-          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
-        </dissertacao>
-        <dissertacao>
-          <nome_aluno>Igor Jordão Marques</nome_aluno>
-          <titulo_trabalho>Desenvolvimento de eletrodos revestidos com materiais 2D de grafeno para soldagem e revestimento</titulo_trabalho>
+          <nome_aluno>Mayara Vasconcelos Santos</nome_aluno>
+          <titulo_trabalho>Avaliação do desgaste abrasivo e da resistência à corrosão de revestimentos de aço inoxidável aplicados em ambientes de alta salinidade</titulo_trabalho>
           <ano>2019</ano>
           <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
@@ -765,11 +766,19 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Mayara Vasconcelos Santos</nome_aluno>
-          <titulo_trabalho>Avaliação do desgaste abrasivo e da resistência à corrosão de revestimentos de aço inoxidável aplicados em ambientes de alta salinidade</titulo_trabalho>
+          <nome_aluno>Igor Jordão Marques</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de eletrodos revestidos com materiais 2D de óxido de grafeno para soldagem e revestimento</titulo_trabalho>
           <ano>2019</ano>
-          <instituicao>Dissertação (Mestrado profissional em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Lucas Oliveira Siqueira</nome_aluno>
+          <titulo_trabalho>Soldabilidade de tubulações de aço inoxidável para aviação civil em dispositivos com rigorosos requisitos mecânicos</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia e Ciências Aeroespaciais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
@@ -778,22 +787,6 @@
           <ano>2019</ano>
           <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </dissertacao>
-        <dissertacao>
-          <nome_aluno>Lucas Oliveira Siqueira</nome_aluno>
-          <titulo_trabalho>Soldabilidade de tubulações de alumínio para aviação civil em dispositivos com rigorosos requisitos mecânicos</titulo_trabalho>
-          <ano>2019</ano>
-          <instituicao>Dissertação (Mestrado em Engenharia e Ciências Aeroespaciais) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </dissertacao>
-        <dissertacao>
-          <nome_aluno>Luis Henrique Rodrigues Apolinário</nome_aluno>
-          <titulo_trabalho>Aplicabilidade de revestimentos de aços inoxidáveis em paredes de caldeiras a vapor com condensação de água de processo</titulo_trabalho>
-          <ano>2018</ano>
-          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
     </orientacao_mestrado_em_andamento>
@@ -809,19 +802,19 @@
     </orientacao_tcc_em_andamento>
     <orientacao_iniciacao_cientifica_em_andamento>
         <iniciacao_cientifica>
-          <nome_aluno>Kéliton Gomes de Souza Cruz</nome_aluno>
-          <titulo_trabalho>Avaliação do efeito da concentração de óxido de grafeno em soldagem utilizando o processo SMAW</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Iniciação científica (Graduando em Química) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </iniciacao_cientifica>
-        <iniciacao_cientifica>
           <nome_aluno>Rafael Tomaz Barbosa de Freitas</nome_aluno>
           <titulo_trabalho>Avaliação da Resistência à Corrosão de Juntas Soldadas do Aço 904L e da Liga Inconel 625 para Vasos de Pressão</titulo_trabalho>
           <ano>2020</ano>
           <instituicao>Iniciação científica (Graduando em Química Industrial) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Kéliton Gomes de Souza Cruz</nome_aluno>
+          <titulo_trabalho>Avaliação do efeito da concentração de óxido de grafeno em soldagem utilizando o processo SMAW</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Iniciação científica (Graduando em Química) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </iniciacao_cientifica>
         <iniciacao_cientifica>
@@ -869,6 +862,14 @@
         <dissertacao>
           <nome_aluno>Helen Rodrigues Araújo</nome_aluno>
           <titulo_trabalho>Efeito da Soldagem GMAW por Curto-Circuito Controlado na Execução do Passe de Raiz em Aço Inoxidável AISI A304</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Luis Henrique Rodrigues Apolinário</nome_aluno>
+          <titulo_trabalho>Efeito do NbC em Revestimentos de Aço Inoxidável Austenítico Depositados por Laser CLADDING</titulo_trabalho>
           <ano>2018</ano>
           <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>

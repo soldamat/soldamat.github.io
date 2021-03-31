@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<curriculo_lattes data_processamento="22/01/2021 08:28:55">
+<curriculo_lattes data_processamento="31/03/2021 19:18:14">
   <pesquisador id="8938691250105531">
     <identificacao>
       <identificador10></identificador10>
@@ -28,8 +28,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Av. Prof. Moraes Rego, 1235 Cidade Universitária 50670901 - Recife, PE - Brasil Telefone: (81) 21263131 URL da Homepage: https://www.ufpe.br/suprammat</endereco_profissional>
-      <endereco_profissional_lat>-8.0452684</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9410150</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -85,14 +85,14 @@
         <projeto>
           <ano_inicio>2019</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>Desenvolvimento de sistema para monitoramento de falhas estruturais em superfícies aeronáuticas utilizando ondas guiadas</nome>
-          <descricao>Descrição: Este projeto o desenvolvimento de um sistema de monitoramento que será criado em uma abordagem com sensores, tratamento de dados e geração de uma rotina computacional com diferentes métricas. O software, integrado com o sistema de detecção, irá melhorar o pós-processamento dos sinais emitidos por PZTs e suas interações com falhas superficiais e consequentemente melhorar a precisão do sistema de detecção de falhas, garantindo confiabilidade e prevenindo incidentes e acidentes aeronáuticos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Bráulio Silva Barros - Coordenador / Tiago Felipe de Abreu Santos - Integrante / Leandro Theodoro Raposo de Mello - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.</descricao>
+          <nome>Nanocatalisadores hierárquicos bimetálicos (Fe/Co) para as reações de hidrogenação de CO e CO2</nome>
+          <descricao>Descrição: Este projeto tem como objetivo o desenvolvimento de novas rotas para a utilização eficiente de recursos não petrolíferos, e mais especificamente na transformação termocatalítica de gás de síntese derivado de biomassa (CO, CO2 + H2) em olefinas leves ou álcoois usando catalisadores bimetálicos Fe/Co.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Doutorado: (2) . Integrantes: Bráulio Silva Barros - Coordenador / Joanna Kulesza - Integrante / Fabiana Thayse dos Santos Silva - Integrante / Jildimara de Jesus Santana - Integrante / Mirella Virginie - Integrante / Hugo Antonio Cavalcanti e Silva - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.</descricao>
         </projeto>
         <projeto>
           <ano_inicio>2019</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>Nanocatalisadores hierárquicos bimetálicos (Fe/Co) para as reações de hidrogenação de CO e CO2</nome>
-          <descricao>Descrição: Este projeto tem como objetivo o desenvolvimento de novas rotas para a utilização eficiente de recursos não petrolíferos, e mais especificamente na transformação termocatalítica de gás de síntese derivado de biomassa (CO, CO2 + H2) em olefinas leves ou álcoois usando catalisadores bimetálicos Fe/Co.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Doutorado: (2) . Integrantes: Bráulio Silva Barros - Coordenador / Joanna Kulesza - Integrante / Fabiana Thayse dos Santos Silva - Integrante / Jildimara de Jesus Santana - Integrante / Mirella Virginie - Integrante / Hugo Antonio Cavalcanti e Silva - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.</descricao>
+          <nome>Desenvolvimento de sistema para monitoramento de falhas estruturais em superfícies aeronáuticas utilizando ondas guiadas</nome>
+          <descricao>Descrição: Este projeto o desenvolvimento de um sistema de monitoramento que será criado em uma abordagem com sensores, tratamento de dados e geração de uma rotina computacional com diferentes métricas. O software, integrado com o sistema de detecção, irá melhorar o pós-processamento dos sinais emitidos por PZTs e suas interações com falhas superficiais e consequentemente melhorar a precisão do sistema de detecção de falhas, garantindo confiabilidade e prevenindo incidentes e acidentes aeronáuticos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Bráulio Silva Barros - Coordenador / Tiago Felipe de Abreu Santos - Integrante / Leandro Theodoro Raposo de Mello - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.</descricao>
         </projeto>
         <projeto>
           <ano_inicio>2019</ano_inicio>
@@ -310,16 +310,6 @@
           <ano>2019</ano>
         </artigo>
         <artigo>
-          <doi>http://dx.doi.org/10.1590/s1517-707620190001.0658</doi>
-          <titulo>Performance evaluation of NiCo2O4 spinel as a catalyst for partial oxidation of methane</titulo>
-          <autores>PERES, ANA PAULA DA SILVA ; LIMA, ANDRÉIA CAVALCANTE DE ; BARROS, Bráulio Silva ; RUIZ, JUAN ALBERTO CHAVEZ ; MELO, Dulce Maria de Araújo</autores>
-          <revista>Materia-Rio de Janeiro</revista>
-          <volume>Materia-Rio de Janeiro</volume>
-          <paginas>1-8</paginas>
-          <numero></numero>
-          <ano>2019</ano>
-        </artigo>
-        <artigo>
           <doi>http://dx.doi.org/10.1016/j.matchemphys.2019.121737</doi>
           <titulo>Coordination polymer-derived CuO catalysts for oxidative degradation of methylene blue</titulo>
           <autores>SILVA JUNIOR, O.J. ; MONTEIRO, A.F.F. ; OLIVEIRA, J.B.L. ; ARAÚJO, A.M.U. ; SILVA, D.G. ; Kulesza, J. ; BARROS, B.S.</autores>
@@ -336,6 +326,16 @@
           <revista>OPTICAL MATERIALS</revista>
           <volume>OPTICAL MATERIALS</volume>
           <paginas>109332</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/s1517-707620190001.0658</doi>
+          <titulo>Performance evaluation of NiCo2O4 spinel as a catalyst for partial oxidation of methane</titulo>
+          <autores>PERES, ANA PAULA DA SILVA ; LIMA, ANDRÉIA CAVALCANTE DE ; BARROS, Bráulio Silva ; RUIZ, JUAN ALBERTO CHAVEZ ; MELO, Dulce Maria de Araújo</autores>
+          <revista>Materia-Rio de Janeiro</revista>
+          <volume>Materia-Rio de Janeiro</volume>
+          <paginas>1-8</paginas>
           <numero></numero>
           <ano>2019</ano>
         </artigo>
@@ -473,22 +473,22 @@
     <capitulos_livros>
         <capitulo>
           <livro>Marcia Regina Werner Schneider Abdala. (Org.). Impactos das Tecnologias na Engenharia Civil 4. 1ed.Ponta Grossa</livro>
-          <titulo>INSPEÇÃO E DIAGNÓSTICO DAS MANIFESTAÇÕES PATOLÓGICAS PRESENTES EM UMA PONTE NA REGIÃO METROPOLITANA DO RECIFE</titulo>
-          <autores>BERENGUER, R. A. ; LIRA, Y. C. ; FERREIRA, F. C. ; SILVA, T. M. ; BARROS, B.S. ; KULESZA, J. E.</autores>
-          <edicao></edicao>
-          <editora>Atena Editora</editora>
-          <volume>4</volume>
-          <paginas>97-109</paginas>
-          <ano>2019</ano>
-        </capitulo>
-        <capitulo>
-          <livro>Marcia Regina Werner Schneider Abdala. (Org.). Impactos das Tecnologias na Engenharia Civil 4. 1ed.Ponta Grossa</livro>
           <titulo>ANÁLISE DA INFLUÊNCIA DO USO DE AGREGADO RECICLADO DE CONCRETO NA RESISTÊNCIA MECÂNICA DE ARGAMASSAS</titulo>
           <autores>BERENGUER, R. A. ; LIRA, Y. C. ; FERREIRA, F. C. ; SILVA, T. M. ; Barros, B S ; KULESZA, J. E.</autores>
           <edicao></edicao>
           <editora>Atena Editora</editora>
           <volume>4</volume>
           <paginas>310-321</paginas>
+          <ano>2019</ano>
+        </capitulo>
+        <capitulo>
+          <livro>Marcia Regina Werner Schneider Abdala. (Org.). Impactos das Tecnologias na Engenharia Civil 4. 1ed.Ponta Grossa</livro>
+          <titulo>INSPEÇÃO E DIAGNÓSTICO DAS MANIFESTAÇÕES PATOLÓGICAS PRESENTES EM UMA PONTE NA REGIÃO METROPOLITANA DO RECIFE</titulo>
+          <autores>BERENGUER, R. A. ; LIRA, Y. C. ; FERREIRA, F. C. ; SILVA, T. M. ; BARROS, B.S. ; KULESZA, J. E.</autores>
+          <edicao></edicao>
+          <editora>Atena Editora</editora>
+          <volume>4</volume>
+          <paginas>97-109</paginas>
           <ano>2019</ano>
         </capitulo>
         <capitulo>
@@ -692,6 +692,16 @@
         </resumo>
         <resumo>
           <doi></doi>
+          <autores>FROS, A. C. O. ; LIMA NETO, O. J. ; MONTEIRO, A. F. F. ; HALLWASS, F. ; KULESZA, JOANNA ; BARROS, B.S. ; MONTARROIOS, V. A. S.</autores>
+          <titulo>Estimativa de polaridade da superfície de redes metalorgânicas Cu(1,4-bdc)2H2O e Zn2(1,3-bdc)(bzim)2 por Espectroscopia de 1H NMR</titulo>
+          <nome_evento>23° Congresso Brasileiro de Engenharia e Ciência dos Materiais (23 CBECIMAT), 2018, Foz do Iguaçu. Livro do programa do 23 CBECIMAT</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas>204</paginas>
+          <numero></numero>
+        </resumo>
+        <resumo>
+          <doi></doi>
           <autores>MONTARROIOS, V. A. S. ; BARROS, B.S. ; Kulesza, J. ; FONSECA, J. D. S. ; OLIVEIRA, M. A.</autores>
           <titulo>Inkjet-printed chemical sensors based on Metal-Organic Frameworks</titulo>
           <nome_evento>23° Congresso Brasileiro de Engenharia e Ciência dos Materiais (23 CBECIMAT), 2018, Foz do Iguaçu. Livro do programa do 23 CBECIMAT</nome_evento>
@@ -748,16 +758,6 @@
           <ano>2018</ano>
           <volume></volume>
           <paginas>2018</paginas>
-          <numero></numero>
-        </resumo>
-        <resumo>
-          <doi></doi>
-          <autores>FROS, A. C. O. ; LIMA NETO, O. J. ; MONTEIRO, A. F. F. ; HALLWASS, F. ; KULESZA, JOANNA ; BARROS, B.S. ; MONTARROIOS, V. A. S.</autores>
-          <titulo>Estimativa de polaridade da superfície de redes metalorgânicas Cu(1,4-bdc)2H2O e Zn2(1,3-bdc)(bzim)2 por Espectroscopia de 1H NMR</titulo>
-          <nome_evento>23° Congresso Brasileiro de Engenharia e Ciência dos Materiais (23 CBECIMAT), 2018, Foz do Iguaçu. Livro do programa do 23 CBECIMAT</nome_evento>
-          <ano>2018</ano>
-          <volume></volume>
-          <paginas>204</paginas>
           <numero></numero>
         </resumo>
         <resumo>
@@ -867,16 +867,16 @@
           <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
         </trabalho_apresentado>
         <trabalho_apresentado>
-          <titulo>Introdução à Engenharia de Materiais</titulo>
-          <autores>BARROS, B.S</autores>
-          <ano>2018</ano>
-          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
-        </trabalho_apresentado>
-        <trabalho_apresentado>
           <titulo>Catalisadores nanoestruturados para a produção de gás de síntese e hidrogênio: da concepção à aplicação</titulo>
           <autores>BARROS, B.S</autores>
           <ano>2018</ano>
           <natureza>Apresentação de Trabalho/Seminário</natureza>
+        </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Introdução à Engenharia de Materiais</titulo>
+          <autores>BARROS, B.S</autores>
+          <ano>2018</ano>
+          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
         </trabalho_apresentado>
         <trabalho_apresentado>
           <titulo>Sorption-Enhanced Steam Methane Reforming Over Calcium-Based Materials</titulo>
@@ -925,6 +925,14 @@
     </producao_tecnica>
     <orientacao_doutorado_em_andamento>
         <tese>
+          <nome_aluno>Elibe Silva Souza</nome_aluno>
+          <titulo_trabalho>Nanocatalisadores para redução química de CO2</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Tese (Doutorado em Pós-Graduação em Ciências de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Coorientador).</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+        <tese>
           <nome_aluno>Jildimara De Jesus Santana</nome_aluno>
           <titulo_trabalho>Nanocatalisadores hierárquicos bimetálicos (Fe/Co) para as reações de hidrogenação de CO e CO2.</titulo_trabalho>
           <ano>2019</ano>
@@ -937,14 +945,6 @@
           <titulo_trabalho>Cerâmicas porosas para dispositivos de armazenamento de energia</titulo_trabalho>
           <ano>2019</ano>
           <instituicao>Tese (Doutorado em Pós Graduação em Ciências de Materiais) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Coorientador).</agencia_de_fomento>
-          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
-        </tese>
-        <tese>
-          <nome_aluno>Elibe Silva Souza</nome_aluno>
-          <titulo_trabalho>Nanocatalisadores para redução química de CO2</titulo_trabalho>
-          <ano>2019</ano>
-          <instituicao>Tese (Doutorado em Pós-Graduação em Ciências de Materiais) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Coorientador).</agencia_de_fomento>
           <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
         </tese>
@@ -991,12 +991,12 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Maria Alaide de Oliveira</nome_aluno>
-          <titulo_trabalho>Denvolvimento de nanocatalisadores à base de MOFs e seus derivados para dispositivos de conversão de energia</titulo_trabalho>
+          <nome_aluno>Welly Evilly da Silva Vieira</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de nanocompósitos MOF/GO para remoção de pesticidas organofosforados de águas contaminadas</titulo_trabalho>
           <ano>2019</ano>
-          <instituicao>Dissertação (Mestrado em Programa de Pós-Graduação em Química) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Coorientador).</agencia_de_fomento>
-          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+          <instituicao>Dissertação (Mestrado em Programa de Pós-Graduação em Ciência de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
           <nome_aluno>Igor Jordão Marques</nome_aluno>
@@ -1007,12 +1007,12 @@
           <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Welly Evilly da Silva Vieira</nome_aluno>
-          <titulo_trabalho>Desenvolvimento de nanocompósitos MOF/GO para remoção de pesticidas organofosforados de águas contaminadas</titulo_trabalho>
+          <nome_aluno>Maria Alaide de Oliveira</nome_aluno>
+          <titulo_trabalho>Denvolvimento de nanocatalisadores à base de MOFs e seus derivados para dispositivos de conversão de energia</titulo_trabalho>
           <ano>2019</ano>
-          <instituicao>Dissertação (Mestrado em Programa de Pós-Graduação em Ciência de Materiais) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+          <instituicao>Dissertação (Mestrado em Programa de Pós-Graduação em Química) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Coorientador).</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
           <nome_aluno>Allan Victor de Melo Miranda</nome_aluno>
@@ -1193,14 +1193,6 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </iniciacao_cientifica>
         <iniciacao_cientifica>
-          <nome_aluno>Gabriel Facundes Accioly</nome_aluno>
-          <titulo_trabalho>Desenvolvimento de cargas cerâmicas nanoparticuladas para resinas compostas odontológicas</titulo_trabalho>
-          <ano>2018</ano>
-          <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </iniciacao_cientifica>
-        <iniciacao_cientifica>
           <nome_aluno>Camila Freire Berenguer</nome_aluno>
           <titulo_trabalho>Síntese e caracterização de nanocompósitos Cu-MOF/Grafeno para dessulfurização adsortiva de combustíveis líquidos</titulo_trabalho>
           <ano>2018</ano>
@@ -1214,6 +1206,14 @@
           <ano>2018</ano>
           <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento>PROPESQ-CNPQ</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Gabriel Facundes Accioly</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de cargas cerâmicas nanoparticuladas para resinas compostas odontológicas</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Graduando em Engenharia de Materiais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </iniciacao_cientifica>
         <iniciacao_cientifica>
@@ -1323,7 +1323,7 @@
       <identificador10></identificador10>
       <nome_inicial>Carlos Augusto do Nascimento Oliveira</nome_inicial>
       <nome_completo>Carlos Augusto do Nascimento Oliveira</nome_completo>
-      <nome_citacao_bibliografica>OLIVEIRA, C. A. N.;OLIVEIRA, CARLOS AUGUSTO DO N.;OLIVEIRA, CARLOS AUGUSTO DO NASCIMENTO;OLIVEIRA, C.A.N.;Oliveira, Carlos A.;OLIVEIRA, CARLOS A;OLIVEIRA, CARLOS AUGUSTO NASCIMENTO</nome_citacao_bibliografica>
+      <nome_citacao_bibliografica>OLIVEIRA, C. A. N.;OLIVEIRA, CARLOS AUGUSTO DO N.;OLIVEIRA, CARLOS AUGUSTO DO NASCIMENTO;OLIVEIRA, C.A.N.;Oliveira, Carlos A.;OLIVEIRA, CARLOS A;OLIVEIRA, CARLOS AUGUSTO NASCIMENTO;AUGUSTO DO NASCIMENTO OLIVEIRA, CARLOS</nome_citacao_bibliografica>
       <sexo>Masculino</sexo>
     </identificacao>
     <idiomas>
@@ -1338,8 +1338,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Av. da Arquitetura S/N Cidade Universitária 50740540 - Recife, PE - Brasil Telefone: (81) 21268230 URL da Homepage: www.ufpe.br</endereco_profissional>
-      <endereco_profissional_lat>-8.0559466</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9561796</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -1420,6 +1420,26 @@
           <revista>Brazilian Journal of Development</revista>
           <volume>Brazilian Journal of Development</volume>
           <paginas>7396-7412</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.34117/bjdv7n2-117</doi>
+          <titulo>Development of the capability coefficient (Cdl*) for quality control of measuring instruments and systems</titulo>
+          <autores>OLIVEIRA, J. E. F. ; OLIVEIRA, C. A. N. ; ARAUJO, R. P. ; Oliveira, Eduardo José Alecio ; SILVA, N. G. ; SOARES, A. M. F.</autores>
+          <revista>https://doi.org/10.34117/bjdv7n2-117</revista>
+          <volume>https://doi.org/10.34117/bjdv7n2-117</volume>
+          <paginas>13459-13480</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.25286/repa.v%206%20i%202.1%20269</doi>
+          <titulo>Estudo da Utilização de Cartas de Controle e da Capabilidade de Processo no Monitoramento e Ajuste dos Intervalos de Calibração de um Transdutor de Torque</titulo>
+          <autores>ARAUJO, R. P. ; Oliveira, José Eduardo ; OLIVEIRA, C. A. N. ; SILVA, N. G. ; OLIVEIRA, E. J. A. ; FREITAS, M. M. S.</autores>
+          <revista>REVISTA DE ENGENHARIA E PESQUISA APLICADA</revista>
+          <volume>REVISTA DE ENGENHARIA E PESQUISA APLICADA</volume>
+          <paginas>13-22</paginas>
           <numero></numero>
           <ano>2021</ano>
         </artigo>
@@ -1525,6 +1545,15 @@
         </artigo>
     </artigos_em_periodicos>
     <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.29327/conemi.291087</doi>
+          <autores>TENORIO LUNA DA SILVA, TARSILA ; STEPHANY DE SOUZA VIRGOLINO, FILLIPE ; AUGUSTO DO NASCIMENTO OLIVEIRA, CARLOS ; OLIMPIO DE ARAUJO FILHO, OSCAR ; HENRIQUE GONZALEZ, CEZAR</autores>
+          <titulo>FABRICAÇÃO DE UMA LIGA EQUIATÔMICA DE TINI COM EFEITO MEMÓRIA DE FORMA PELO MÉTODO PLASMA SKUL-PUSH PULL</titulo>
+          <nome_evento>20XX CONEMI</nome_evento>
+          <ano>2020</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
           <autores>FURUTA, Y. ; NISHIZONO, Y. ; AIHARA, S. ; YANAGIMOTO, F. ; KAWABATA, T. ; SHIBANUMA, K. ; OLIVEIRA, C. A. N. ; SHINOHARA, A. H.</autores>
@@ -1845,8 +1874,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco. Av. Prof. Moraes Rego, 1235 Iputinga 50670901 - Recife, PE - Brasil Telefone: (81) 21268000 URL da Homepage: www.ufpe.br</endereco_profissional>
-      <endereco_profissional_lat>-8.0452684</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9410150</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -2357,8 +2386,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Rua Acadêmico Hélio Ramos s/n Cidade Universitária 50740-530 - Recife, PE - Brasil Telefone: (081) 21268230 Ramal: 224 Fax: (081) 21268232 URL da Homepage: http://www.demec.ufpe.br/</endereco_profissional>
-      <endereco_profissional_lat>-8.0524216</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9552024</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -2962,8 +2991,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia. Avenida da Arquitetura Cidade Universitária 50740550 - Recife, PE - Brasil Telefone: (081) 21268232</endereco_profissional>
-      <endereco_profissional_lat>-8.0514444</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9529563</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -3216,8 +3245,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Avenida da Arquitetura, SN Cidade Universitária 50740550 - Recife, PE - Brasil Telefone: (81) 21268230 Ramal: 81 Fax: (81) 21268232 URL da Homepage: http://www.ufpe.br/demec/</endereco_profissional>
-      <endereco_profissional_lat>-8.0514444</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9529563</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -3756,8 +3785,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Ciências Exatas e da Natureza, Departamento de Química Fundamental. Universidade Federal de Pernambuco Cidade Universitária 50670901 - Recife, PE - Brasil Telefone: (81) 21267476 Ramal: 7476</endereco_profissional>
-      <endereco_profissional_lat>-8.0452684</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9410150</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -4901,8 +4930,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Avenida da Arquitetura Cidade Universitária 50740550 - Recife, PE - Brasil Telefone: (081) 21267137 Fax: (081) 21268232 URL da Homepage: https://www.ufpe.br/demec</endereco_profissional>
-      <endereco_profissional_lat>-8.0514444</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9529563</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -5401,8 +5430,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Av. Prof. Moraes Rego, 1235 Cidade Universitária 50670901 - Recife, PE - Brasil Telefone: (081) 21268737</endereco_profissional>
-      <endereco_profissional_lat>-8.0452684</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9410150</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -6317,8 +6346,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia e Geociências. Universidade Federal de Pernambuco Cidade Universitária 50670901 - Recife, PE - Brasil - Caixa-postal: 50740040 Telefone: (81) 21268000 URL da Homepage: http://www.ufpe.br/ctg/</endereco_profissional>
-      <endereco_profissional_lat>-8.0452684</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9410150</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -6459,8 +6488,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Universidade Federal de Pernambuco Cidade Universitária 50670901 - Recife, PE - Brasil Telefone: (81) 21268000</endereco_profissional>
-      <endereco_profissional_lat>-8.0452684</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9410150</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -6665,8 +6694,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Av Arquitetura, S/N Cidade Universitária 50740550 - Recife, PE - Brasil Telefone: (81) 21268232</endereco_profissional>
-      <endereco_profissional_lat>-8.0514444</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9529563</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -6746,6 +6775,16 @@
         <id_lattes_colaborador>1273897555934871</id_lattes_colaborador>
     </colaboradores>
     <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.3390/ma14020430</doi>
+          <titulo>Microstructure and Mechanical Properties of AA7075 Aluminum Alloy Fabricated by Spark Plasma Sintering (SPS)</titulo>
+          <autores>SILVA, E. S. ; Bouchonneau, Nadège ; ALVES, E. ; Kleber G. B. Alves ; ARAUJO, O. ; MESGUICH, D. ; CHEVALLIER, G. ; LAURENT, C. ; ESTOURNES, C.</autores>
+          <revista>Materials</revista>
+          <volume>Materials</volume>
+          <paginas>430</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
         <artigo>
           <doi>http://dx.doi.org/10.1016/j.engfailanal.2019.01.009</doi>
           <titulo>Structural integrity analysis of pipelines with interacting corrosion defects by multiphysics modeling</titulo>
@@ -6921,18 +6960,6 @@
           <paginas></paginas>
         </trabalho_completo>
     </trabalho_completo_congresso>
-    <artigos_em_revista>
-        <artigo_revista>
-          <doi></doi>
-          <autores>SILVA, E. S. ; Bouchonneau, Nadège ; ALVES, E. ; Kleber G. B. Alves ; ARAUJO, O. ; MESGUICH, D. ; CHEVALLIER, G. ; LAURENT, C. ; ESTOURNES, C.</autores>
-          <titulo>Microstructure and Mechanical Properties of AA7075 Aluminum Alloy Fabricated by Spark Plasma Sintering (SPS)</titulo>
-          <revista>Materials</revista>
-          <ano>2021</ano>
-          <volume></volume>
-          <paginas></paginas>
-          <numero></numero>
-        </artigo_revista>
-    </artigos_em_revista>
     <apresentacao_trabalho>
         <trabalho_apresentado>
           <titulo>A UFPE e o processo de internacionalização através do BRAFITEC no programa FsF: formação linguística e acadêmica de estudantes brasileiros</titulo>
@@ -6957,19 +6984,19 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tese>
         <tese>
-          <nome_aluno>Elder Soares</nome_aluno>
-          <titulo_trabalho>Sinterização por Spark Plasma Sintering: experiências e simulação eletro-termo-mecânica-microestrutural</titulo_trabalho>
-          <ano>2016</ano>
-          <instituicao>Tese (Doutorado em Pós-graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia de Pernambuco</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tese>
-        <tese>
           <nome_aluno>Adson Beserra Silva</nome_aluno>
           <titulo_trabalho>ANÁLISE ATRAVÉS DO METODO DOS ELEMENTOS FINITOS DE VASOS DE PRESSÃO EM AÇO ASTM A 516 GR 60 E 70 SUJEITOS A CORROSÃO SOB TENSÃO</titulo_trabalho>
           <ano>2016</ano>
           <instituicao>Tese (Doutorado em Pós-graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Elder Soares</nome_aluno>
+          <titulo_trabalho>Sinterização por Spark Plasma Sintering: experiências e simulação eletro-termo-mecânica-microestrutural</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Tese (Doutorado em Pós-graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia de Pernambuco</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tese>
     </orientacao_doutorado_em_andamento>
@@ -7099,6 +7126,14 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
+          <nome_aluno>Vivianne Marie Bruère de Carvalho Paiva</nome_aluno>
+          <titulo_trabalho>Análise pelo Método dos Elementos Finitos de dutos corroídos submetidos a carregamentos combinados de pressão interna e força axial</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
           <nome_aluno>Yuri Alves Carvalho</nome_aluno>
           <titulo_trabalho>Aplicação da árvore de perdas em uma indústria de acumuladores automotivos</titulo_trabalho>
           <ano>2015</ano>
@@ -7120,14 +7155,6 @@
           <ano>2015</ano>
           <instituicao>(Graduação em Engenharia Mecânica) - École Nationale Supérieure de Techniques Avancées Bretagne</instituicao>
           <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tcc>
-        <tcc>
-          <nome_aluno>Vivianne Marie Bruère de Carvalho Paiva</nome_aluno>
-          <titulo_trabalho>Análise pelo Método dos Elementos Finitos de dutos corroídos submetidos a carregamentos combinados de pressão interna e força axial</titulo_trabalho>
-          <ano>2015</ano>
-          <instituicao>(Graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
     </orientacao_tcc_concluido>
@@ -7222,7 +7249,7 @@
       <identificador10></identificador10>
       <nome_inicial>Nathalia Bezerra de Lima</nome_inicial>
       <nome_completo>Nathalia Bezerra de Lima</nome_completo>
-      <nome_citacao_bibliografica>LIMA, N. B.;LIMA, NATHALIA B. D.;LIMA, NATHALIA B.D.;LIMA, NATHALIA BEZERRA DE;LIMA, NATHALIA;LIMA, N. BEZERRA DE;LIMA, N.</nome_citacao_bibliografica>
+      <nome_citacao_bibliografica>LIMA, N. B.;LIMA, NATHALIA B. D.;LIMA, NATHALIA B.D.;LIMA, NATHALIA BEZERRA DE;LIMA, NATHALIA;LIMA, N. BEZERRA DE;LIMA, N.;LIMA, N.B.</nome_citacao_bibliografica>
       <sexo>Masculino</sexo>
     </identificacao>
     <idiomas>
@@ -7233,8 +7260,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional></endereco_profissional>
-      <endereco_profissional_lat>0</endereco_profissional_lat>
-      <endereco_profissional_long>0</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -7311,11 +7338,52 @@
     </premios_titulos>
     <colaboradores>
         <id_lattes_colaborador>9170431435618866</id_lattes_colaborador>
+        <id_lattes_colaborador>1136553495682493</id_lattes_colaborador>
         <id_lattes_colaborador>8084586098803603</id_lattes_colaborador>
         <id_lattes_colaborador>5085789122224889</id_lattes_colaborador>
         <id_lattes_colaborador>0309402331629420</id_lattes_colaborador>
     </colaboradores>
     <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.1038/s41598-021-84562-6</doi>
+          <titulo>A theorized new class of polyhedral hydrocarbons of molecular formula CnHn and their bottom-up scaffold expansions into hyperstructures</titulo>
+          <autores>MACHADO, C. M. B. ; LIMA, NATHALIA B.D. ; LINS, S. L. S. ; Simas, A. M.</autores>
+          <revista>Scientific Reports</revista>
+          <volume>Scientific Reports</volume>
+          <paginas>5576</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.jece.2021.105350</doi>
+          <titulo>Thermodynamic, microstructural and chemometric analyses of the reuse of sugarcane ashes in cement manufacturing</titulo>
+          <autores>Berenguer, R. A. ; Lima, N. B. ; CRUZ, F. ; SEGUNDO NETO, J. L. P. ; LIMA, NATHALIA B. D.</autores>
+          <revista>JOURNAL OF ENVIRONMENTAL CHEMICAL ENGINEERING</revista>
+          <volume>JOURNAL OF ENVIRONMENTAL CHEMICAL ENGINEERING</volume>
+          <paginas>105350</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.cemconcomp.2020.103848</doi>
+          <titulo>The role of hydrogen bonds on the mechanical properties of cement-based mortars applied to concrete surfaces</titulo>
+          <autores>BERENGUER, R.A. ; LIMA, N.B. ; LIMA, V.M.E. ; ESTOLANO, A.M.L. ; PÓVOAS, Y.V. ; LIMA, N.B.D.</autores>
+          <revista>CEMENT & CONCRETE COMPOSITES</revista>
+          <volume>CEMENT & CONCRETE COMPOSITES</volume>
+          <paginas>103848</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.jobe.2021.102358</doi>
+          <titulo>Cement-based Materials: Pozzolanic Activities of Mineral Additions Are Compromised by the Presence of Reactive Oxides</titulo>
+          <autores>BERENGUER, R. ; LIMA, N. ; PINTO, L. ; MONTEIRO, E. ; POVOAS, Y. ; OLIVEIRA, R. ; LIMA, N.B.D.</autores>
+          <revista>JOURNAL OF BUILDING ENGINEERING</revista>
+          <volume>JOURNAL OF BUILDING ENGINEERING</volume>
+          <paginas>102358</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
         <artigo>
           <doi>http://dx.doi.org/10.25286/repa.v5i4.958</doi>
           <titulo>Lajes Maciças Pré-moldadas e Maciças Com Painéis Treliçados Em Pavimentos de Edificações: Logística, Montagem e Custos</titulo>
@@ -7323,16 +7391,6 @@
           <revista>REVISTA DE ENGENHARIA E PESQUISA APLICADA</revista>
           <volume>REVISTA DE ENGENHARIA E PESQUISA APLICADA</volume>
           <paginas>59-67</paginas>
-          <numero></numero>
-          <ano>2020</ano>
-        </artigo>
-        <artigo>
-          <doi>http://dx.doi.org/10.1016/j.cemconcomp.2020.103848</doi>
-          <titulo>The role of hydrogen bonds on the mechanical properties of cement-based mortars applied to concrete surfaces</titulo>
-          <autores>Berenguer, R. A. ; Lima, N. B. ; Lima, V. E. ; Estolano, A. M. ; Povoas Y. ; LIMA, NATHALIA B.D.</autores>
-          <revista>CEMENT & CONCRETE COMPOSITES</revista>
-          <volume>CEMENT & CONCRETE COMPOSITES</volume>
-          <paginas>103848</paginas>
           <numero></numero>
           <ano>2020</ano>
         </artigo>
@@ -7407,22 +7465,22 @@
           <ano>2017</ano>
         </artigo>
         <artigo>
-          <doi>http://dx.doi.org/10.1039/c7ra02019h</doi>
-          <titulo>Europium complexes: choice of efficient synthetic routes from RM1 thermodynamic quantities as figures of merit</titulo>
-          <autores>LIMA, N. B.; SILVA, A. I. S. ; Santos, V. F. D. C. ; GONCALVES, S. M. D. C. ; SIMAS, A. M.</autores>
-          <revista>RSC Advances</revista>
-          <volume>RSC Advances</volume>
-          <paginas>20811-20823</paginas>
-          <numero></numero>
-          <ano>2017</ano>
-        </artigo>
-        <artigo>
           <doi>http://dx.doi.org/10.1021/acsomega.7b00647</doi>
           <titulo>Europium Complexes: Luminescence Boost by a Single Efficient Antenna Ligand</titulo>
           <autores>SILVA, ANDERSON I. S. ; LIMA, NATHALIA B. D. ; SIMAS, ALFREDO M. ; GONÇALVES, SIMONE M. C.</autores>
           <revista>ACS Omega</revista>
           <volume>ACS Omega</volume>
           <paginas>6786-6794</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1039/c7ra02019h</doi>
+          <titulo>Europium complexes: choice of efficient synthetic routes from RM1 thermodynamic quantities as figures of merit</titulo>
+          <autores>LIMA, N. B.; SILVA, A. I. S. ; Santos, V. F. D. C. ; GONCALVES, S. M. D. C. ; SIMAS, A. M.</autores>
+          <revista>RSC Advances</revista>
+          <volume>RSC Advances</volume>
+          <paginas>20811-20823</paginas>
           <numero></numero>
           <ano>2017</ano>
         </artigo>
@@ -7497,6 +7555,18 @@
           <ano>2015</ano>
         </artigo>
     </artigos_em_periodicos>
+    <capitulos_livros>
+        <capitulo>
+          <livro></livro>
+          <titulo>Influence of the Addition of Sugar Cane Bagasse Ash on Durability of Concrete Structures. Building Pathology and Rehabilitation. 1ed</titulo>
+          <autores>DELGADO, J. M. P. Q. ; BERENGUER, R. ; LIMA, N. ; VALDÉS, A. C. ; MEDEIROS, M. H. F. ; AZEVEDO, A. C. ; Lima, N. B. D.</autores>
+          <edicao></edicao>
+          <editora>Springer International Publishing</editora>
+          <volume></volume>
+          <paginas>115-171</paginas>
+          <ano>2021</ano>
+        </capitulo>
+    </capitulos_livros>
     <trabalho_completo_congresso>
         <trabalho_completo>
           <doi>http://dx.doi.org/10.4322/CBPAT.2020.249</doi>
@@ -7506,6 +7576,24 @@
           <ano>2020</ano>
           <volume></volume>
           <paginas>2577</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LIMA, NATHAN B. ; Estolano, A. M. ; BRAZ, V. ; CARVALHO, D. ; LIMA, NATHALIA B. D. ; ALMEIDA, R. O.</autores>
+          <titulo>Incidência de propagação de ondas ultrassônicas em diferentes camadas do concreto</titulo>
+          <nome_evento>62 Congresso Brasileiro do Concreto</nome_evento>
+          <ano>2020</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>GONCALVES, T. ; NEUWALD, A. ; ESTOLANO, AMANDA M.L. ; Lima, N. B. ; Berenguer, R. A. ; LIMA, NATHALIA B. D.</autores>
+          <titulo>Avaliação das Manifestações Patológicas de uma Estrutura em Concreto Armado ? Estudo Caso</titulo>
+          <nome_evento>62 Congresso Brasileiro do Concreto</nome_evento>
+          <ano>2020</ano>
+          <volume></volume>
+          <paginas></paginas>
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
@@ -7554,6 +7642,15 @@
         </trabalho_completo>
         <trabalho_completo>
           <doi></doi>
+          <autores>LIMA, N. B. D. ; ALMEIDA, R. O. ; LIMA, N. B.</autores>
+          <titulo>RESERVATÓRIOS BASEADOS EM CONCRETO ARMADO: PROCEDIMENTOS E ESTRATÉGIAS PARA MINIMIZAR AS OCORRÊNCIAS PATOLÓGICAS EM EMENDAS</titulo>
+          <nome_evento>XIII CONGRESSO INTERNACIONAL SOBRE PATOLOGIA E RECUPERAÇÃO DE ESTRUTURAS</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
           <autores>LIMA, N. B. D. ; OLIVEIRA, M. S. ; ALMEIDA, R. O. ; LIMA, N. B.</autores>
           <titulo>AVALIAÇÃO DA RESISTÊNCIA À TRAÇÃO DOS REVESTIMENTOS DE ARGAMASSA APLICADOS NAS FACHADAS DOS EDIFÍCIOS ESTRUTURAIS DE ALVENARIA</titulo>
           <nome_evento>XIII CONGRESSO INTERNACIONAL SOBRE PATOLOGIA E RECUPERAÇÃO DE ESTRUTURAS</nome_evento>
@@ -7566,15 +7663,6 @@
           <autores>LIMA, N. B. D. ; LIMA, N. B. ; ALMEIDA, R. O.</autores>
           <titulo>IMPACTO DA UTILIZAÇÃO DE LAJES PRÉ-MOLDADAS E DE LAJES MACIÇAS EM PAVIMENTOS DE EDIFICAÇÕES</titulo>
           <nome_evento>59° CONGRESSO BRASILEIRO DO CONCRETO</nome_evento>
-          <ano>2017</ano>
-          <volume></volume>
-          <paginas></paginas>
-        </trabalho_completo>
-        <trabalho_completo>
-          <doi></doi>
-          <autores>LIMA, N. B. D. ; ALMEIDA, R. O. ; LIMA, N. B.</autores>
-          <titulo>RESERVATÓRIOS BASEADOS EM CONCRETO ARMADO: PROCEDIMENTOS E ESTRATÉGIAS PARA MINIMIZAR AS OCORRÊNCIAS PATOLÓGICAS EM EMENDAS</titulo>
-          <nome_evento>XIII CONGRESSO INTERNACIONAL SOBRE PATOLOGIA E RECUPERAÇÃO DE ESTRUTURAS</nome_evento>
           <ano>2017</ano>
           <volume></volume>
           <paginas></paginas>
@@ -7796,16 +7884,6 @@
         </resumo>
         <resumo>
           <doi></doi>
-          <autores>SILVA, R. P. G. ; GONCALVES, S. M. C. ; SILVA, D. G. ; SILVA, A. I. S. ; LIMA, N. B.</autores>
-          <titulo>Previsão computacional da síntese de complexos tetrakis de íons lantanídeos trivalentes e ligantes β-dicetonatos</titulo>
-          <nome_evento>VI Encontro Regional da SBQ Nordeste, 2015, Maceió/Al. Anais do VI Encontro Regional da SBQ Nordeste</nome_evento>
-          <ano>2015</ano>
-          <volume></volume>
-          <paginas></paginas>
-          <numero></numero>
-        </resumo>
-        <resumo>
-          <doi></doi>
           <autores>ALVES, J. D. ; SOUZA, B. A. S. ; XAVIER, T. M. C. ; LIMA, N. B.</autores>
           <titulo>Interpretação do espectro vibracional dos complexos entre os isômeros da bipiridina e RCOOH (R=-H, -CH3 ou ? C6H5)</titulo>
           <nome_evento>VI Encontro Regional da SBQ Nordeste, 2015, Maceió/Al. Anais do VI Encontro Regional da SBQ Nordeste</nome_evento>
@@ -7929,6 +8007,16 @@
           <autores>ROSADO, I. D. M. S. ; LOPES JUNIOR, C. E. ; LIMA, N. B.</autores>
           <titulo>Análise das propriedades termodinâmicas das rotas de síntese dos complexos de ligantes não iônicos mistos Eu(TTA)3(L,L?)</titulo>
           <nome_evento>VI Encontro Regional da SBQ Nordeste, 2015, Macéio/Al. Anais do VI Encontro Regional da SBQ Nordeste</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </resumo>
+        <resumo>
+          <doi></doi>
+          <autores>SILVA, R. P. G. ; GONCALVES, S. M. C. ; SILVA, D. G. ; SILVA, A. I. S. ; LIMA, N. B.</autores>
+          <titulo>Previsão computacional da síntese de complexos tetrakis de íons lantanídeos trivalentes e ligantes β-dicetonatos</titulo>
+          <nome_evento>VI Encontro Regional da SBQ Nordeste, 2015, Maceió/Al. Anais do VI Encontro Regional da SBQ Nordeste</nome_evento>
           <ano>2015</ano>
           <volume></volume>
           <paginas></paginas>
@@ -8121,12 +8209,6 @@
           <natureza>Apresentação de Trabalho/Outra</natureza>
         </trabalho_apresentado>
         <trabalho_apresentado>
-          <titulo>Previsão computacional da síntese de complexos tetrakis de íons lantanídeos trivalentes e ligantes β-dicetonatos</titulo>
-          <autores>SILVA, R. P. G. ; SILVA, A. I. S. ; SILVA, D. G. ; LIMA, N. B. ; GONCALVES, S. M. C.</autores>
-          <ano>2015</ano>
-          <natureza>Apresentação de Trabalho/Outra</natureza>
-        </trabalho_apresentado>
-        <trabalho_apresentado>
           <titulo>Interpretação do espectro vibracional dos complexos entre os isômeros da bipiridina e RCOOH (R=-H, -CH3 ou ? C6H5)</titulo>
           <autores>ALVES, J. D. ; SOUZA, B. A. S. ; XAVIER, T. M. C. ; LIMA, N. B.</autores>
           <ano>2015</ano>
@@ -8210,8 +8292,22 @@
           <ano>2015</ano>
           <natureza>Apresentação de Trabalho/Congresso</natureza>
         </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Previsão computacional da síntese de complexos tetrakis de íons lantanídeos trivalentes e ligantes β-dicetonatos</titulo>
+          <autores>SILVA, R. P. G. ; SILVA, A. I. S. ; SILVA, D. G. ; LIMA, N. B. ; GONCALVES, S. M. C.</autores>
+          <ano>2015</ano>
+          <natureza>Apresentação de Trabalho/Outra</natureza>
+        </trabalho_apresentado>
     </apresentacao_trabalho>
     <orientacao_doutorado_em_andamento>
+        <tese>
+          <nome_aluno>Heliana Caroline Batista do Nascimento</nome_aluno>
+          <titulo_trabalho>Elucidação de mecanismos químicos associados ao comportamento mecânico de concretos e argamassas</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Tese (Doutorado em Programa de Pós-Graduação em Química - Universidade Federal de Pernambuco) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
         <tese>
           <nome_aluno>Romildo Alves Berenguer</nome_aluno>
           <titulo_trabalho>Química Teórica e Experimental Aplicada a Materiais de Construção Civil</titulo_trabalho>
@@ -8241,17 +8337,9 @@
     </orientacao_mestrado_em_andamento>
     <orientacao_iniciacao_cientifica_em_andamento>
         <iniciacao_cientifica>
-          <nome_aluno>Thamara Lyandra Menezes do Nascimento</nome_aluno>
-          <titulo_trabalho>Elucidação do papel das ligações de hidrogênio em propriedades químicas e físicas de materiais cimentícios</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Iniciação científica (Graduando em Química) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </iniciacao_cientifica>
-        <iniciacao_cientifica>
           <nome_aluno>Beatriz Andrade Ribeiro Costa</nome_aluno>
-          <titulo_trabalho>Química aplicada a materiais de construção civil: de propriedades físicoquímicas à novas estratégias de armazenamento do cimento portland</titulo_trabalho>
-          <ano>2019</ano>
+          <titulo_trabalho>Avaliação do Impacto de Novas Estratégias de Armazenamento do Cimento Portland nas Propriedades Químicas e Físicas de Materiais de Concreto</titulo_trabalho>
+          <ano>2020</ano>
           <instituicao>Iniciação científica (Graduando em Engenharia Civil) - Universidade de Pernambuco</instituicao>
           <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
@@ -8302,6 +8390,14 @@
         </tcc>
     </orientacao_tcc_concluido>
     <orientacao_iniciacao_cientifica_concluido>
+        <iniciacao_cientifica>
+          <nome_aluno>Beatriz Andrade Ribeiro Costa</nome_aluno>
+          <titulo_trabalho>Química aplicada a materiais de construção civil: de propriedades físicoquímicas à novas estratégias de armazenamento do cimento portland</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>(Graduando em Engenharia Civil) - Universidade de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
         <iniciacao_cientifica>
           <nome_aluno>Rogério Vaz de Azevedo Júnior</nome_aluno>
           <titulo_trabalho>Aplicação de modelos semiempíricos na predição de propriedades termodinâmicas de reações inorgânicas envolvendo complexos de íons lantanídeos luminescentes</titulo_trabalho>
@@ -8387,7 +8483,7 @@
       <identificador10></identificador10>
       <nome_inicial>Oscar Olimpio de Araujo Filho</nome_inicial>
       <nome_completo>Oscar Olimpio de Araujo Filho</nome_completo>
-      <nome_citacao_bibliografica>ARAUJO FILHO, O. O.;DE ARAUJO FILHO, OSCAR OLIMPIO;Olimpio Filho, Oscar;ARAÚJO FILHO, OSCAR OLIMPIO;DE ARAÚJO FILHO, OSCAR OLIMPIO;FILHO, OSCAR OLÍMPIO DE ARAÚJO</nome_citacao_bibliografica>
+      <nome_citacao_bibliografica>ARAUJO FILHO, O. O.;DE ARAUJO FILHO, OSCAR OLIMPIO;Olimpio Filho, Oscar;ARAÚJO FILHO, OSCAR OLIMPIO;DE ARAÚJO FILHO, OSCAR OLIMPIO;FILHO, OSCAR OLÍMPIO DE ARAÚJO;Araujo Filho, Oscar;ARAÚJO FILHO, OSCAR</nome_citacao_bibliografica>
       <sexo>Masculino</sexo>
     </identificacao>
     <idiomas>
@@ -8402,8 +8498,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia. Av. Acadêmico Hélio Ramos S/N Cidade Universitária 50740-530 - Recife, PE - Brasil Telefone: (81) 21268230 Ramal: 222 URL da Homepage: http://www.ufpe.br/demec</endereco_profissional>
-      <endereco_profissional_lat>-8.0524216</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9552024</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -8504,6 +8600,16 @@
         <id_lattes_colaborador>5441508721821143</id_lattes_colaborador>
     </colaboradores>
     <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.3390/ma14020430</doi>
+          <titulo>Microstructure and Mechanical Properties of AA7075 Aluminum Alloy Fabricated by Spark Plasma Sintering (SPS)</titulo>
+          <autores>SOARES, ELDER ; BOUCHONNEAU, NADÈGE ; ALVES, ELIZETH ; ALVES, KLEBER ; ARAÚJO FILHO, OSCAR ; MESGUICH, DAVID ; CHEVALLIER, GEOFFROY ; LAURENT, CHRISTOPHE ; ESTOURNÈS, CLAUDE</autores>
+          <revista>Materials</revista>
+          <volume>Materials</volume>
+          <paginas>430</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
         <artigo>
           <doi>http://dx.doi.org/10.1016/j.compositesb.2018.10.050</doi>
           <titulo>Effects of hybridization on the mechanical properties of composites reinforced by piassava fibers tissue</titulo>
@@ -8841,49 +8947,13 @@
           <numero></numero>
         </resumo>
     </resumo_congresso>
-    <artigos_em_revista>
-        <artigo_revista>
-          <doi></doi>
-          <autores>FERNANDES, L. S. ; ARAUJO, E. G. ; ARAUJO FILHO, O. O.</autores>
-          <titulo>Blocking of Factorial Experiments in Galvanized Wire Zinc Weight Test</titulo>
-          <revista>Journal of Materials Research and Technology-JMRT</revista>
-          <ano>2018</ano>
-          <volume></volume>
-          <paginas></paginas>
-          <numero></numero>
-        </artigo_revista>
-        <artigo_revista>
-          <doi></doi>
-          <autores>ALVES, E. O. ; AMARO, D. R. A. ; SILVA, E. C. O. ; ALVES, K. G. B. ; ARAÚJO FILHO, OSCAR OLIMPIO</autores>
-          <titulo>Study on Effect of EAFD Particulate Reinforcement in AA7075 Aluminum Matrix Composites</titulo>
-          <revista>Materials Research-Ibero-american Journal of Materials</revista>
-          <ano>2018</ano>
-          <volume></volume>
-          <paginas></paginas>
-          <numero></numero>
-        </artigo_revista>
-        <artigo_revista>
-          <doi></doi>
-          <autores>LIRA, H. M. ; Ferreira, R.A.S. ; NEVES, M. D. M. ; SANTOS, M. J. ; URTIGA FILHO, S. L. ; DE ARAUJO FILHO, OSCAR OLIMPIO</autores>
-          <titulo>SIMULATION OF COOLING CURVES OF THE HEAT AFFECTED ZONES OF API 5L X80 STEEL OF WELDS MADE BY FLUX CORE ARC WELDING SELF PROTECTING</titulo>
-          <revista>Materials Science Forum</revista>
-          <ano>2015</ano>
-          <volume></volume>
-          <paginas></paginas>
-          <numero></numero>
-        </artigo_revista>
-        <artigo_revista>
-          <doi></doi>
-          <autores>DE ARAUJO FILHO, OSCAR OLIMPIO; Araújo de Moura, A. D. ; Araújo, E.R. ; SANTOS, M. J. ; Gonzalez, C. H. ; SILVA, F. J.</autores>
-          <titulo>MANUFACTURING AND CHARACTERIZATION OF AA 1100 ALUMINUM ALLOY METAL MATRIX COMPOSITES REINFORCED BY SILICON CARBIDE AND ALUMINA PROCESSED BY POWDER METALLURGY</titulo>
-          <revista>Materials Science Forum</revista>
-          <ano>2015</ano>
-          <volume></volume>
-          <paginas></paginas>
-          <numero></numero>
-        </artigo_revista>
-    </artigos_em_revista>
     <apresentacao_trabalho>
+        <trabalho_apresentado>
+          <titulo>DESENVOLVIMENTO DE COMPÓSITOS DA LIGA DE ALUMÍNIO AA7075 REFORÇADOS COM ALUMINA E NITRETO DE SILÍCIO ATRAVÉS DE TÉCNICAS DE METALURGIA DO PÓ</titulo>
+          <autores>XAVIER, E. I. V. ; FERNANDES, L. E. ; NASCIMENTO, D. M. ; SILVA JUNIOR, M. E. ; ARAÚJO FILHO, OSCAR OLIMPIO</autores>
+          <ano>2019</ano>
+          <natureza>Apresentação de Trabalho/Congresso</natureza>
+        </trabalho_apresentado>
         <trabalho_apresentado>
           <titulo>REAPROVEITAMENTO DE CAVACOS DE USINAGEM ATRAVÉS DE MOAGEM DE ALTA ENERGIA PARA A FABRICAÇÃO E CARACTERIZAÇÃO DE PÓS METÁLICOS DA LIGA DE ALUMÍNIO AA6061</titulo>
           <autores>XAVIER, E. I. V. ; FERNANDES, L. E. ; NASCIMENTO, D. M. ; SILVA JUNIOR, M. E. ; ZARZAR, S. T. ; Araújo, E.R. ; ARAÚJO FILHO, OSCAR OLIMPIO</autores>
@@ -8903,20 +8973,14 @@
           <natureza>Apresentação de Trabalho/Congresso</natureza>
         </trabalho_apresentado>
         <trabalho_apresentado>
-          <titulo>DESENVOLVIMENTO DE COMPÓSITOS DA LIGA DE ALUMÍNIO AA7075 REFORÇADOS COM ALUMINA E NITRETO DE SILÍCIO ATRAVÉS DE TÉCNICAS DE METALURGIA DO PÓ</titulo>
-          <autores>XAVIER, E. I. V. ; FERNANDES, L. E. ; NASCIMENTO, D. M. ; SILVA JUNIOR, M. E. ; ARAÚJO FILHO, OSCAR OLIMPIO</autores>
-          <ano>2019</ano>
+          <titulo>Fabricação e Caracterização de Compósitos de Matriz Metálica da Liga de Alumínio AA1100 com Reforço Particulado cerâmico de Alumina, carboneto de Silício, Nitreto de Silício e Nitreto de Alumínio Através de Técnicas de Moagem de Alta e Extrusão a Quente</titulo>
+          <autores>ARAÚJO FILHO, OSCAR OLIMPIO; SOBREIRA, T. G. P. ; Araújo, E.R.</autores>
+          <ano>2018</ano>
           <natureza>Apresentação de Trabalho/Congresso</natureza>
         </trabalho_apresentado>
         <trabalho_apresentado>
           <titulo>Manufatura e Caracterização de Compósitos das Liga de Alumínio AA2124 com Reforço Particulado Cerâmico de Alumina, carboneto de Silício, Nitreto de Silício e Nitreto de Alumínio Através de Técnicas de Moagem de Alta e Extrusão a Quente</titulo>
           <autores>ARAÚJO FILHO, OSCAR OLIMPIO; SOBRIERA, T. G. P. ; Araújo, E.R.</autores>
-          <ano>2018</ano>
-          <natureza>Apresentação de Trabalho/Congresso</natureza>
-        </trabalho_apresentado>
-        <trabalho_apresentado>
-          <titulo>Fabricação e Caracterização de Compósitos de Matriz Metálica da Liga de Alumínio AA1100 com Reforço Particulado cerâmico de Alumina, carboneto de Silício, Nitreto de Silício e Nitreto de Alumínio Através de Técnicas de Moagem de Alta e Extrusão a Quente</titulo>
-          <autores>ARAÚJO FILHO, OSCAR OLIMPIO; SOBREIRA, T. G. P. ; Araújo, E.R.</autores>
           <ano>2018</ano>
           <natureza>Apresentação de Trabalho/Congresso</natureza>
         </trabalho_apresentado>
@@ -8929,30 +8993,30 @@
           <natureza>Resumos publicados em anis de congressos</natureza>
         </producao>
         <producao>
-          <titulo>COMPORTAMENTO ELETROTERMOMECÂNICO DE MONOCRISTAIS DE LIGAS A BASE DE COBRE COM MEMÓRIA DE FORMA. São Paulo: Metallum</titulo>
-          <autores>Gonzalez, C. H. ; OLIVEIRA, C. A. N. ; ARAUJO FILHO, O. O. ; URTIGA FILHO, S. L. ; VIRGOLINO, F.</autores>
+          <titulo>FABRICAÇÃO E CARACTERIZAÇÃO DE SUPERFÍCIE METÁLICA COM LIGA DE ALUMÍNIO AA6061 PARA OBTENÇÃO DE REVESTIMENTO COM EFEITO SUPER-HIDROFÓBICO. São Paulo: Metallum</titulo>
+          <autores>ARAUJO, E. G. ; SILVA JUNIOR, J. L. ; PILLIS, M. F. ; ARAUJO FILHO, O. O. ; URTIGA FILHO, SEVERINO LEOPOLDINO</autores>
           <ano>2016</ano>
           <natureza>Resumos publicados em anis de congressos</natureza>
         </producao>
         <producao>
-          <titulo>FABRICAÇÃO E CARACTERIZAÇÃO DE SUPERFÍCIE METÁLICA COM LIGA DE ALUMÍNIO AA6061 PARA OBTENÇÃO DE REVESTIMENTO COM EFEITO SUPER-HIDROFÓBICO. São Paulo: Metallum</titulo>
-          <autores>ARAUJO, E. G. ; SILVA JUNIOR, J. L. ; PILLIS, M. F. ; ARAUJO FILHO, O. O. ; URTIGA FILHO, SEVERINO LEOPOLDINO</autores>
+          <titulo>COMPORTAMENTO ELETROTERMOMECÂNICO DE MONOCRISTAIS DE LIGAS A BASE DE COBRE COM MEMÓRIA DE FORMA. São Paulo: Metallum</titulo>
+          <autores>Gonzalez, C. H. ; OLIVEIRA, C. A. N. ; ARAUJO FILHO, O. O. ; URTIGA FILHO, S. L. ; VIRGOLINO, F.</autores>
           <ano>2016</ano>
           <natureza>Resumos publicados em anis de congressos</natureza>
         </producao>
     </producao_bibliografica>
     <orientacao_doutorado_em_andamento>
         <tese>
-          <nome_aluno>Moisés Euclides da Silva Junior</nome_aluno>
-          <titulo_trabalho>Desenvolvimento de Filtros Porosos Metálicos Sinterizados Para a Indústria de Processo</titulo_trabalho>
+          <nome_aluno>Diogo Monteiro do Nascimento</nome_aluno>
+          <titulo_trabalho>Resistência a corrosão e abrasão de revestimentos de bronze alumínio, bronze níquel ? alumínio e Cu-Ni-Cr fabricados por moagem de alta energia e manufatura aditiva</titulo_trabalho>
           <ano>2020</ano>
           <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tese>
         <tese>
-          <nome_aluno>Diogo Monteiro do Nascimento</nome_aluno>
-          <titulo_trabalho>Resistência a corrosão e abrasão de revestimentos de bronze alumínio, bronze níquel ? alumínio e Cu-Ni-Cr fabricados por moagem de alta energia e manufatura aditiva</titulo_trabalho>
+          <nome_aluno>Moisés Euclides da Silva Junior</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de Filtros Porosos Metálicos Sinterizados Para a Indústria de Processo</titulo_trabalho>
           <ano>2020</ano>
           <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
@@ -9103,8 +9167,8 @@
           <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Elinaldo Neves dos Santos</nome_aluno>
-          <titulo_trabalho>Fabricação e Caracterização da liga de alumínio-silício a partir dos pós elementares de alumínio e silício via Metalurgia do Pó</titulo_trabalho>
+          <nome_aluno>Tarsila Tenório Luna da Silva</nome_aluno>
+          <titulo_trabalho>Manufatura e Caracterização de Ligas de Alumínio-Cobre (Duralumínio) Fabricadas Via Técnicas de Metalurgia do Pó</titulo_trabalho>
           <ano>2017</ano>
           <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
@@ -9119,8 +9183,8 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Tarsila Tenório Luna da Silva</nome_aluno>
-          <titulo_trabalho>Manufatura e Caracterização de Ligas de Alumínio-Cobre (Duralumínio) Fabricadas Via Técnicas de Metalurgia do Pó</titulo_trabalho>
+          <nome_aluno>Elinaldo Neves dos Santos</nome_aluno>
+          <titulo_trabalho>Fabricação e Caracterização da liga de alumínio-silício a partir dos pós elementares de alumínio e silício via Metalurgia do Pó</titulo_trabalho>
           <ano>2017</ano>
           <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
@@ -9169,16 +9233,16 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>MARIANA MOURA LEITE</nome_aluno>
-          <titulo_trabalho>Estudo de tratamento térmico de solubilização e envelhecimento do compósito de matriz metálica da liga de alumínio AA7075 reforçada por carboneto de nióbio</titulo_trabalho>
+          <nome_aluno>Elton Italo Vieira Xavier</nome_aluno>
+          <titulo_trabalho>Reciclagem no estado sólido de cavacos da liga de alumínio AA6061através de moagem de alta energia e metalurgia do pó</titulo_trabalho>
           <ano>2019</ano>
           <instituicao>(Graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tcc>
         <tcc>
-          <nome_aluno>Elton Italo Vieira Xavier</nome_aluno>
-          <titulo_trabalho>Reciclagem no estado sólido de cavacos da liga de alumínio AA6061através de moagem de alta energia e metalurgia do pó</titulo_trabalho>
+          <nome_aluno>MARIANA MOURA LEITE</nome_aluno>
+          <titulo_trabalho>Estudo de tratamento térmico de solubilização e envelhecimento do compósito de matriz metálica da liga de alumínio AA7075 reforçada por carboneto de nióbio</titulo_trabalho>
           <ano>2019</ano>
           <instituicao>(Graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
@@ -9306,8 +9370,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Av. Academico Helio Ramos s/n CDU 50740-530 - Recife, PE - Brasil Telefone: (81) 21268230 Ramal: 202 Fax: (81) 21268232 URL da Homepage: http://www.demec.ufpe.br</endereco_profissional>
-      <endereco_profissional_lat>-8.0524216</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9552024</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -10170,8 +10234,8 @@
     </idiomas>
     <endereco>
       <endereco_profissional>Universidade Federal de Pernambuco, Centro de Tecnologia, Departamento de Engenharia Mecânica. Avenida Jornalista Aníbal Fernandes Cidade Universitária 50740560 - Recife, PE - Brasil Telefone: (81) 21263132 URL da Homepage: www.ufpe.br/soldamat</endereco_profissional>
-      <endereco_profissional_lat>-8.0543756</endereco_profissional_lat>
-      <endereco_profissional_long>-34.9495275</endereco_profissional_long>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
     </endereco>
     <formacao_academica>
         <formacao>
@@ -10224,14 +10288,14 @@
         <projeto>
           <ano_inicio>2017</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>Produção e caracterização de revestimento por laser cladding em matriz de aços e aços inoxidáveis</nome>
-          <descricao>Descrição: Estudar a deposição a laser de aços inoxidáveis e/ou materiais mistos em substratos metálicos visando a melhoria da resistência ao desgaste, corrosão, dentre outras.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Luis Henrique Rodrigues Apolinário - Integrante / Erike Wilker Arruda Figueredo - Integrante / Helen Rodrigues Araújo - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de orientações: 2</descricao>
+          <nome>Aplicabilidade do processo Tandem Arc com quatro arames em soldagem com costura helicoidal em campo do aço ASTM A572 Gr 50</nome>
+          <descricao>Descrição: Pretende-se desenvolver e aprimorar a fabricação de tubos em campo com o aumento de produtividade, dobrando a quantidade de arames passando de dois para quatro (dois internos e dois externos) a partir do uso da técnica Tandem-Arc, sem abdicar de melhores propriedades mecânicas, realizando um estudo teórico e experimental das microestruturas formadas e seu impacto sobre as propriedades mecânicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Doutorado: (1) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Edwar Andres Torres Lopez - Integrante / Flávio José da Silva - Integrante / Ana Carla Santos da Silva - Integrante / Túlio Albuquerque Farias - Integrante / Deusdedit Carlos da Silva Jr1 - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa. Número de produções C, T A: 5 / Número de orientações: 2Descrição: Pretende-se desenvolver e aprimorar a fabricação de tubos em campo com o aumento de produtividade, dobrando a quantidade de arames passando de dois para quatro (dois internos e dois externos) a partir do uso da técnica Tandem-Arc, sem abdicar de melhores propriedades mecânicas, realizando um estudo teórico e experimental das microestruturas formadas e seu impacto sobre as propriedades mecânicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Doutorado: (1) . Integrantes: Flávio José da Silva - Integrante / Tiago Felipe de Abreu Santos - Coordenador / Edwar Andres Torres Lopes - Integrante / Ana Carla Santos da Silva - Integrante / Tulio Albuquerque Farias - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.</descricao>
         </projeto>
         <projeto>
           <ano_inicio>2017</ano_inicio>
           <ano_conclusao>Atual</ano_conclusao>
-          <nome>Aplicabilidade do processo Tandem Arc com quatro arames em soldagem com costura helicoidal em campo do aço ASTM A572 Gr 50</nome>
-          <descricao>Descrição: Pretende-se desenvolver e aprimorar a fabricação de tubos em campo com o aumento de produtividade, dobrando a quantidade de arames passando de dois para quatro (dois internos e dois externos) a partir do uso da técnica Tandem-Arc, sem abdicar de melhores propriedades mecânicas, realizando um estudo teórico e experimental das microestruturas formadas e seu impacto sobre as propriedades mecânicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Doutorado: (1) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Edwar Andres Torres Lopez - Integrante / Flávio José da Silva - Integrante / Ana Carla Santos da Silva - Integrante / Túlio Albuquerque Farias - Integrante / Deusdedit Carlos da Silva Jr1 - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa. Número de produções C, T A: 5 / Número de orientações: 2Descrição: Pretende-se desenvolver e aprimorar a fabricação de tubos em campo com o aumento de produtividade, dobrando a quantidade de arames passando de dois para quatro (dois internos e dois externos) a partir do uso da técnica Tandem-Arc, sem abdicar de melhores propriedades mecânicas, realizando um estudo teórico e experimental das microestruturas formadas e seu impacto sobre as propriedades mecânicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Doutorado: (1) . Integrantes: Flávio José da Silva - Integrante / Tiago Felipe de Abreu Santos - Coordenador / Edwar Andres Torres Lopes - Integrante / Ana Carla Santos da Silva - Integrante / Tulio Albuquerque Farias - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.</descricao>
+          <nome>Produção e caracterização de revestimento por laser cladding em matriz de aços e aços inoxidáveis</nome>
+          <descricao>Descrição: Estudar a deposição a laser de aços inoxidáveis e/ou materiais mistos em substratos metálicos visando a melhoria da resistência ao desgaste, corrosão, dentre outras.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Tiago Felipe de Abreu Santos - Coordenador / Luis Henrique Rodrigues Apolinário - Integrante / Erike Wilker Arruda Figueredo - Integrante / Helen Rodrigues Araújo - Integrante. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.Número de orientações: 2</descricao>
         </projeto>
         <projeto>
           <ano_inicio>2017</ano_inicio>
@@ -10272,7 +10336,6 @@
         <id_lattes_colaborador>6999199593229732</id_lattes_colaborador>
         <id_lattes_colaborador>8730206395789661</id_lattes_colaborador>
         <id_lattes_colaborador>0750160286058633</id_lattes_colaborador>
-        <id_lattes_colaborador>5249988916470136</id_lattes_colaborador>
         <id_lattes_colaborador>4015926655072714</id_lattes_colaborador>
         <id_lattes_colaborador>5008092942844153</id_lattes_colaborador>
         <id_lattes_colaborador>2200553486822519</id_lattes_colaborador>
@@ -10314,6 +10377,16 @@
           <revista>INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY</revista>
           <volume>INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY</volume>
           <paginas>2327-2339</paginas>
+          <numero></numero>
+          <ano>2021</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.5829/ije.2021.34.04a.29</doi>
+          <titulo>Control of Steel Detachment and Metal Flow on Aluminum-steel Friction Stir Welding of Thin Joints</titulo>
+          <autores>TORRES, E.A. ; GRACIANO-URIBE, J. ; SANTOS, T. F. A.</autores>
+          <revista>IJE TRANSACTIONS A: Basics</revista>
+          <volume>IJE TRANSACTIONS A: Basics</volume>
+          <paginas>1024-1034</paginas>
           <numero></numero>
           <ano>2021</ano>
         </artigo>
@@ -10408,16 +10481,6 @@
           <ano>2019</ano>
         </artigo>
         <artigo>
-          <doi>http://dx.doi.org/10.1007/s12613-019-1790-0</doi>
-          <titulo>Effect of high anodic polarization on the passive layer properties of superduplex stainless steel friction stir welds at different chloride electrolyte pH values and temperatures</titulo>
-          <autores>SANTA CRUZ, L. A. ; MACHADO, G. ; VICENTE, A. A. ; HERMENEGILDO, T.F.C. ; SANTOS, T. F. A.</autores>
-          <revista>International Journal of Minerals Metallurgy and Materials</revista>
-          <volume>International Journal of Minerals Metallurgy and Materials</volume>
-          <paginas>710-721</paginas>
-          <numero></numero>
-          <ano>2019</ano>
-        </artigo>
-        <artigo>
           <doi>http://dx.doi.org/10.1007/s13632-018-0506-6</doi>
           <titulo>Corrosion Evaluation of Duplex and Superduplex Stainless Steel Friction Stir Welds Using Potentiodynamic Measurements and Immersion Tests in Chloride Environments</titulo>
           <autores>SANTA CRUZ, LARISSA A. ; MARQUES, IGOR J. ; URTIGA FILHO, SEVERINO L. ; HERMENEGILDO, TAHIANA F. C. ; SANTOS, TIAGO F. A.</autores>
@@ -10474,6 +10537,16 @@
           <revista>JOURNAL OF ALLOYS AND COMPOUNDS</revista>
           <volume>JOURNAL OF ALLOYS AND COMPOUNDS</volume>
           <paginas>153170</paginas>
+          <numero></numero>
+          <ano>2019</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s12613-019-1790-0</doi>
+          <titulo>Effect of high anodic polarization on the passive layer properties of superduplex stainless steel friction stir welds at different chloride electrolyte pH values and temperatures</titulo>
+          <autores>SANTA CRUZ, L. A. ; MACHADO, G. ; VICENTE, A. A. ; HERMENEGILDO, T.F.C. ; SANTOS, T. F. A.</autores>
+          <revista>International Journal of Minerals Metallurgy and Materials</revista>
+          <volume>International Journal of Minerals Metallurgy and Materials</volume>
+          <paginas>710-721</paginas>
           <numero></numero>
           <ano>2019</ano>
         </artigo>
@@ -10801,6 +10874,14 @@
     </trabalhos_tecnicos>
     <orientacao_doutorado_em_andamento>
         <tese>
+          <nome_aluno>Guilherme Gadelha de Sousa Figueiredo</nome_aluno>
+          <titulo_trabalho>Simulação Numérica de camadas depositadas por manufatura aditiva a arco</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
           <nome_aluno>Gleryston Thiago Gomes da Silva</nome_aluno>
           <titulo_trabalho>Cinética de Oxidação em altas temperaturas de revestimentos de aço inoxidável 347</titulo_trabalho>
           <ano>2020</ano>
@@ -10817,36 +10898,20 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tese>
         <tese>
-          <nome_aluno>Guilherme Gadelha de Sousa Figueiredo</nome_aluno>
-          <titulo_trabalho>Simulação Numérica de camadas depositadas por manufatura aditiva a arco</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tese>
-        <tese>
-          <nome_aluno>Marcos Vinicyus de Araújo Oliveira</nome_aluno>
-          <titulo_trabalho>Manufatura aditiva a arco de aços baixa liga alta resistência</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tese>
-        <tese>
-          <nome_aluno>Erike Wilker Arruda Figueredo</nome_aluno>
-          <titulo_trabalho>Manufatura aditiva por laser cladding de aços</titulo_trabalho>
-          <ano>2019</ano>
-          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </tese>
-        <tese>
           <nome_aluno>Romildo Alves Berenguer</nome_aluno>
           <titulo_trabalho>Química Teórica e Experimental Aplicada a Materiais de Construção Civil</titulo_trabalho>
           <ano>2019</ano>
           <instituicao>Tese (Doutorado em Ciência de Materiais) - Universidade Federal de Pernambuco. (Coorientador).</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Erike Wilker Arruda Figueredo</nome_aluno>
+          <titulo_trabalho>Manufatura aditiva por laser cladding de aços ARBL</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </tese>
         <tese>
           <nome_aluno>Camila Albuquerque Fernandes</nome_aluno>
@@ -10875,6 +10940,14 @@
           <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
+          <nome_aluno>Leandro Theodoro Raposo de Mello</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de sistema para monitoramento de falhas estruturais em superfícies aeronáuticas utilizando ondas guiadas</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Dissertação (Mestrado profissional em Programa de Pós-Graduação em Engenharia Aeroespacial) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. (Coorientador).</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
           <nome_aluno>Mario Gouveia de Gusmão Neto</nome_aluno>
           <titulo_trabalho>Controle Aeroelástico de uma Asa Flexível em Aeronaves</titulo_trabalho>
           <ano>2020</ano>
@@ -10886,24 +10959,16 @@
           <nome_aluno>Thiago Henrique Bezerra de Santana</nome_aluno>
           <titulo_trabalho>Soldagem de união tubo-espelho de trocadores de calor de titânio</titulo_trabalho>
           <ano>2020</ano>
-          <instituicao>Dissertação (Mestrado profissional em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Leandro Theodoro Raposo de Mello</nome_aluno>
-          <titulo_trabalho>Desenvolvimento de sistema para monitoramento de falhas estruturais em superfícies aeronáuticas utilizando ondas guiadas</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Dissertação (Mestrado profissional em Programa de Pós-Graduação em Engenharia Aeroespacial) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. (Coorientador).</agencia_de_fomento>
-          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
-        </dissertacao>
-        <dissertacao>
-          <nome_aluno>Igor Jordão Marques</nome_aluno>
-          <titulo_trabalho>Desenvolvimento de eletrodos revestidos com materiais 2D de grafeno para soldagem e revestimento</titulo_trabalho>
+          <nome_aluno>Mayara Vasconcelos Santos</nome_aluno>
+          <titulo_trabalho>Avaliação do desgaste abrasivo e da resistência à corrosão de revestimentos de aço inoxidável aplicados em ambientes de alta salinidade</titulo_trabalho>
           <ano>2019</ano>
-          <instituicao>Dissertação (Mestrado profissional em Programa de Pós-Graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Coorientador).</agencia_de_fomento>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
@@ -10915,11 +10980,19 @@
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
-          <nome_aluno>Mayara Vasconcelos Santos</nome_aluno>
-          <titulo_trabalho>Avaliação do desgaste abrasivo e da resistência à corrosão de revestimentos de aço inoxidável aplicados em ambientes de alta salinidade</titulo_trabalho>
+          <nome_aluno>Igor Jordão Marques</nome_aluno>
+          <titulo_trabalho>Desenvolvimento de eletrodos revestidos com materiais 2D de óxido de grafeno para soldagem e revestimento</titulo_trabalho>
           <ano>2019</ano>
-          <instituicao>Dissertação (Mestrado profissional em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento></agencia_de_fomento>
+          <instituicao>Dissertação (Mestrado profissional em Programa de Pós-Graduação em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Coorientador).</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Lucas Oliveira Siqueira</nome_aluno>
+          <titulo_trabalho>Soldabilidade de tubulações de aço inoxidável para aviação civil em dispositivos com rigorosos requisitos mecânicos</titulo_trabalho>
+          <ano>2019</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia e Ciências Aeroespaciais) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
         <dissertacao>
@@ -10928,22 +11001,6 @@
           <ano>2019</ano>
           <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento></agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </dissertacao>
-        <dissertacao>
-          <nome_aluno>Lucas Oliveira Siqueira</nome_aluno>
-          <titulo_trabalho>Soldabilidade de tubulações de alumínio para aviação civil em dispositivos com rigorosos requisitos mecânicos</titulo_trabalho>
-          <ano>2019</ano>
-          <instituicao>Dissertação (Mestrado em Engenharia e Ciências Aeroespaciais) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </dissertacao>
-        <dissertacao>
-          <nome_aluno>Luis Henrique Rodrigues Apolinário</nome_aluno>
-          <titulo_trabalho>Aplicabilidade de revestimentos de aços inoxidáveis em paredes de caldeiras a vapor com condensação de água de processo</titulo_trabalho>
-          <ano>2018</ano>
-          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </dissertacao>
     </orientacao_mestrado_em_andamento>
@@ -10959,19 +11016,19 @@
     </orientacao_tcc_em_andamento>
     <orientacao_iniciacao_cientifica_em_andamento>
         <iniciacao_cientifica>
-          <nome_aluno>Kéliton Gomes de Souza Cruz</nome_aluno>
-          <titulo_trabalho>Avaliação do efeito da concentração de óxido de grafeno em soldagem utilizando o processo SMAW</titulo_trabalho>
-          <ano>2020</ano>
-          <instituicao>Iniciação científica (Graduando em Química) - Universidade Federal de Pernambuco</instituicao>
-          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
-          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
-        </iniciacao_cientifica>
-        <iniciacao_cientifica>
           <nome_aluno>Rafael Tomaz Barbosa de Freitas</nome_aluno>
           <titulo_trabalho>Avaliação da Resistência à Corrosão de Juntas Soldadas do Aço 904L e da Liga Inconel 625 para Vasos de Pressão</titulo_trabalho>
           <ano>2020</ano>
           <instituicao>Iniciação científica (Graduando em Química Industrial) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Kéliton Gomes de Souza Cruz</nome_aluno>
+          <titulo_trabalho>Avaliação do efeito da concentração de óxido de grafeno em soldagem utilizando o processo SMAW</titulo_trabalho>
+          <ano>2020</ano>
+          <instituicao>Iniciação científica (Graduando em Química) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</agencia_de_fomento>
           <tipo_de_orientacao>Orientador</tipo_de_orientacao>
         </iniciacao_cientifica>
         <iniciacao_cientifica>
@@ -11019,6 +11076,14 @@
         <dissertacao>
           <nome_aluno>Helen Rodrigues Araújo</nome_aluno>
           <titulo_trabalho>Efeito da Soldagem GMAW por Curto-Circuito Controlado na Execução do Passe de Raiz em Aço Inoxidável AISI A304</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Luis Henrique Rodrigues Apolinário</nome_aluno>
+          <titulo_trabalho>Efeito do NbC em Revestimentos de Aço Inoxidável Austenítico Depositados por Laser CLADDING</titulo_trabalho>
           <ano>2018</ano>
           <instituicao>Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Pernambuco</instituicao>
           <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
