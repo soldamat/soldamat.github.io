@@ -1,23 +1,23 @@
 nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
-0,8938691250105531,Braulio Silva Barros,[Sem rotulo],,,1.0,57,20,0,3,0,5,29,0,3,8,11,'255,255,255'
-1,2972467462423068,Carlos Augusto do Nascimento Oliveira,[Sem rotulo],,,0.93709284,31,13,0,0,18,0,0,0,0,0,4,'255,255,255'
-2,0562262594759879,Carolina Lipparelli Morelli,[Sem rotulo],,,0.15,21,8,1,1,5,1,5,0,0,0,0,'255,255,255'
-3,3543701977842617,Cezar Henrique Gonzalez,[Sem rotulo],,,1.551244,29,11,0,0,18,0,0,0,2,1,6,'255,255,255'
-4,5276055900592984,Edval Goncalves de Araujo,[Sem rotulo],,,0.23625445,7,2,0,0,1,0,4,0,0,0,3,'255,255,255'
-5,2569114755496581,Flavio Jose da Silva,[Sem rotulo],,,0.5428822,14,7,0,1,2,4,0,0,0,7,1,'255,255,255'
-6,1568423340359601,Joanna Elzbieta Kulesza,[Sem rotulo],,,1.0,50,15,0,2,0,2,31,0,3,3,13,'255,255,255'
-7,5515185093886020,Kleber Goncalves Bezerra Alves,[Sem rotulo],,,0.59415025,23,11,0,0,11,1,0,0,5,4,5,'255,255,255'
-8,5295831751697130,Magda Rosangela Santos Vieira,[Sem rotulo],,,1.1647491,41,9,0,2,14,1,15,0,0,7,4,'255,255,255'
-9,7756148068560010,Marcos Pereira,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,0,0,0,0,'255,255,255'
-10,2179327647405825,Maxime Montoya,[Sem rotulo],,,0.54986995,6,3,0,0,3,0,0,0,0,0,0,'255,255,255'
-11,5210533486699425,Nadege Sophie Bouchonneau da Silva,[Sem rotulo],,,0.7017485,19,10,1,0,8,0,0,0,0,6,1,'255,255,255'
-12,5085789122224889,Nathalia Bezerra de Lima,[Sem rotulo],,,0.15,70,21,0,1,12,8,28,0,0,2,8,'255,255,255'
-13,6740759499723367,Oscar Olimpio de Araujo Filho,[Sem rotulo],,,1.5221164,36,12,0,0,19,1,4,0,5,13,5,'255,255,255'
-14,4668070841633275,Severino Leopoldino Urtiga Filho,[Sem rotulo],,,2.1650498,40,28,0,0,11,1,0,4,6,12,6,'255,255,255'
-15,2200553486822519,Tiago Felipe de Abreu Santos,[Sem rotulo],,,1.0348427,48,34,0,0,14,0,0,0,0,7,14,'255,255,255'
+0,8938691250105531,Braulio Silva Barros,[Sem rotulo],-8.0452684,-34.9410150,1.0,57,20,0,3,0,5,29,0,3,11,11,'255,255,255'
+1,2972467462423068,Carlos Augusto do Nascimento Oliveira,[Sem rotulo],-8.0559466,-34.9561796,0.9495272,31,13,0,0,18,0,0,0,0,0,4,'255,255,255'
+2,0562262594759879,Carolina Lipparelli Morelli,[Sem rotulo],-8.0452684,-34.9410150,0.15,22,8,1,2,10,1,0,0,0,0,0,'255,255,255'
+3,3543701977842617,Cezar Henrique Gonzalez,[Sem rotulo],-8.0524216,-34.9552024,1.5995482,32,13,0,0,19,0,0,0,2,1,8,'255,255,255'
+4,5276055900592984,Edval Goncalves de Araujo,[Sem rotulo],-8.0514444,-34.9529563,0.23094027,7,2,0,0,1,0,4,0,0,0,3,'255,255,255'
+5,2569114755496581,Flavio Jose da Silva,[Sem rotulo],-8.0514444,-34.9529563,0.5120687,14,7,0,1,2,4,0,0,0,7,1,'255,255,255'
+6,1568423340359601,Joanna Elzbieta Kulesza,[Sem rotulo],-8.0452684,-34.9410150,1.0,50,15,0,2,0,2,31,0,3,5,14,'255,255,255'
+7,5515185093886020,Kleber Goncalves Bezerra Alves,[Sem rotulo],-8.0514444,-34.9529563,0.6703053,30,14,0,0,15,1,0,0,5,6,8,'255,255,255'
+8,5295831751697130,Magda Rosangela Santos Vieira,[Sem rotulo],-8.0452684,-34.9410150,1.2255143,43,11,0,2,14,1,15,0,0,7,4,'255,255,255'
+9,7756148068560010,Marcos Pereira,[Sem rotulo],-8.0452684,-34.9410150,0.15,1,1,0,0,0,0,0,0,0,0,0,'255,255,255'
+10,2179327647405825,Maxime Montoya,[Sem rotulo],-8.0452684,-34.9410150,0.5193037,6,3,0,0,3,0,0,0,0,0,0,'255,255,255'
+11,5210533486699425,Nadege Sophie Bouchonneau da Silva,[Sem rotulo],-8.0514444,-34.9529563,0.6703847,21,10,1,0,10,0,0,0,0,6,1,'255,255,255'
+12,5085789122224889,Nathalia Bezerra de Lima,[Sem rotulo],0,0,0.15,71,22,0,1,12,8,28,0,1,3,9,'255,255,255'
+13,6740759499723367,Oscar Olimpio de Araujo Filho,[Sem rotulo],-8.0524216,-34.9552024,1.4283139,53,22,0,3,20,4,4,0,5,13,6,'255,255,255'
+14,4668070841633275,Severino Leopoldino Urtiga Filho,[Sem rotulo],-8.0524216,-34.9552024,2.1508777,46,31,0,3,11,1,0,4,6,12,6,'255,255,255'
+15,2200553486822519,Tiago Felipe de Abreu Santos,[Sem rotulo],-8.0543756,-34.9495275,1.0432162,53,38,0,0,15,0,0,0,1,11,19,'255,255,255'
 edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
 0,6,47.0
-1,3,10.0
+1,3,11.0
 1,13,3.0
 1,14,1.0
 1,15,1.0
@@ -25,16 +25,16 @@ edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
 3,10,1.0
 3,13,9.0
 3,14,3.0
-3,15,1.0
+3,15,2.0
 4,13,1.0
 5,8,2.0
 5,13,1.0
 5,14,1.0
 5,15,2.0
-7,11,3.0
-7,13,1.0
+7,11,4.0
+7,13,2.0
 8,10,2.0
-8,14,11.0
+8,14,13.0
 10,11,1.0
 10,14,3.0
 10,15,1.0

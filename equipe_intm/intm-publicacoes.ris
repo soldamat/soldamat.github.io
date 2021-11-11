@@ -1,6 +1,19 @@
 
 
 TY  - JOUR
+AU  - DE FARIAS, LARISSA M.S. ; GHISLANDI, MARCOS G. ; DE AGUIAR, MAURÍCIO F. ; SILVA, DÁFENES B.R.S. ; LEAL, ANDRESSA N.R. ; DE A. O. SILVA, FELIPE ; FRAGA, TIAGO J.M. ; de Melo, Celso P. ; ALVES, KLEBER G.B.
+TI  - Electrospun polystyrene/graphene oxide fibers applied to the remediation of dye wastewater
+JO  - MATERIALS CHEMISTRY AND PHYSICS
+VL  - 276
+IS  - 
+SP  - 125356
+EP  - 
+PY  - 2022
+L2  - http://dx.doi.org/10.1016/j.matchemphys.2021.125356
+L3  - 0254-0584
+ER  - 
+
+TY  - JOUR
 AU  - ARAUJO, R. P. ; Oliveira, José Eduardo ; OLIVEIRA, C. A. N. ; SILVA, N. G. ; OLIVEIRA, E. J. A. ; FREITAS, M. M. S.
 TI  - Estudo da Utilização de Cartas de Controle e da Capabilidade de Processo no Monitoramento e Ajuste dos Intervalos de Calibração de um Transdutor de Torque
 JO  - REVISTA DE ENGENHARIA E PESQUISA APLICADA
@@ -27,10 +40,10 @@ L3  - 2352-7102
 ER  - 
 
 TY  - JOUR
-AU  - Berenguer, R. A. ; Lima, N. B. ; CRUZ, F. ; SEGUNDO NETO, J. L. P. ; LIMA, NATHALIA B. D.
+AU  - BERENGUER, R. A. ; LIMA, N. ; CRUZ, F. ; PINTO, L. ; LIMA, N. B.
 TI  - Thermodynamic, microstructural and chemometric analyses of the reuse of sugarcane ashes in cement manufacturing
 JO  - JOURNAL OF ENVIRONMENTAL CHEMICAL ENGINEERING
-VL  - xxx
+VL  - 9
 IS  - 
 SP  - 105350
 EP  - 
@@ -53,6 +66,84 @@ L3  - 0958-9465
 ER  - 
 
 TY  - JOUR
+AU  - DE AGUIAR, MAURÍCIO F. ; LEAL, ANDRESSA N.R. ; de Melo, Celso P. ; ALVES, KLEBER G.B.
+TI  - Polypyrrole-coated electrospun polystyrene films as humidity sensors
+JO  - TALANTA
+VL  - 234
+IS  - 
+SP  - 122636
+EP  - 122636
+PY  - 2021
+L2  - http://dx.doi.org/10.1016/j.talanta.2021.122636
+L3  - 0039-9140
+ER  - 
+
+TY  - JOUR
+AU  - DO VALE, NATÁLIA L. ; FERNANDES, CAMILA A. ; SANTOS, RUBENS DE A. ; SANTOS, TIAGO F. A. ; URTIGA FILHO, SEVERINO L.
+TI  - Effect of Laser Parameters on the Characteristics of a Laser Clad AISI 431 Stainless Steel Coating on Carbon Steel Substrate
+JO  - JOM
+VL  - 73
+IS  - 
+SP  - 2868
+EP  - 2877
+PY  - 2021
+L2  - http://dx.doi.org/10.1007/s11837-021-04835-3
+L3  - 1047-4838
+ER  - 
+
+TY  - JOUR
+AU  - FARIAS, T. ; Silva, A. C. S. ; FIGUEREDO, E. W. A. ; PEREIRA, M. ; Silva, F. J.
+TI  - Influence of Welding Speed on Geometric and Microstructural Characteristics of Submerged Arc Welding Tandem Arc Joints.
+JO  - REVISTA SOLDAGEM E INSPEÇÃO
+VL  - 26
+IS  - 
+SP  - 1
+EP  - 16
+PY  - 2021
+L2  - http://dx.doi.org/10.1590/0104-9224/SI26.09
+L3  - 1980-6973
+ER  - 
+
+TY  - JOUR
+AU  - FERNANDES, L. E. ; XAVIER, E. I. V. ; LOTT, M. M. P. ; SILVA JUNIOR, M. E. ; NASCIMENTO, D. M. ; DE ARAUJO FILHO, OSCAR OLIMPIO
+TI  - Estudo do tratamento térmico de compósitos de matriz metálica da liga aa7075 com reforço particulado cerâmico de alumina
+JO  - INTERNATIONAL JOURNAL OF DEVELOPMENT RESEARCH
+VL  - 
+IS  - 
+SP  - 47167
+EP  - 47173
+PY  - 2021
+L2  - http://dx.doi.org/10.37118/ijdr.21963.05.2021
+L3  - 2230-9926
+ER  - 
+
+TY  - JOUR
+AU  - FIGUEREDO, E. W. A. ; APOLINARIO, L. H. R. ; SANTOS, M. V. ; SILVA, A. C. S. ; AVILA, J. A. ; LIMA, M. S. F. ; SANTOS, T. F. A.
+TI  - Influence of Laser Beam Power and Scanning Speed on the Macrostructural Characteristics of AISI 316L and AISI 431 Stainless Steel Depositions Produced by Laser Cladding Process
+JO  - JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE
+VL  - 30
+IS  - 
+SP  - 3298
+EP  - 3312
+PY  - 2021
+L2  - http://dx.doi.org/10.1007/s11665-021-05676-6
+L3  - 1059-9495
+ER  - 
+
+TY  - JOUR
+AU  - Lima, V. E. ; FUCALE, S. ; Estolano, A. M. ; Berenguer, R. A. ; Lima, N. B. ; CABRAL, L. C. ; NASCIMENTO, H. C. B. ; LIMA, N. B.
+TI  - Concrete precast rejects ? treatment, characterization, and application in new concrete as recycled aggregate
+JO  - CONJECTURAS
+VL  - 21
+IS  - 
+SP  - 142
+EP  - 181
+PY  - 2021
+L2  - http://dx.doi.org/10.53660/CONJ-148-252.
+L3  - 1657-5830
+ER  - 
+
+TY  - JOUR
 AU  - MACHADO, C. M. B. ; LIMA, NATHALIA B.D. ; LINS, S. L. S. ; Simas, A. M.
 TI  - A theorized new class of polyhedral hydrocarbons of molecular formula CnHn and their bottom-up scaffold expansions into hyperstructures
 JO  - Scientific Reports
@@ -63,6 +154,19 @@ EP  -
 PY  - 2021
 L2  - http://dx.doi.org/10.1038/s41598-021-84562-6
 L3  - 2045-2322
+ER  - 
+
+TY  - JOUR
+AU  - NASCIMENTO, D. M. ; MUNIZ, M. B. ; COSTA, J. E. B. ; SILVA JUNIOR, M. E. ; ZARZAR, S. T. ; FILHO, OSCAR OLIMPIO DE ARAUJO
+TI  - Manufacture and characterization of aa6061 aluminum alloy metal matrix composites with ceramic particulate reinforcement
+JO  - INTERNATIONAL JOURNAL OF DEVELOPMENT RESEARCH
+VL  - 
+IS  - 
+SP  - 46875
+EP  - 46883
+PY  - 2021
+L2  - http://dx.doi.org/10.37118/ijdr.21782.05.2021
+L3  - 2230-9926
 ER  - 
 
 TY  - JOUR
@@ -92,6 +196,32 @@ L3  - 2525-8761
 ER  - 
 
 TY  - JOUR
+AU  - PEREIRA, ROSEANA F. DA C. ; OLIVEIRA, EDKARLLA S. D. DE ; LIMA, MARIA ALICE G. DE A. ; URTIGA FILHO, SEVERINO L.
+TI  - Evaluation of the Multi-Structural Potential of Ni-Co/SiC Nanocomposite Coatings Electrodeposited in API 5L X80 Steel
+JO  - MATERIALS RESEARCH
+VL  - 24
+IS  - 
+SP  - 1
+EP  - 11
+PY  - 2021
+L2  - http://dx.doi.org/10.1590/1980-5373-mr-2020-0362
+L3  - 1980-5373
+ER  - 
+
+TY  - JOUR
+AU  - SILVA JUNIOR, M. E. ; NASCIMENTO, D. M. ; SILVA, E. C. O. ; SILVA, I. A. ; SILVA, T. T. L. ; SANTANA, R. S. ; Araujo Filho, Oscar
+TI  - MANUFACTURING AND PROCESSING OF AA3303 ALUMINUM ALLOY BY SYNTHESIS OF ELEMENTARY POWDERS BY POWDER METALLURGY TECHNIQUES OF HIGH ENERGY BALL MILLING AND HOT EXTRUSION
+JO  - INTERNATIONAL JOURNAL OF DEVELOPMENT RESEARCH
+VL  - 11
+IS  - 
+SP  - 50668
+EP  - 50675
+PY  - 2021
+L2  - http://dx.doi.org/10.37118/ijdr.23054.10.2021
+L3  - 2230-9926
+ER  - 
+
+TY  - JOUR
 AU  - SILVA LINS, ILÁRIA MARTINA ; DANIEL DA SILVA FONSECA, JOSÉ ; LOURENÇO DA LUZ, LEONIS ; CHOJNACKI, JAROS'AW ; Júnior, Severino Alves ; BARROS, BRÁULIO SILVA ; KULESZA, JOANNA
 TI  - Novel luminescent calixarene-based lanthanide materials: From synthesis and characterization to the selective detection of Fe3+
 JO  - JOURNAL OF SOLID STATE CHEMISTRY
@@ -105,13 +235,117 @@ L3  - 0022-4596
 ER  - 
 
 TY  - JOUR
+AU  - SILVA, E. F. DA ; PEREIRA, D. H. M. ; Yadava, Y. P. ; ARAUJO FILHO, O. O. ; FERREIRA, R. A. SANGUINETTI
+TI  - Influence of Thermomechanical Sequences on the Mechanical Properties of DP 800 Steel
+JO  - MATERIALS RESEARCH
+VL  - 24
+IS  - 
+SP  - 1200
+EP  - 
+PY  - 2021
+L2  - http://dx.doi.org/10.1590/1980-5373-mr-2020-0465
+L3  - 1980-5373
+ER  - 
+
+TY  - JOUR
+AU  - SILVA, ENÉAS CARLOS DE OLIVEIRA ; AMARO, DANIEL RICARDO DE ARAÚJO ; DO NASCIMENTO, DIOGO MONTEIRO ; SILVA, EDUARDO JOSÉ ; JUNIOR, MOISÉS EUCLIDES DA SILVA ; DAVID, THIAGO BATISTA ; DA SILVA, WILTON BATISTA ; FILHO, OSCAR OLIMPIO DE ARAUJO
+TI  - Fabricação e caracterização da liga de alumínio AA7009 através de técnicas de metalurgia do pó / Manufacturing and characterization of aluminum alloy AA7009 processed by powder metallurgy techniques
+JO  - Brazilian Applied Science Review
+VL  - 5
+IS  - 
+SP  - 1625
+EP  - 1642
+PY  - 2021
+L2  - http://dx.doi.org/10.34115/basrv5n3-023
+L3  - 2595-3621
+ER  - 
+
+TY  - JOUR
+AU  - SILVA, ENÉAS CARLOS DE OLIVEIRA ; AMARO, DANIEL RICARDO DE ARAÚJO ; DO NASCIMENTO, DIOGO MONTEIRO ; SILVA, EDUARDO JOSÉ ; JUNIOR, MOISÉS EUCLIDES DA SILVA ; DAVID, THIAGO BATISTA ; DA SILVA, WILTON BATISTA ; FILHO, OSCAR OLIMPIO DE ARAUJO
+TI  - Fabricação da liga de alumínio AA7013 através de técnicas de metalurgia do pó / Manufacturing aluminum alloy AA7013 through of powder metallurgy techniques
+JO  - Brazilian Applied Science Review
+VL  - 5
+IS  - 
+SP  - 1606
+EP  - 1624
+PY  - 2021
+L2  - http://dx.doi.org/10.34115/basrv5n3-022
+L3  - 2595-3621
+ER  - 
+
+TY  - JOUR
+AU  - SILVA, ENÉAS CARLOS DE OLIVEIRA ; NASCIMENTO, DIOGO MONTEIRO DO ; COSTA, JOSÉ ENDEREÇO BARACHO DA ; JUNIOR, MOISÉS EUCLIDES DA SILVA ; FREIRE, MÁRCIO ROLEMBERG ; FILHO, OSCAR OLIMPIO DE ARAUJO
+TI  - Fabricação de Liga de Alumínio AA7011 Através de Técnicas de Metalurgia do Pó / Fabrication of AA7011 Aluminum Alloy Using Powder Metallurgy Techniques
+JO  - Brazilian Applied Science Review
+VL  - 5
+IS  - 
+SP  - 921
+EP  - 931
+PY  - 2021
+L2  - http://dx.doi.org/10.34115/basrv5n2-023
+L3  - 2595-3621
+ER  - 
+
+TY  - JOUR
+AU  - SILVA, PULKRA ; OLIVEIRA, SARA H. ; VINHAS, GLÓRIA M. ; CARVALHO, LADIMIR J. ; BARAÚNA, OSMAR S. ; URTIGA FILHO, SEVERINO L. ; LIMA, MARIA ALICE G.A.
+TI  - Tetrakis hydroxymethyl phosphonium sulfate (THPS) with biopolymer as strategy for the control of microbiologically influenced corrosion in a dynamic system
+JO  - CHEMICAL ENGINEERING AND PROCESSING
+VL  - 160
+IS  - 
+SP  - 108272
+EP  - 
+PY  - 2021
+L2  - http://dx.doi.org/10.1016/j.cep.2020.108272
+L3  - 0255-2701
+ER  - 
+
+TY  - JOUR
+AU  - SILVA, T. T. L. ; Gonzalez, C. H. ; LOTT, M. M. P. ; ZARZAR, S. T. ; ARAUJO FILHO, O. O.
+TI  - Influência dos tratamentos térmicos de solubilização e envelhecimento artificial na dureza de uma liga de al com 5,5% de cu produzida via metalurgia do pó
+JO  - Brazilian Applied Science Review
+VL  - 5
+IS  - 
+SP  - 1166
+EP  - 1179
+PY  - 2021
+L2  - http://dx.doi.org/10.34115/basrv5n2-04
+L3  - 2595-3621
+ER  - 
+
+TY  - JOUR
+AU  - Silva, T.T.L. ; GONZALEZ, C. H. ; LOTT, M. M. P. ; ZARZAR, S. T. ; ARAUJO FILHO, OSCAR
+TI  - Influence of solution treating and artificial aging heat treatments in the hardness of an al alloy with 5.5% of Cu manufatured by powder metallurgy
+JO  - Brazilian Applied Science Review
+VL  - 5
+IS  - 
+SP  - 1166
+EP  - 1179
+PY  - 2021
+L2  - http://dx.doi.org/10.34115/basrv5n2-04
+L3  - 2595-3621
+ER  - 
+
+TY  - JOUR
+AU  - SIQUEIRA, LUCAS OLIVEIRA ; DA SILVA, ANA CARLA SANTOS ; MARQUES, IGOR JORDÃO ; GONZALEZ, CEZAR HENRIQUE ; DE ABREU SANTOS, TIAGO FELIPE
+TI  - Microstructural Evaluation of Copper Brazed Joints Using Silver-Based Filler Metal
+JO  - METALLOGRAPHY, MICROSTRUCTURE, AND ANALYSIS (PRINT)
+VL  - 10
+IS  - 
+SP  - 174
+EP  - 183
+PY  - 2021
+L2  - http://dx.doi.org/10.1007/s13632-021-00722-0
+L3  - 2192-9262
+ER  - 
+
+TY  - JOUR
 AU  - SOARES, ELDER ; BOUCHONNEAU, NADÈGE ; ALVES, ELIZETH ; ALVES, KLEBER ; ARAÚJO FILHO, OSCAR ; MESGUICH, DAVID ; CHEVALLIER, GEOFFROY ; LAURENT, CHRISTOPHE ; ESTOURNÈS, CLAUDE
 TI  - Microstructure and Mechanical Properties of AA7075 Aluminum Alloy Fabricated by Spark Plasma Sintering (SPS)
 JO  - Materials
 VL  - 14
 IS  - 
 SP  - 430
-EP  - 
+EP  - 441
 PY  - 2021
 L2  - http://dx.doi.org/10.3390/ma14020430
 L3  - 1996-1944
@@ -141,6 +375,58 @@ EP  - 2339
 PY  - 2021
 L2  - http://dx.doi.org/10.1007/s00170-020-06418-z
 L3  - 0268-3768
+ER  - 
+
+TY  - JOUR
+AU  - VASCONCELOS, G. C. ; SANTOS, T. F. A. ; ANGRIZANI, C. C. ; SALES, L. A. ; COSTA, M. L. ; BOTELHO, E. C.
+TI  - Creep and Aging Evaluation of Phenol-Formaldehyde Carbon Fiber Composites in Overhead Transmission Lines
+JO  - APPLIED COMPOSITE MATERIALS
+VL  - 28
+IS  - 
+SP  - 1697
+EP  - 1714
+PY  - 2021
+L2  - http://dx.doi.org/10.1007/s10443-021-09935-6
+L3  - 0929-189X
+ER  - 
+
+TY  - JOUR
+AU  - ZARZAR, S. T. ; NASCIMENTO, D. M. ; COSTA, J. E. B. ; SILVA JUNIOR, M. E. ; ARAUJO FILHO, O. O.
+TI  - Fabricação e caracterização da liga de alumínio AA8079 através das técnicas de metalurgia do pó
+JO  - Brazilian Applied Science Review
+VL  - 5
+IS  - 
+SP  - 1054
+EP  - 1067
+PY  - 2021
+L2  - http://dx.doi.org/10.34115/basrv5n2-032
+L3  - 2529-3621
+ER  - 
+
+TY  - JOUR
+AU  - ZARZAR, SANDRA TORRES ; NASCIMENTO, DIOGO MONTEIRO DO ; COSTA, JOSÉ ENDREO BARACHO DA ; JUNIOR, MOISÉS EUCLIDES DA SILVA ; FILHO, OSCAR OLIMPIO DE ARAUJO
+TI  - Fabricação e caracterização da liga de alumínio AA8011 através das técnicas de metalurgia do pó/ Manufacturing and characterization of the aluminum alloy AA8011 through powder metallurgy techniques
+JO  - Brazilian Applied Science Review
+VL  - 5
+IS  - 
+SP  - 891
+EP  - 904
+PY  - 2021
+L2  - http://dx.doi.org/10.34115/basrv5n2-020
+L3  - 2595-3621
+ER  - 
+
+TY  - JOUR
+AU  - ARAÚJO, IVANA DOS SANTOS ; VIEIRA, MAGDA ROSÂNGELA SANTOS ; PEREIRA, ROSEANA FLORENTINO DA COSTA ; SILVA, JEDAÍAS JANUÁRIO DA ; SILVA, PRISCILA PEREIRA BARBOSA DA ; URTIGA FILHO, SEVERINO LEOPOLDINO
+TI  - Desenvolvimento e caracterização de revestimentos Ni e Ni-Grafeno obtidos por eletrodeposição em aço API 5L X80
+JO  - Materia-Rio de Janeiro
+VL  - 25
+IS  - 
+SP  - 1
+EP  - 14
+PY  - 2020
+L2  - http://dx.doi.org/10.1590/s1517-707620200002.1049
+L3  - 1517-7076
 ER  - 
 
 TY  - JOUR
@@ -248,6 +534,19 @@ L3  - 2041-2479
 ER  - 
 
 TY  - JOUR
+AU  - SILVA, P. P. B. ; ARAUJO, I. S. ; VIEIRA, Magda. R. S. ; URTIGA FILHO, S. L.
+TI  - Influence of welding parameters on the geometric and microstructural characteristics of Inconel 625 coatings deposited on ASTM A36 Steel by Plasma Transferred Arc
+JO  - Materia-Rio de Janeiro
+VL  - x
+IS  - 
+SP  - x
+EP  - 
+PY  - 2020
+L2  - 
+L3  - 1517-7076
+ER  - 
+
+TY  - JOUR
 AU  - VICENTE, A. A. ; D?SILVA, P. A. ; BABU, R. ; DOS SANTOS, I. L. ; AGUIAR, R. R. ; SANTOS, T. F. A.
 TI  - The correct choice among welding wires ER70S- 2, ER70S-3 and ER70S-6, according to the oxidation level of base metal
 JO  - INTERNATIONAL JOURNAL OF ADVANCED ENGINEERING RESEARCH AND SCIENCE
@@ -302,14 +601,14 @@ ER  -
 TY  - JOUR
 AU  - WALLERSTEIN, D ; VAAMONDE, E ; PRADA, A ; TORRES, EA ; URTIGA FILHO, SL ; SANTOS, TFA
 TI  - Influence of welding gases and filler metals on hybrid laser-GMAW and Laser-FCAW welds
-JO  - PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART C-JOURNAL OF MECHANICAL ENGINEERING SCIENCE
-VL  - online
+JO  - PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS, PART C: JOURNAL OF MECHANICAL ENGINEERING SCIENCE (ONLINE)
+VL  - 235
 IS  - 
 SP  - 095440622095705
 EP  - 
 PY  - 2020
 L2  - http://dx.doi.org/10.1177/0954406220957053
-L3  - 0954-4062
+L3  - 2041-2983
 ER  - 
 
 TY  - JOUR
@@ -1028,7 +1327,7 @@ L3  - 1678-5878
 ER  - 
 
 TY  - JOUR
-AU  - DE ARAÚJO FILHO, OSCAR OLIMPIO ; DE ARAÚJO, EVERTHON RODRIGUES ; DE LIRA, HERONILTON MENDES ; GONZALEZ, Cezar Henrique ; SILVA, NOELLE DEMERY GOMES ; Urtiga Filho, Severino Leopoldino
+AU  - DE ARAÚJO FILHO, OSCAR OLIMPIO ; DE ARAÚJO, EVERTHON RODRIGUES ; DE LIRA, HERONILTON MENDES ; GONZALEZ, Cezar Henrique ; SILVA, NOELLE D?EMERY GOMES ; Urtiga Filho, Severino Leopoldino
 TI  - Manufacturing of AA2124 Aluminum Alloy Metal Matrix Composites Reinforced by Silicon Carbide Processed by Powder Metallurgy Techniques of High Energy Ball Milling and Hot Extrusion
 JO  - MATERIALS SCIENCE FORUM (ONLINE)
 VL  - 899
@@ -1041,7 +1340,7 @@ L3  - 1662-9752
 ER  - 
 
 TY  - JOUR
-AU  - DE ARAÚJO FILHO, OSCAR OLIMPIO ; GONZALEZ, Cezar Henrique ; Urtiga Filho, Severino Leopoldino ; OLIVEIRA, C.A.N. ; SILVA, NOELLE DEMERY GOMES ; AMBROZIO FILHO, F.
+AU  - DE ARAÚJO FILHO, OSCAR OLIMPIO ; GONZALEZ, Cezar Henrique ; Urtiga Filho, Severino Leopoldino ; OLIVEIRA, C.A.N. ; SILVA, NOELLE D?EMERY GOMES ; AMBROZIO FILHO, F.
 TI  - Secondary Hardening of an AISI M3:2 High Speed Steel Sinter 23 Hot Isostatic Pressed
 JO  - MATERIALS SCIENCE FORUM (ONLINE)
 VL  - 899
@@ -1549,7 +1848,7 @@ ER  -
 
 TY  - JOUR
 AU  - PLETSCH, RÔMULO DE O. ; ALVES, KLEBER G.B. ; VIEIRA, MAGDA R.S. ; de Melo, Celso P. ; BOUCHONNEAU, NADÈGE S.
-TI  - Study of the Efficiency of Ag-SiO<sub>2</sub> Nanoparticles as Additives in Anticorrosion Coatings
+TI  - Study of the Efficiency of Ag-SiO2</sub> Nanoparticles as Additives in Anticorrosion Coatings
 JO  - Materials Science Forum (Online)
 VL  - 869
 IS  - 
@@ -1997,6 +2296,18 @@ EP  -
 ER  - 
 
 TY  - CHAP
+AU  - Araújo, Wagner Daniel Oliveira de ; SILVA, RAFAEL GLEYMIR CASANOVA DA ; MALTA, MARIA ISABEL COLLASIUS ; VIEIRA, MAGDA ROSÂNGELA SANTOS ; URTIGA FILHO, SEVERINO LEOPOLDINO
+T1  - FABRICAÇÃO DE REVESTIMENTO SUPER-HIDROFÓBICO EM LIGA DE ALUMÍNIO 5052 E AVALIAÇÃO DA PROPRIEDADE DE AUTOLIMPEZA. Impactos das Tecnologias na Engenharia de Materiais e Metalúrgica 2. 1ed.Ponta Grossa, PR
+TI  - 
+IS  - 
+PB  - Atena Editora
+PY  - 2021
+VL  - 1
+SP  - 27
+EP  - 36
+ER  - 
+
+TY  - CHAP
 AU  - DELGADO, J. M. P. Q. ; BERENGUER, R. ; LIMA, N. ; VALDÉS, A. C. ; MEDEIROS, M. H. F. ; AZEVEDO, A. C. ; Lima, N. B. D.
 T1  - Influence of the Addition of Sugar Cane Bagasse Ash on Durability of Concrete Structures. Building Pathology and Rehabilitation. 1ed
 TI  - 
@@ -2009,6 +2320,42 @@ EP  - 171
 ER  - 
 
 TY  - CHAP
+AU  - SILVA, ENÉAS CARLOS DE OLIVEIRA ; SILVA, EDUARDO JOSÉ ; DAVID, THIAGO BATISTA ; JUNIOR, MOISÉS EUCLIDES DA SILVA ; FILHO, OSCAR OLIMPIO DE ARAUJO
+T1  - FABRICAÇÃO DA LIGA DE ALUMÍNIO AA7013 ATRAVÉS DE TÉCNICAS DE METALURGIA DO PÓ
+TI  - Henrique Ajuz Holzmann; João Dallamuta. (Org.). Engenharia mecânica: A influência de máquinas, ferramentas e motores no cotidiano do homem 2. 1a.ed.Ponta Grossa
+IS  - 
+PB  - Atena Editora
+PY  - 2021
+VL  - 
+SP  - 60
+EP  - 77
+ER  - 
+
+TY  - CHAP
+AU  - SILVA, ENÉAS CARLOS DE OLIVEIRA ; SILVA, EDUARDO JOSÉ ; DAVID, THIAGO BATISTA ; JUNIOR, MOISÉS EUCLIDES DA SILVA ; FILHO, OSCAR OLIMPIO DE ARAUJO
+T1  - FABRICAÇÃO E CARACTERIZAÇÃO DA LIGA DE ALUMÍNIO AA7009 ATRAVÉS DE TÉCNICAS DE METALURGIA DO PÓ
+TI  - Henrique Ajuz Holzmann; João Dallamuta. (Org.). Engenharia mecânica: A influência de máquinas, ferramentas e motores no cotidiano do homem 2. 1aed.Ponta Grossa
+IS  - 
+PB  - Atena Editora
+PY  - 2021
+VL  - 
+SP  - 78
+EP  - 95
+ER  - 
+
+TY  - CHAP
+AU  - ZARZAR, SANDRA TORRES ; NASCIMENTO, DIOGO MONTEIRO DO ; COSTA, JOSÉ ENDREO BARACHO DA ; JUNIOR, MOISÉS EUCLIDES DA SILVA ; FILHO, OSCAR OLIMPIO DE ARAUJO
+T1  - FABRICAÇÃO E CARACTERIZAÇÃO DA LIGA DE ALUMÍNIO AA8011 ATRAVÉS DAS TÉCNICAS DE METALURGIA DO PÓ
+TI  - Henrique Ajuz Holzmann; João Dallamuta. (Org.). Engenharia mecânica: A influência de máquinas, ferramentas e motores no cotidiano do homem 2. 1a.ed.Ponta Grossa
+IS  - 
+PB  - Atena Editora
+PY  - 2021
+VL  - 
+SP  - 96
+EP  - 110
+ER  - 
+
+TY  - CHAP
 AU  - MORELLI, CAROLINA L; MOURA, Y. R. S. ; FERREIRA, B. C. O. ; ARAUJO, F. C. ; FLORENCIO, K. C. ; BATISTA, L. L. ; CARRARA, L. L. ; FERREIRA, T. J. L. ; CARVALHO, K. W. ; VALERIO, A. L.
 T1  - Aprendizagem baseada em projeto no desenvolvimento de materiais. Ampliação e aprofundamento de conhecimentos nas áreas das Engenharias 2. 1ed
 TI  - 
@@ -2018,6 +2365,18 @@ PY  - 2020
 VL  - 1
 SP  - 173
 EP  - 188
+ER  - 
+
+TY  - CHAP
+AU  - SILVA, RAFAEL GLEYMIR CASANOVA DA ; MALTA, MARIA ISABEL COLLASIUS ; URTIGA FILHO, SEVERINO LEOPOLDINO ; Oliveira, Sara Horácio de ; VIEIRA, MAGDA ROSÂNGELA SANTOS
+T1  - MODIFICAÇÃO QUÍMICA DA LIGA DE ALUMÍNIO 5052 PARA OBTENÇÃO DE SUPERFÍCIES SUPERHIDROFÓBICAS. Evolução na Ciência e Engenharia de Materiais. 1ed.Ponta Grossa, PR
+TI  - 
+IS  - 
+PB  - Atena Editora
+PY  - 2020
+VL  - 1
+SP  - 201
+EP  - 206
 ER  - 
 
 TY  - CHAP
@@ -2045,6 +2404,18 @@ EP  - 109
 ER  - 
 
 TY  - CHAP
+AU  - JUSTINO, P. N. A. ; VALADARES, D. S. ; LACERDA, J. C. ; MORELLI, C. L.
+T1  - Desenvolvimento de uma carenagem para veículo off-road por meio de materiais recicláveis. Engenharia no século XXI-volume 1. 1ed
+TI  - 
+IS  - 
+PB  - 
+PY  - 2019
+VL  - 
+SP  - 175
+EP  - 
+ER  - 
+
+TY  - CHAP
 AU  - Santos, Abdias Gomes dos ; Silva, Flávio José da ; VIEIRA, MAGDA ROSÂNGELA SANTOS
 T1  - ACUMULADORES PB-ÁCIDO: CONCEITOS, HISTÓRICO E APLICAÇÃO. Impactos das Tecnologias na Engenharia de Materiais e Metalúrgica. 1ed.PONTA GROSSA-PR
 TI  - 
@@ -2057,13 +2428,13 @@ EP  - 20
 ER  - 
 
 TY  - CHAP
-AU  - Silva Filho, Walter Leandro Cordeiro da ; VIEIRA, MAGDA ROSÂNGELA SANTOS ; MELO, IVANILDA RAMOS DE ; PEREIRA, ROSEANA FLORENTINO DA COSTA ; URTIGA FILHO, SEVERINO LEOPOLDINO
-T1  - ANÁLISE DOS EFEITOS DA CORROSÃO EM ELETRODO DE ATERRAMENTO ELÉTRICO COBREADO. Ciência e Engenharia de Materiais e o Desenvolvimento Socioambiental. 1ed
+AU  - Silva Filho, Walter Leandro Cordeiro da ; VIEIRA, MAGDA ROSÂNGELA SANTOS ; Melo, Ivanilda Ramos de ; PEREIRA, ROSEANA FLORENTINO DA COSTA ; URTIGA FILHO, SEVERINO LEOPOLDINO
+T1  - ANÁLISE DOS EFEITOS DA CORROSÃO EM ELETRODO DE ATERRAMENTO ELÉTRICO COBREADO. Ciência e Engenharia de Materiais e o Desenvolvimento Socioambiental. 1ed.Ponta Grossa, PR
 TI  - 
 IS  - 
 PB  - Atena Editora
 PY  - 2019
-VL  - 
+VL  - 1
 SP  - 135
 EP  - 144
 ER  - 
@@ -2125,6 +2496,61 @@ M1  -
 ER  - 
 
 TY  - CONF
+AU  - ARAÚJO, HELEN ; LUIZ, PETRÔNIO ; RODRIGUES APOLINARIO, LUIS HENRIQUE ; DE ALBUQUERQUE VICENTE, ANDRÉ ; ABREU SANTOS, TIAGO FELIPE
+T1  - AVALIAÇÃO DE DESEMPENHO MECÂNICO DE JUNTAS SOLDADAS EM AÇO INOXIDÁVEL AUSTENÍTICO PELO PROCESSO DE SOLDAGEM GMAW POR CURTO-CIRCUITO CONTROLADO (CCC)
+TI  - 11th Brazilian Congress on Manufacturing Engineering
+VL  - 
+SP  - 
+EP  - 
+PY  - 2021
+L2  - http://dx.doi.org/10.26678/ABCM.COBEF2021.COB21-0080
+ER  - 
+
+TY  - CONF
+AU  - PEREIRA, L. ; BOUCHONNEAU, N. ; JOCHUM, C.
+T1  - A THERMAL DEGRADATION MODELLING FOR EXOTHERMAL EFFECTS ON THE SPECS OF THICK EPOXIES: EXPERIMENTS Vs PHYSICO CHEMICAL COUPLED APPROACHES
+TI  - 14th International Conference on Advanced Computational Engineering and Experimenting
+VL  - 
+SP  - 
+EP  - 
+PY  - 2021
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - PEREIRA, L. ; Bouchonneau, Nadège ; JOCHUM, C.
+T1  - EXOTHERM ISSUES PREDICTIONS DURING THE CURING OF A THICK EPOXY MATRIX AND EFFECTS ON ELASTIC PROPERTIES
+TI  - 5th Brazilian Conference on Composite Materials ? BCCM 5
+VL  - 
+SP  - 
+EP  - 
+PY  - 2021
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - DE FARIAS, LARISSA M.S. ; LEAL, A. N. R. ; GHISLANDI, M. G. ; de MELO, C. P. ; ALVES, K.G.B.
+T1  - APLICAÇÃO DE MEMBRANAS DE POLIESTIRENO/ÓXIDO DE GRAFENO NA REMEDIAÇÃO DE MEIOS AQUOSOS
+TI  - XX Congresso Internacional de Engenharia Mecânica e Industrial - CONEMI
+VL  - 
+SP  - 
+EP  - 
+PY  - 2020
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - DE FARIAS, LARISSA M.S. ; LEAL, A. N. R. ; GHISLANDI, M. G. ; de MELO, C. P. ; ALVES, K.G.B.
+T1  - Preparação e caracterização de fibras de poliestireno/óxido de grafeno
+TI  - XX Congresso Internacional de Engenharia Mecânica e Industrial - CONEMI
+VL  - 
+SP  - 
+EP  - 
+PY  - 2020
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - GONCALVES, T. ; NEUWALD, A. ; ESTOLANO, AMANDA M.L. ; Lima, N. B. ; Berenguer, R. A. ; LIMA, NATHALIA B. D.
 T1  - Avaliação das Manifestações Patológicas de uma Estrutura em Concreto Armado ? Estudo Caso
 TI  - 62 Congresso Brasileiro do Concreto
@@ -2158,10 +2584,32 @@ L2  - http://dx.doi.org/10.4322/CBPAT.2020.249
 ER  - 
 
 TY  - CONF
+AU  - SILVA, D. B. R. S. ; AGUIAR, M. F. ; de MELO, C. P. ; ALVES, K. G. B
+T1  - PREPARAÇÃO E CARACTERIZAÇÃO DE NANOFIBRAS DE POLIANINILA/ÁLCOOL POLIVINÍLICO-ARGILA MONTMORILONITA ORGANOFÍLICA
+TI  - XX Congresso Internacional de Engenharia Mecânica e Industrial - CONEMI
+VL  - 
+SP  - 
+EP  - 
+PY  - 2020
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - SILVA, D. B. R. S. ; AGUIAR, M. F. ; de MELO, C. P. ; ALVES, K.G.B.
+T1  - SÍNTESE E CARACTERIZAÇÃO DE NANOFIBRAS DE ÁLCOOL POLIVINÍLICO/ POLIPIRROL/ARGILA
+TI  - XX Congresso Internacional de Engenharia Mecânica e Industrial - CONEMI
+VL  - 
+SP  - 
+EP  - 
+PY  - 2020
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - TENORIO LUNA DA SILVA, TARSILA ; STEPHANY DE SOUZA VIRGOLINO, FILLIPE ; AUGUSTO DO NASCIMENTO OLIVEIRA, CARLOS ; OLIMPIO DE ARAUJO FILHO, OSCAR ; HENRIQUE GONZALEZ, CEZAR
 T1  - FABRICAÇÃO DE UMA LIGA EQUIATÔMICA DE TINI COM EFEITO MEMÓRIA DE FORMA PELO MÉTODO PLASMA SKUL-PUSH PULL
 TI  - 20XX CONEMI
-VL  - 
+VL  - 1
 SP  - 
 EP  - 
 PY  - 2020
@@ -2175,6 +2623,17 @@ TI  - 15º Congresso Brasileiro de Polímeros
 VL  - 1
 SP  - 2748
 EP  - 2752
+PY  - 2019
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - ALMEIDA, M. F. O. ; AZEVEDO, D. M. F. S. ; SILVA, A. B. ; MORELLI, C. L.
+T1  - FILMES DE POLIURETANO INCORPORADOS COM ÓLEO DE COPAÍBA PARA curativos
+TI  - 15 Congresso Brasileiro de Polímeros
+VL  - 
+SP  - 
+EP  - 
 PY  - 2019
 L2  - 
 ER  - 
@@ -2213,6 +2672,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - FERREIRA, L. B. ; ARAUJO, C. R. ; CRUZ, C. L. ; MORELLI, C. L. ; FREITAS, K. M. ; SILVA, A. B.
+T1  - MANTAS DE NANOFIBRAS ELETROFIADAS DE POLIURETANO TERMOPLÁSTICO (TPU) COM ÓLEO ESSENCIAL DE CANELA
+TI  - 15 Congresso Brasileiro de Polímeros
+VL  - 
+SP  - 
+EP  - 
+PY  - 2019
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - JOCHUM, CHRISTIAN ; PAIVA, V. M. B. C. ; BOUCHONNEAU, N.
 T1  - THICK EPOXY CURE INDUCED EXOTHERMAL EFFECTS ON MATERIAL QUALITY : EXPERIMENTS VS PHYSICO-CHEMICAL COUPLED APPROACHES
 TI  - 13th International Conference on Advanced Computational Engineering and Experimenting - ACEX
@@ -2243,6 +2713,17 @@ SP  - 1
 EP  - 9
 PY  - 2019
 L2  - http://dx.doi.org/10.5151/2594-5327-33284
+ER  - 
+
+TY  - CONF
+AU  - ROMAGNOLLI, C. M. N. ; TIRONI, F. L. S. ; NETTO JUNIOR, N. L. ; AZEVEDO, D. M. F. S. ; SILVA, A. B. ; MORELLI, C. L.
+T1  - Blenda de amido termoplástico e polietileno de alta densidade reciclado com alecrim pimenta
+TI  - 15 Congresso Brasileiro de Polímeros
+VL  - 
+SP  - 
+EP  - 
+PY  - 2019
+L2  - 
 ER  - 
 
 TY  - CONF
@@ -2323,6 +2804,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - VALERIO, A. L. ; CARVALHO, K. W. ; CARRARA, L. L. ; FERREIRA, T. J. L. ; Carolina Lipparelli Morelli
+T1  - PRODUÇÃO E CARACTERIZAÇÃO DE COMPÓSITOS DE POLIPROPILENO REFORÇADOS COM LUFFA CYLINDRICA
+TI  - IV Congresso de Pesquisa
+VL  - 
+SP  - 
+EP  - 
+PY  - 2019
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - XAVIER, E. I. V. ; FERNANDES, L. E. ; NASCIMENTO, D. M. ; SILVA JUNIOR, M. E. ; ARAÚJO FILHO, OSCAR OLIMPIO
 T1  - Desenvolvimento de Compósitos da Liga de Alumínio AA7075 Reforçados com Alumina e Nitreto de Silício Através de Técnicas de Metalurgia do Pó
 TI  - 74o. Congresso Anual da Associação Brasileira de Metalurgia
@@ -2330,7 +2822,7 @@ VL  -
 SP  - 1
 EP  - 12
 PY  - 2019
-L2  - 
+L2  - http://dx.doi.org/10.22533/at.ed.1732118066
 ER  - 
 
 TY  - CONF
@@ -2572,7 +3064,7 @@ VL  -
 SP  - 
 EP  - 
 PY  - 2018
-L2  - 
+L2  - http://dx.doi.org/10.22533/at.ed.48919191214
 ER  - 
 
 TY  - CONF
@@ -2637,6 +3129,17 @@ TI  - 24nd Congress of Mechanical Engineering ? 24º COBEM 2017
 VL  - 1
 SP  - '1
 EP  - 8
+PY  - 2017
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BELLANI, C. F. ; Morelli, Carolina L. ; KHADEMHOSSEINI, A. ; BRANCIFORTI, MÁRCIA C.
+T1  - HIDROGÉIS DE GELATINA METACRILATO INCORPORADOS COM NANOCRISTAIS DE CELULOSE PARA BIOFABRICAÇÃO 3D
+TI  - 14º Congresso Brasileiro de Polímeros
+VL  - 
+SP  - 
+EP  - 
 PY  - 2017
 L2  - 
 ER  - 
@@ -3071,6 +3574,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - SILVA, F. D. A. ; NASCIMENTO, A. M. ; WANDERLEY, V. A. ; GOMES, C. B. ; FILHO, OSCAR OLÍMPIO DE ARAÚJO
+T1  - Utilização de critérios metalúrgicos no lingotamento contínuo para construção e validação de um modelo matemático da solidificação
+TI  - ABMWEEK
+VL  - 
+SP  - 
+EP  - 
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - Silva, K.C.A. ; Silva, L.C. ; OLIVEIRA, C. A. N. ; GONZALEZ, C. H. ; OLIVEIRA, E. S. D. ; SILVA, F. H. S.
 T1  - Estudo da Fadiga Funcional Superelástica em Atuadores da Liga Ti-Ni com Memória de Forma
 TI  - 22º Congresso Brasileiro de Engenharia e Ciência dos Materiais ? 22º CBECiMat 2016
@@ -3379,8 +3893,19 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - COSTA, J. E. B. ; SOBRIERA, T. G. P. ; LIRA, H. M. ; SILVA JUNIOR, M. E. ; NASCIMENTO, D. M. ; DE ARAUJO FILHO, OSCAR OLIMPIO
+T1  - Fabricação de pós compósitos da liga de alumínio AA1100 com reforço particulado cerâmico nanoestruturado de NiO
+TI  - MEMU-Mostra de Engenharia de Materiais da UfPE, 2019, Recife. MEMU - Mostra de Engenharia de Materiais da UFPE. Recife: UFPE
+VL  - 
+SP  - 
+EP  - 
+PY  - 2019
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - LIMA JUNIOR, J. S. ; DA SILVA, F.J.
-T1  - Ana#769;lise comparativa de custos entre emulso#771;es a base de o#769;leo vegetal e o#769;leo mineral em operac#807;o#771;es de usinagem
+T1  - Análise comparativa de custos entre emulsões a base de óleo vegetal e óleo mineral em operações de usinagem
 TI  - III MEMU - Mostra de Engenharia de Materiais da UFPE, 2019, Recife. III MEMU - Mostra de Engenharia de Materiais da UFPE
 VL  - 
 SP  - 
@@ -3390,8 +3915,30 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - MUNIZ, M. B. ; NASCIMENTO, D. M. ; LIRA, H. M. ; SILVA JUNIOR, M. E. ; DE ARAUJO FILHO, OSCAR OLIMPIO ; SOBRIERA, T. G. P.
+T1  - Fabricação de pós compósitos da liga de alumínio AA1100 com reforço particulado cerâmico nanoestruturado de ZnO através de técnicas de metalurgia do pó
+TI  - MEMU-Mostra de Engenharia de Materiais da UfPE, 2019, Recife. MEMU - Mostra de Engenharia de Materiais da UFPE. Recife: UFPE
+VL  - 
+SP  - 
+EP  - 
+PY  - 2019
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - NASCIMENTO, D. M. ; SILVA JUNIOR, M. E. ; SOBREIRA, T. G. P. ; Araújo, E.R. ; LIRA, H. M. ; Araujo Filho, Oscar
+T1  - Fabricação de compósitos de matriz metálica da liga de AA7075 com reforço particulado de carboneto de silício (SiC) através de técnicas de metalurgia do pó
+TI  - MEMU-Mostra de Engenharia de Materiais da UfPE, 2019, Recife. MEMU - Mostra de Engenharia de Materiais da UFPE. Recife: UFPE
+VL  - 
+SP  - 
+EP  - 
+PY  - 2019
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - SANTOS, Y. L. ; DA SILVA, F.J.
-T1  - Propriedades meca#770;nicas de ac#807;os tratados termicamente por processos crioge#770;nicos
+T1  - Propriedades mecânicas de aços tratados termicamente por processos criogênicos
 TI  - III MEMU - Mostra de Engenharia de Materiais da UFPE, 2019, Recife. III MEMU - Mostra de Engenharia de Materiais da UFPE
 VL  - 
 SP  - 
@@ -3423,9 +3970,9 @@ L2  -
 ER  - 
 
 TY  - CONF
-AU  - BELLANI, C. F. ; Morelli, Carolina L. ; KHADEMHOSSEINI, A. ; BRANCIFORTI, MÁRCIA C.
-T1  - HIDROGÉIS DE GELATINA METACRILATO INCORPORADOS COM NANOCRISTAIS DE CELULOSE PARA BIOFABRICAÇÃO 3D
-TI  - 14º Congresso Brasileiro de Polímeros, 2017, Águas de Lindóia - SP. 14º Congresso Brasileiro de Polímeros
+AU  - BERTOCCO, Y. M. ; CALEGARI, C. L. ; COSTA, C. F. ; WONG, L. A. S. ; FLORENCIA, L. A. ; Carolina Lipparelli Morelli
+T1  - RECICLAGEM DE SACOLAS PLÁSTICAS PARA FABRICAÇÃO DE PISOS ANTIDERRAPANTES E FILAMENTO PARA IMPRESSORA 3D
+TI  - II CONGRESSO DE PESQUISA, EXTENSÃO E ENSINO, 2017, Itabira. II CONGRESSO DE PESQUISA, EXTENSÃO E ENSINO (CPEE)
 VL  - 
 SP  - 
 EP  - 
@@ -3621,18 +4168,6 @@ L2  -
 ER  - 
 
 TY  - CONF
-AU  - ALMEIDA, M. F. O. ; AZEVEDO, D. M. F. S. ; SILVA, A. B. ; MORELLI, C. L.
-T1  - FILMES DE POLIURETANO INCORPORADOS COM ÓLEO DE COPAÍBA PARA curativos
-TI  - 15 Congresso Brasileiro de Polímeros, 2019, Bento Gonçalves - RS. 15 Congresso Brasileiro de Polímeros
-VL  - 
-IS  - 
-SP  - 
-EP  - 
-PY  - 2019
-L2  - 
-ER  - 
-
-TY  - CONF
 AU  - AVEZEDO JUNIOR, R. V. ; LIMA, N. B.
 T1  - Elucidação da Perda de Massa de Concretos sob Condições Chuvosas a partir dePropriedades Físico-Química
 TI  - XX Simpósio Brasileiro de Química Teórica, 2019, João Pessoa. Anais do XX Simpósio Brasileiro de Química Teórica
@@ -3648,18 +4183,6 @@ TY  - CONF
 AU  - FALCAO, H. L. ; Malta, M. I. C. ; SILVA, RAFAEL GLEYMIR CASANOVA DA ; VIEIRA, Magda. R. S. ; URTIGA FILHO, SEVERINO LEOPOLDINO
 T1  - Estudo morfológico do alumínio AA5052 durante as etapas de obtenção de superfície super-hidrofóbica
 TI  - III Mostra de Engenharia de Materiais da UFPE, 2019, Recife. III Mostra de Engenharia de Materiais da UFPE
-VL  - 
-IS  - 
-SP  - 
-EP  - 
-PY  - 2019
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - FERREIRA, L. B. ; ARAUJO, C. R. ; CRUZ, C. L. ; MORELLI, C. L. ; FREITAS, K. M. ; SILVA, A. B.
-T1  - MANTAS DE NANOFIBRAS ELETROFIADAS DE POLIURETANO TERMOPLÁSTICO (TPU) COM ÓLEO ESSENCIAL DE CANELA
-TI  - 15 Congresso Brasileiro de Polímeros, 2019, Bento Gonçalves - RS. 15 Congresso Brasileiro de Polímeros
 VL  - 
 IS  - 
 SP  - 
@@ -3741,18 +4264,6 @@ L2  -
 ER  - 
 
 TY  - CONF
-AU  - ROMAGNOLLI, C. M. N. ; TIRONI, F. L. S. ; NETTO JUNIOR, N. L. ; AZEVEDO, D. M. F. S. ; SILVA, A. B. ; MORELLI, C. L.
-T1  - Blenda de amido termoplástico e polietileno de alta densidade reciclado com alecrim pimenta
-TI  - 15 Congresso Brasileiro de Polímeros, 2019, Bento Gonçalves - RS. 15 Congresso Brasileiro de Polímeros
-VL  - 
-IS  - 
-SP  - 
-EP  - 
-PY  - 2019
-L2  - 
-ER  - 
-
-TY  - CONF
 AU  - SILVA, E. W. M. ; SILVA, RAFAEL GLEYMIR CASANOVA DA ; VIEIRA, Magda. R. S.
 T1  - Estudo da influência de diferentes meios corrosivos no processo de corrosão do aço carbono galvanizado: Uma abordagem didática e prática da cinética de corrosão
 TI  - III Mostra de Engenharia de Materiais, 2019, Recife. III Mostra de Engenharia de Materiais
@@ -3768,18 +4279,6 @@ TY  - CONF
 AU  - VALE, A. C. A. R. ; AMORIM, M. K. M. ; BARROS, B.S. ; KULESZA, J. E.
 T1  - Pickering emulsion synthesis of Co-MOF/GO composites for energy storage purposes
 TI  - XVIII Brazilian MRS Meeting, 2019, Balneário Camboriú. Proceedings of the XVIII B-MRS meeting
-VL  - 
-IS  - 
-SP  - 
-EP  - 
-PY  - 2019
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - VALERIO, A. L. ; CARVALHO, K. W. ; CARRARA, L. L. ; FERREIRA, T. J. L. ; Carolina Lipparelli Morelli
-T1  - PRODUÇÃO E CARACTERIZAÇÃO DE COMPÓSITOS DE POLIPROPILENO REFORÇADOS COM LUFFA CYLINDRICA
-TI  - IV Congresso de Pesquisa, Extensão e Ensino da UNIFEI, 2019, Itabira - MG. IV Congresso de Pesquisa, Extensão e Ensino da UNIFEI
 VL  - 
 IS  - 
 SP  - 
@@ -4104,18 +4603,6 @@ TY  - CONF
 AU  - Belarmino, M. K. D. ; MOURA, G. L. C. ; A. JR, S. ; LIMA, N. B.
 T1  - Gas Storage in MOFs: A Friendly Strategy to Predict the Ability of Molecule Insertion
 TI  - XIX Simpósio Brasileiro de Química Teórica (SBQT), 2017, Águas de Lindoia/SP. Anais do XIX SBQT
-VL  - 
-IS  - 
-SP  - 
-EP  - 
-PY  - 2017
-L2  - 
-ER  - 
-
-TY  - CONF
-AU  - BERTOCCO, Y. M. ; CALEGARI, C. L. ; COSTA, C. F. ; WONG, L. A. S. ; FLORENCIA, L. A. ; Carolina Lipparelli Morelli
-T1  - RECICLAGEM DE SACOLAS PLÁSTICAS PARA FABRICAÇÃO DE PISOS ANTIDERRAPANTES E FILAMENTO PARA IMPRESSORA 3D
-TI  - II CONGRESSO DE PESQUISA, EXTENSÃO E ENSINO, 2017, Itabira. II CONGRESSO DE PESQUISA, EXTENSÃO E ENSINO (CPEE)
 VL  - 
 IS  - 
 SP  - 
