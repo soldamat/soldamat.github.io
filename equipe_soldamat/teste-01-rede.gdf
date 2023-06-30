@@ -1,3 +1,3 @@
 nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
-0,2200553486822519,Tiago Felipe de Abreu Santos,[Sem rotulo],,,0.15,66,45,0,0,21,0,0,2,3,12,24,'255,255,255'
+0,2200553486822519,Tiago Felipe de Abreu Santos,[Sem rotulo],-8.0514444,-34.9529563,0.15,94,53,0,1,32,1,7,2,3,12,24,'10,110,164'
 edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
