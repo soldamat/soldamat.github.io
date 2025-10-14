@@ -1,7 +1,7 @@
 
-                <html><head><meta https-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>Produção Grupo SoldaMAT (2015 - 2023)</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="https://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>Produção Grupo SoldaMAT (2015 - 2023)</h2></div>
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>SoldaMat</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>SoldaMat</h2></div>
                 
-        <script type="text/javascript" src="./jquery.min.js"></script>
+        <script type="text/javascript" src="./js/jquery.min.js"></script>
         <!--
         <script type="text/javascript" src="./highcharts.js"></script>
         <script type="text/javascript" src="./exporting.js"></script>
@@ -21,7 +21,7 @@
         }, null, document.getElementsByTagName('head')[0]);
 
         Highcharts.theme = {
-   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   colors: ["#1F77B4", "#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
    chart: {
       backgroundColor: null,
       style: {
@@ -103,57 +103,69 @@
 
         Highcharts.setOptions(Highcharts.theme);
         $(function () {
-            $('#container').highcharts({subtitle: {text: ''}, 
+            $('#container').highcharts({chart: {type: 'column', 
+height: 300}, 
 title: {text: 'Tese de doutorado'}, 
-series: [{data: [[2016,
-1],
-[2017,
-1],
-[2019,
-1]], 
-name: 'Total'}], 
-yAxis: {labels: {overflow: 'justify'}, 
+subtitle: {text: ''}, 
+xAxis: {title: {text: ''}, 
+type: 'category'}, 
+yAxis: {min: 0, 
 title: {text: 'Quantidade', 
 align: 'middle'}, 
+labels: {overflow: 'justify'}, 
 stackLabels: {enabled: true, 
-format: '{stack}'}, 
-min: 0}, 
-chart: {type: 'column', 
-height: 300}, 
-tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+format: '{stack}'}}, 
+tooltip: {enabled: true, 
+valueSuffix: '', 
 shared: false, 
 headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
-valueSuffix: '', 
-enabled: true}, 
-credits: {enabled: false}, 
-plotOptions: {column: {stacking: null}, 
-series: {shadow: 'true'}, 
-bar: {dataLabels: {enabled: false}}}, 
-xAxis: {type: 'category', 
-title: {text: ''}}, 
-legend: {layout: 'vertical', 
+pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>'}, 
+plotOptions: {bar: {dataLabels: {enabled: false}}, 
+column: {stacking: null}, 
+series: {shadow: 'true'}}, 
+legend: {enabled: false, 
+layout: 'vertical', 
 align: 'right', 
-enabled: false, 
+verticalAlign: 'middle', 
 borderWidth: 1, 
 backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
-verticalAlign: 'middle', 
-shadow: true}});
+shadow: true}, 
+credits: {enabled: false}, 
+series: [{name: 'Total', 
+data: [[2016,
+1],
+[2017,
+2],
+[2020,
+4],
+[2021,
+1]]}]});
         });
         </script>
         
                 <h3>Tese de doutorado</h3> <br>
                     <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
-                    Número total de itens: 3<br>
+                    Número total de itens: 8<br>
                     
                     
-                    <div id="dv-year-2019"><h3 class="year">2019</h3> <table>
-            <tr valign="top"><td>1. &nbsp;</td> <td>Romildo Alves Berenguer. <b>Química Teórica e Experimental Aplicada a Materiais de Construção Civil</b>. Tese (Doutorado em Ciência de Materiais) - Universidade Federal de Pernambuco, . 2019.<br><i><font size=-1>Supervisor: <a href="https://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+                    <div id="dv-year-2021"><h3 class="year">2021</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><a href="http://lattes.cnpq.br/7908949948976515">Mathews Lima dos Santos</a>. <b>Fragilização por metal líquido de Aços Avançados de Alta Resistência durante a soldagem robotizada aplicada no Setor Automotivo</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            </table></div><div id="dv-year-2020"><h3 class="year">2020</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><a href="http://lattes.cnpq.br/5008092942844153">Gleryston Thiago Gomes da Silva</a>. <b>Cinética de oxidação em altas temperaturas de revestimentos de aço inoxidável 347 em substrato de aço 2,25 Cr - 1 MoCrMetal mecânico</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td><a href="http://lattes.cnpq.br/8983036322060446">Guilherme Gadelha de Sousa Figueiredo</a>. <b>Desenvolvimento da Manufatura Aditiva por Deposição a Arco pelo Processo GMAW-Pulsado Robotizado de Multicamadas de Aço Inoxidável 316LSi</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td><a href="http://lattes.cnpq.br/0750160286058633">Helen Rodrigues Araújo</a>. <b>Avaliação da manufatura aditiva por deposição a laser de aço AISI H13 para produção e caracterização de ferramenta para trabalho a quente</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td><a href="http://lattes.cnpq.br/6942430435924937">Jefferson Segundo de Lima</a>. <b>Análise e seleção de parâmetros para Manufatura aditiva por deposição a arco do aço AISI 316LSi utilizando a técnica de curto-circuito controlado</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, . 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
             </table></div><div id="dv-year-2017"><h3 class="year">2017</h3> <table>
-            <tr valign="top"><td>1. &nbsp;</td> <td><a href="https://lattes.cnpq.br/6622866489872495">Fillipe Stephany de Souza Virgolino</a>. <b>Desenvolvimento de Atuadores Wave Spring Washers com Ligas de Memória de Forma</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. 2017.<br><i><font size=-1>Orientador: <a href="https://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            <tr valign="top"><td>1. &nbsp;</td> <td><a href="http://lattes.cnpq.br/2167844919087855">Ana Carla Santos da Silva</a>. <b>Aplicabilidade do processo Tandem Arc com quatro arames em soldagem com costura helicoidal em campo do aço ASTM A572 Gr 50</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td><a href="http://lattes.cnpq.br/6622866489872495">Fillipe Stephany de Souza Virgolino</a>. <b>Desenvolvimento de Atuadores Wave Spring Washers com Ligas de Memória de Forma</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
             </table></div><div id="dv-year-2016"><h3 class="year">2016</h3> <table>
-            <tr valign="top"><td>1. &nbsp;</td> <td>Camila Albuquerque Fernandes. <b>Avaliação da mecânica da fratura na soldagem híbrida laser-arco em aços NK: KD36</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. 2016.<br><i><font size=-1>Supervisor: <a href="https://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Camila Albuquerque Fernandes. <b>Avaliação da mecânica da fratura na soldagem híbrida laser-arco em aços NK: KD36</b>. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. 2016.<br><i><font size=-1>Supervisor: <a href="http://lattes.cnpq.br/2200553486822519">Tiago Felipe de Abreu Santos</a>.</font></td></tr>
             </table></div>
                     </table>
-                <br><p><br>(*) Relatório criado com produções desde 2015 até 2023
-<br>Data de processamento: 29/06/2023 21:56:41<br>         <div id="footer">         Relatório gerado por <a href="https://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:soldamat.intm@ufpe.br">soldamat.intm@ufpe.br</a>         </div> <script type="text/javascript">            var gaJsHost = (("httpss:" == document.location.protocol) ? "httpss://ssl." : "https://www.");            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));            </script>            <script type="text/javascript">            try {              var pageTracker = _gat._getTracker("UA-5266248-1");              pageTracker._trackPageview();            } catch(err) {}            </script></body></html>
+                <br><p><br>(*) Relatório criado com produções desde 2015 até 2025
+<br>Data de processamento: 14/10/2025 17:38:37<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V9</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:soldamat.demec@ufpe.br">soldamat.demec@ufpe.br</a>         </div> </body></html>
               
