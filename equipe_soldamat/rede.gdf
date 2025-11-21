@@ -1,5 +1,5 @@
 nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
-0,2200553486822519,Tiago Felipe de Abreu Santos,[Sem rotulo],,,1.0,79,56,0,0,23,0,0,1,8,18,27,'255,255,255'
-1,8983036322060446,Guilherme Gadelha de Sousa Figueiredo,[Sem rotulo],,,1.0,27,7,0,0,14,1,5,0,0,0,0,'255,255,255'
+0,2200553486822519,Tiago Felipe de Abreu Santos,[Sem rotulo],,,1.0,79,56,0,0,23,0,0,1,9,19,27,'255,255,255'
+1,8983036322060446,Guilherme Gadelha de Sousa Figueiredo,[Sem rotulo],,,1.0,26,7,0,0,14,1,4,0,0,0,0,'255,255,255'
 edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
 0,1,12.0
