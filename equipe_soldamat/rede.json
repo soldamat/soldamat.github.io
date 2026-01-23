@@ -1,9 +1,12 @@
 {
 "nodes":[
-{ "name":"Tiago Felipe de Abreu Santos", "idlattes":"2200553486822519", "rotulo":"[Sem rotulo]", "collaborationrank":1.0 },
-{ "name":"Guilherme Gadelha de Sousa Figueiredo", "idlattes":"8983036322060446", "rotulo":"[Sem rotulo]", "collaborationrank":1.0 }
+{ "name":"Tiago Felipe de Abreu Santos", "idlattes":"2200553486822519", "rotulo":"[Sem rotulo]", "collaborationrank":1.0168483257293701 },
+{ "name":"Guilherme Gadelha de Sousa Figueiredo", "idlattes":"8983036322060446", "rotulo":"[Sem rotulo]", "collaborationrank":1.0168483257293701 },
+{ "name":"Ivan Bezerra de Mello Picchi", "idlattes":"4042606185829036", "rotulo":"[Sem rotulo]", "collaborationrank":0.9663032293319702 }
 ],
 "links":[
-{ "source":0, "target":1, "value":12.0 }
+{ "source":0, "target":1, "value":12.0 },
+{ "source":0, "target":2, "value":11.0 },
+{ "source":1, "target":2, "value":11.0 }
 ]
 }
